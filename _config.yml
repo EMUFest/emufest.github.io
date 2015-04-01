@@ -5,7 +5,7 @@ locale: en_US
 description: International Electroacoustic Music Festival.
 logo: E_site-logo.png
 search: true
-url: http://emufest.github.io/
+url: http://emufest.github.io
 
 # Jekyll configuration
 
@@ -34,9 +34,9 @@ owner:
   name: EMUFest
   avatar: bio-photo.jpg
   email: info@emufest.org
-  disqus-shortname:
+  disqus-shortname: emufest
   twitter: #username
-  facebook: #username
+  facebook: EmufestRoma
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username

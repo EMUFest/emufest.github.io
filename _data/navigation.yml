@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: EMUFest 2015
+  url: /emufest-2015/
 
 - title: News
   url: /articles/
@@ -9,8 +9,8 @@
 - title: Blog
   url: /blog/
 
-- title: EMUFest 2015
-  url: /emufest-2015/
+- title: About
+  url: /about/
 
 - title: Conservatorio S. Cecilia
   url: http://www.conservatoriosantacecilia.it

@@ -1,26 +1,26 @@
 # Authors
 
-# billy_rick:
-#   name: Billy Rick
-#   web: http://thewhip.com
-#   email: billy@rick.com
-#   bio: "What do you want, jewels? I am a very extravagant man."
-#   avatar: bio-photo-2.jpg
-#   twitter: extravagantman
-#   google:
-#     plus: BillyRick
-#
-# cornelius_fiddlebone:
-#   name: Cornelius Fiddlebone
-#   email: cornelius@thewhip.com
-#   bio: "I ordered what?"
-#   avatar: bio-photo.jpg
-#   twitter: rhymeswithsackit
-#   google:
-#     plus: CorneliusFiddlebone
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
 
-emustaff:
-  name: Staff
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
+
+emu_staff:
+  name: The Staff
   web: 
   email: smerm-staff@googlegroups.com
   bio: "Power Rangers"
@@ -30,8 +30,8 @@ emustaff:
     plus: 
   github: 
 
-giuseppe_silvi:
-  name: Giuseppe Silvi
+giuseppe:
+  name: Giuseppe
   web: http://www.giuseppesilvi.com
   email: me@giuseppesilvi.com
   bio: "electroacoustic musician"
@@ -41,8 +41,8 @@ giuseppe_silvi:
     plus: 
   github: grammaton
   
-elena_dalo:
-  name: Elena D'Alò
+elena:
+  name: Elena
   web: 
   email: 
   bio: ""

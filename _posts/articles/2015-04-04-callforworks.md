@@ -4,7 +4,7 @@ title: "Call for Works"
 excerpt: "Call for Works to be selected for the 8th edition of _EMUFest_"
 categories: articles
 tags: [call, electronic, electroacoustic, music, emufest 2015]
-<!-- author: giuseppe_silvi -->
+author: emu_staff
 comments: false
 share: true
 image:
@@ -15,13 +15,17 @@ image:
 
 The Rome Conservatoire presents… 
 
-> *conservatoire* |kənˈsəːvətwɑː|
-> noun Brit.
-> a college for the study of classical music or other arts, typically in the continental European tradition.
-> _she studies piano and violin at the Paris Conservatoire._
->
-> ORIGIN late 18th cent.: French, from Italian *conservatorio*, from late Latin *conservatorium*,
-> from *conservare ‘to preserve’*.
+ > **conservatoire**
+ >
+ >|kənˈsəːvətwɑː|
+ >
+ > noun Brit.
+ >
+ >a college for the study of classical music or other arts, typically in the continental European tradition.
+ >_she studies piano and violin at the Paris Conservatoire._
+ >
+ > ORIGIN late 18th cent.: French, from Italian *conservatorio*, from late Latin *conservatorium*,
+ > from *conservare ‘to preserve’*.
 
 ## Thomas Müntzer
 
