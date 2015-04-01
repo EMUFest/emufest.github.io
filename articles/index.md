@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Articles
+title: Archive of Posts
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
