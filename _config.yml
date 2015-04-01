@@ -3,9 +3,9 @@
 title: EMUFest
 locale: en_US
 description: International Electroacoustic Music Festival.
-logo: site-logo.png
+logo: E_site-logo.png
 search: true
-url: 
+url: http://emufest.github.io/
 
 # Jekyll configuration
 

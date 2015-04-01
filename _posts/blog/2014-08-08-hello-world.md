@@ -12,9 +12,7 @@ date: 2014-08-08T15:39:55-04:00
 
 to print the time:
 
-{% highlight %}
 date "+date: %Y-%m-%dT%H:%M:%S"
-{% endhighlight %}
 
 ## Title
 
