@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Works"
-excerpt: "Call for Works to be selected for the 8th edition of *EMUFest*"
+excerpt: "Call for Works to be selected for the 8th edition of EMUFest"
 categories: articles
 tags: [call, electronic, electroacoustic, music, emufest 2015]
 author: emu_staff
