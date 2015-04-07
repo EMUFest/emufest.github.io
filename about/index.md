@@ -62,7 +62,7 @@ email: info@emufest.org
 <tr>
 <td>
 	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		<img src="{{site.url}}/images/partners/crm_logo.png">
 		</image>
 	</div>
 </td>
@@ -82,7 +82,7 @@ email: info@emufest.org
 <tr>
 <td>
 	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		<img src="{{site.url}}/images/partners/crm_logo.png">
 		</image>
 	</div>
 </td>
@@ -99,23 +99,4 @@ email: info@emufest.org
 	</div>
 </td>
 </tr>
-<tr>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
-		</image>
-	</div>
-</td>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
-		</image>
-	</div>
-</td>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
-		</image>
-	</div>
-</td>
-</tr></table>
+</table>
