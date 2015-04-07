@@ -6,6 +6,7 @@ description: International Electroacoustic Music Festival
 logo: E_site-logo.png
 search: true
 url: http://emufest.github.io
+# url: http://127.0.0.1:4000/
 
 # Jekyll configuration
 
@@ -32,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: EMUFest
-  avatar: bio-photo.jpg
+  avatar: Staff_LOGO.png
   email: info@emufest.org
   disqus-shortname: emufest
   twitter: #username

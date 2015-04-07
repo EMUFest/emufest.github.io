@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Archive of Posts
-excerpt: "An archive of articles sorted by date."
+title: News
+excerpt: "News sorted by date."
 search_omit: true
 ---
+
+News about the coming EMUFest 2015
 
 <ul class="post-list">
 {% for post in site.categories.articles %} 

@@ -7,9 +7,9 @@
    ========================================================================== */
 
 .highlight {
-	background-color: #efefef;
+	background-color: #d7d7d7;
 	font-family: $code-font;
-	color: #333332;
+	color: #2d2d2d;
 	margin-bottom: 1.5em;
 	@include rounded($border-radius);
 	pre {
