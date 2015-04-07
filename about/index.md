@@ -58,10 +58,64 @@ email: info@emufest.org
 
 ##Partners
 
-|:-----:||:-----:|:-----:|
-| ![radiocemat]({{ site.url }}/images/partners/radiocematlogo.png) | partner2 | partner3 |
-|----
-| partner1 | partner2 | partner3 |
-|----
-{: .table}
-
+<table>
+<tr>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+</tr>
+<tr>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+</tr>
+<tr>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+</tr></table>
