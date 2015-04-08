@@ -54,10 +54,8 @@ For Category 3 the conservatory will provide performers chosen amongst its teach
 
 **LINK PAGINA DEL FORM DA INSERIRE**
 
-> Information email contact:
-
-> <a href="mailto:info@emufest.org">*info@emufest.org*</a>
-
+> Information email contact: <a href="mailto:info@emufest.org">*info@emufest.org*</a>
+>
 > <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
 
 Further information about the EMUFest will be published [HERE!](http://www.emufest.org)
