@@ -25,7 +25,7 @@ Works will have to fall in one of the following four categories or combinations:
   * recorded audiovisual works where video and audio have the same artistic relevance.
  3. Live performances with electronics:
   * works with acoustic instruments and live electronics and/or recorded audio, performances of live electronics only. For the ensemble will be considered organics with 7 orchestral instruments maximum;
-  * the acoustic instruments available are: two violins, viola, cello, two flute (C and / or G), oboe, clarinet (Cl. in Bb and bass cl.), bassoon, 4 saxophones (soprano, alto, tenor, baritone), two percussionists, electric and two classical guitars, piano, liturgic organ. 
+  * the acoustic instruments available are: 2 violins, viola, cello, 2 flutes (C and / or G), oboe, clarinet (Cl. in Bb and bass cl.), bassoon, 4 saxophones (soprano, alto, tenor, baritone), 2 percussionists, electric and 2 classical guitars, piano, liturgic organ. 
 
 **Each author can submit a maximum of one works.**
 
@@ -50,7 +50,9 @@ Submissions will include a complete description of the technical set-up needed a
    * if pre-existing audio is needed, audio file with separate or interlaced tracks in WAV or AIF format with 16 or 24 bit rate and 44100 Hz sampling rate;
    * live electronics applications must be accompanied by all software components for the functioning of the work, else exclusion by the festival.
 
-For category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.
+For Category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.
+
+**LINK PAGINA DEL FORM DA INSERIRE**
 
 Information email contact:
 
