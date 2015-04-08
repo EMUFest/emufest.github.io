@@ -54,7 +54,7 @@ For category 3 the conservatory will provide performers chosen amongst its teach
 
 Information email contact:
 
-info@emufest.org
+<a href="mailto:info@emufest.org">*info@emufest.org*</a>
 
 <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
 
