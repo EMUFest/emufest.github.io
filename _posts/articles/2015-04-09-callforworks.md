@@ -3,7 +3,7 @@ layout: post
 title: "Call for Works"
 excerpt: "Call for Works to be selected for the 8th edition of EMUFest"
 categories: articles
-tags: [call, electronic, electroacoustic, music, emufest 2015, acusmatic]
+tags: [call, electronic, electroacoustic, music, emufest 2015]
 author: emu_staff
 comments: false
 share: true
@@ -17,7 +17,7 @@ The Rome Conservatoire presents the 8th edition of EMUFest (International Festiv
 
 **The festival will take place from 21st to 26th September 2015.**
 
-Works will have to fall in one of the following four categories or combinations:
+Works will have to fall in one of the following three categories or combinations:
  
  1. Acousmatic works:
   * compositions for recorded-only sounds (synthesised or/and concrete), from one to eight channels.
@@ -54,11 +54,11 @@ For Category 3 the conservatory will provide performers chosen amongst its teach
 
 **LINK PAGINA DEL FORM DA INSERIRE**
 
-Information email contact:
+> Information email contact:
 
-<a href="mailto:info@emufest.org">*info@emufest.org*</a>
+> <a href="mailto:info@emufest.org">*info@emufest.org*</a>
 
-<a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
+> <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
 
 Further information about the EMUFest will be published [HERE!](http://www.emufest.org)
 
