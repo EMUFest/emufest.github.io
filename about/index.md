@@ -52,8 +52,20 @@ PADAWAN **Elena D'Alò**
 
 ##Contacts
 
-email: info@emufest.org
+ > email: info@emufest.org
+ 
+ > phone: (+39) 06 360967
 
+Postal address of the festival committee:
+
+ > **EMUFest**
+ >
+ > Conservatorio S. Cecilia
+ >
+ > Via dei Greci, 18 – 00187 Roma
+ >
+ > ITALY
+ >
 ----
 
 ##Partners
