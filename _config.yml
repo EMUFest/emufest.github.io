@@ -1,3 +1,8 @@
+# multilingual 
+
+timezone: CEST
+lang: en
+
 # Site wide configuration
 
 title: EMUFest
@@ -5,8 +10,8 @@ locale: en_US
 description: International Electroacoustic Music Festival
 logo: E_site-logo.png
 search: true
-url: http://emufest.github.io
-# url: http://127.0.0.1:4000/
+# url: http://emufest.github.io
+url: http://127.0.0.1:4000/
 
 # Jekyll configuration
 
@@ -18,6 +23,8 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  # - octopress-multilingual
+  # - octopress-linkblog
 
 kramdown:
   auto_ids: true

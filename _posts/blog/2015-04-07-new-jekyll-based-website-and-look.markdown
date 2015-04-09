@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Jekyll Based Website"
+lang: en
 modified:
 categories: blog
 excerpt: "New Website and Look"
