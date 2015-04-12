@@ -7,8 +7,12 @@ Official Page
 #### To do list
 
  - [x] @grammaton template
- - [ ] @nenelenen contenuti
+ - [x] @nenelenen call
+ - [ ] @nicb / @scalas form
+ - [ ] check contenuti
+ - [ ] @grammaton / @nenelenen grafica (logo,sfondo)
  - [ ] online 15 aprile
+ - [ ] passare all'atto: grafica
 
 ----
  
