@@ -11,6 +11,7 @@ Official Page
  - [ ] @nicb / @scalas form
  - [ ] check contenuti
  - [ ] @grammaton / @nenelenen grafica (logo,sfondo)
+ - [ ] loghi sponsor
  - [ ] online 15 aprile
  - [ ] passare all'atto: grafica
 
