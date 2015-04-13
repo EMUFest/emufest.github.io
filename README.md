@@ -6,6 +6,7 @@ Official Page
 
 #### To do list
 
+ - [ ] URGENTE!!! EMUFest 2015: descrizione - banner
  - [x] @grammaton template
  - [x] @nenelenen call
  - [ ] @nicb / @scalas form
