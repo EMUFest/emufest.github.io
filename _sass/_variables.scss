@@ -19,15 +19,16 @@ body {
 
 
 // COLORS =====================================================
+$supercolor         : #032724;
 $body-color         : #eaeaea;
-$text-color         : #191919;
+$text-color         : $supercolor;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
 $border-color       : #d2d351; // ddd
 $white              : #eaeaea;
-$black              : #191919;
+$black              : $supercolor;
 $accent-color       : $black;
-$link-color         : #191919;
+$link-color         : $supercolor;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Se
 
 ## Period
 
-Scheduled: 20 Sep 2015 to 26 Sep 2015
+Scheduled: 21 Sep 2015 to 26 Sep 2015
 
 Location: Auditorium Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
 
