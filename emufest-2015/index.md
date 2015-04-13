@@ -24,7 +24,7 @@ Scheduled: 20 Sep 2015 to 26 Sep 2015
 
 Location: Auditorium Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
 
-**Pro-tip:** Se usiamo **EVENTBRITE** come lo scorso anno, un riquadro evidenziato come questo potrebbe mettere in evidenza le modalità di prenotazione.
+<!--**Pro-tip:** Se usiamo **EVENTBRITE** come lo scorso anno, un riquadro evidenziato come questo potrebbe mettere in evidenza le modalità di prenotazione.
 {: .notice}
 
 | 20 Sep   | 21 Sep   | 22 Sep   | 23 Sep   | 24 Sep   | 25 Sep   | 26 Sep   |
@@ -37,7 +37,7 @@ Location: Auditorium Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome,
 | Concerto | Concerto | Concerto | Concerto | Concerto | Concerto | Concerto |
 |=====
 | Cena | Cena | Cena | Cena | Cena | Cena | Cena |
-{: .table}
+{: .table} -->
 
 ---
 
