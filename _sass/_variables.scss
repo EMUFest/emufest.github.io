@@ -20,11 +20,13 @@ body {
 
 // COLORS =====================================================
 $supercolor         : #032724;
+$ombreduble         : #a017a0;
+
 $body-color         : #eaeaea;
 $text-color         : $supercolor;
-$base-color         : #343434;    
-$comp-color         : spin($base-color, 180); 
-$border-color       : #d2d351; // ddd
+$base-color         : #343434;
+$comp-color         : spin($base-color, 90); 
+$border-color       : $ombreduble; // ddd
 $white              : #eaeaea;
 $black              : $supercolor;
 $accent-color       : $black;
