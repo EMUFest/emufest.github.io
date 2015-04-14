@@ -10,14 +10,22 @@ $doc-line-height: 24;
 
 $border-radius: 3px;
 
-
 // set-up the body font-size / line-height
 body {
+  background-image: url(http://emufest.github.io//images/bg/bg.jpg);
+  background-repeat: repeat;
   margin-top: 0px + $doc-line-height;
   font-size: 0px + $doc-font-size;  
-}
-
-
+  
+//  background:
+//  radial-gradient(circle, transparent 30%, $body-color 30%, $body-color 90%, transparent 90%, transparent),
+//  radial-gradient(circle, transparent 30%, $body-color 30%, $body-color 90%, transparent 90%, transparent) 50px 50px,
+//  linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px,
+//  linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;
+//  background-color: $body-color;
+//  background-size:10px 10px, 100px 100px, 50px 50px, 50px 50px;
+  
+  
 // COLORS =====================================================
 $supercolor         : #032724;
 $ombreduble         : #821e82;
@@ -40,6 +48,7 @@ $table-hover-color            : darken($table-background, 2);
 $table-stripe-color           : darken($table-background, 4);
 $table-stripe-color-hover     : darken($table-stripe-color, 5);
 
+}
 
 // MEDIA QUERIES ==============================================
 $micro            : "only screen and (min-width: 30em)";
@@ -47,3 +56,4 @@ $small            : "only screen and (min-width: 37.5em)";
 $medium           : "only screen and (min-width: 48em)";
 $large            : "only screen and (min-width: 62em)";
 $x-large          : "only screen and (min-width: 86.375em)";
+
