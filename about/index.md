@@ -30,42 +30,44 @@ _Giorgio NOTTOLI_
 
 ##Commitee
 
-President of the Conservatory **Dr. Luigi Ferrari**
+President of the Conservatory   
+Dr. **Luigi FERRARI**
 
-Director of the Conservatory **M° Alfredo Santoloci**
+Director of the Conservatory   
+Mº **Alfredo SANTOLOCI**
 
-Festival COORDINATORS:
-
-**M° Michelangelo Lupone**
-
-**M° Nicola Bernardini**
+Festival COORDINATORS:   
+Mº **Michelangelo LUPONE**   
+Mº **Nicola BERNARDINI**
 
 ----
 
-##Staff
+## Staff
 
-JEDI **Giuseppe Silvi**
+Tech Supervisor   
+Mº **Federico SCALAS**
 
-PADAWAN **Elena D'Alò**
+#### webMasters
+JEDI   
+**Giuseppe SILVI**
+
+PADAWAN   
+**Elena D'ALÒ**
 
 ----
 
 ##Contacts
 
- > email: info@emufest.org
- 
- > phone: (+39) 06 360967
+ > * email: info@emufest.org 
+ > * phone: (+39) 06 360967
 
 Postal address of the festival committee:
 
  > **EMUFest**
- >
  > Conservatorio S. Cecilia
- >
  > Via dei Greci, 18 – 00187 Roma
- >
  > ITALY
- >
+ 
 ----
 
 ##Partners
@@ -86,27 +88,7 @@ Postal address of the festival committee:
 </td>
 <td>
 	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
-		</image>
-	</div>
-</td>
-</tr>
-<tr>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/crm_logo.png">
-		</image>
-	</div>
-</td>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
-		</image>
-	</div>
-</td>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		<img src="{{site.url}}/images/partners/logo_cemat.gif">
 		</image>
 	</div>
 </td>
