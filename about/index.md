@@ -81,7 +81,7 @@ Postal address of the festival committee:
 	</div>
 </td>
 <td>
-	<div style="width: auto; height: auto; padding: 20px;">
+	<div style="width: 75px; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/radiocematlogo.png">
 		</image>
 	</div>
