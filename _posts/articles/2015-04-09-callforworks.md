@@ -26,9 +26,6 @@ Works will have to fall in one of the following three categories or combinations
  3. **Live performances with electronics**:   
     works with acoustic instruments and live electronics and/or recorded audio, performances of live electronics only. 
 	
-	For the ensemble will be considered organics with 7 orchestral instruments maximum;
-  * the acoustic instruments available are: 2 violins, viola, cello, 2 flutes (C and / or G), oboe, clarinet (Cl. in Bb and bass cl.), bassoon, 4 saxophones (soprano, alto, tenor, baritone), 2 percussionists, electric and 2 classical guitars, piano, liturgic organ. 
-
 **Each author can submit a maximum of one works.**
 
 All works submitted for the 8th edition of the Festival, be they selected or not, will be held permanently in the S. Cecilia Conservatoire Library, unless judged completely non-relevant.
