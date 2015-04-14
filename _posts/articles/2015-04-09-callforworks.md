@@ -30,7 +30,7 @@ Works will have to fall in one of the following three categories or combinations
 
 All works submitted for the 8th edition of the Festival, be they selected or not, will be held permanently in the S. Cecilia Conservatoire Library, unless judged completely non-relevant.
 
-Submission and registration to EMUfest is done by filling the **submission form** with all the required information and sending all necessary materials to the festival committee.
+Submission and registration to EMUFest is done by filling the **submission form** with all the required information and sending all necessary materials to the festival committee.
 
 Once the form has been filled, the author will receive a personal code via email, the code will have to be marked on the envelope containing the submitted work. Such code will uniquely identify each work.
 
@@ -67,9 +67,8 @@ Submissions will include a complete description of the technical set-up needed a
 
 **SUBMISSION FORM available from the 1th of May**
 
-> Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>
->
+> Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>   
 > <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
 
-Further information about the EMUFest will be published [HERE!](http://www.emufest.org)
+Further information about the EMUFest will be published on [emufest.org](http://www.emufest.org)
 
