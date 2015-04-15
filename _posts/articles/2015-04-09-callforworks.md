@@ -66,6 +66,8 @@ the acoustic instruments available are:
   - piano
   - liturgic organ
 
+All this material must be sent compiling the form, and must be submitted in digital format (not paper).
+
 **SUBMISSION FORM available from the 1th of May**
 
 > Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>   
