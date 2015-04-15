@@ -9,9 +9,9 @@
   font-family: $alt-font;
   @include font-size(14);
   font-style: italic;
-  color: lighten($text-color,20);
+  color: lighten($text-color,16);
   a {
-    color: lighten($text-color,20);
+    color: lighten($text-color,16);
   }
 }
 

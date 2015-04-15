@@ -10,8 +10,8 @@ locale: en_US
 description: International Electroacoustic Music Festival
 logo: E_site-logo.png
 search: true
-url: http://emufest.github.io
-# url: http://127.0.0.1:4000/
+# url: http://emufest.github.io
+url: http://127.0.0.1:4000/
 
 # Jekyll configuration
 

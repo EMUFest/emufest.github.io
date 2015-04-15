@@ -43,7 +43,7 @@ Location: Auditorium Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome,
 
 ## Places
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2969.3215431453746!2d12.478517!3d41.907446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6055e131a33b%3A0x26a9a22f619a40a6!2sConservatorio+Di+Musica+S.+Cecilia!5e0!3m2!1sen!2sit!4v1427887415450" width="710" height="250" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2969.3215431453746!2d12.478517!3d41.907446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6055e131a33b%3A0x26a9a22f619a40a6!2sConservatorio+Di+Musica+S.+Cecilia!5e0!3m2!1sen!2sit!4v1427887415450" width='100%' height="250" frameborder="0" style="border:0"></iframe>
 
 ---
 
