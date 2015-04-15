@@ -54,6 +54,7 @@ Submissions will include a complete description of the technical set-up needed a
 For Category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.   
     For the ensemble will be considered organics with 7 orchestral instruments maximum;   
 	the acoustic instruments available are:
+         - 2 voices (Voices are soprano e mezzo soprano)
 	 - 2 violins, viola, cello
 	 - 2 flutes (C and / or G)
 	 - oboe
