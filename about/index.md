@@ -93,4 +93,19 @@ Postal address of the festival committee:
 	</div>
 </td>
 </tr>
+<tr>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
+		</image>
+	</div>
+</td>
+<td>
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/LOGO_TOR_VERGATA.png">
+		</image>
+	</div>
+</td>
+
+</tr>
 </table>
