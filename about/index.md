@@ -47,12 +47,21 @@ Mº **Nicola BERNARDINI**
 Tech Supervisor   
 Mº **Federico SCALAS**
 
-#### webMasters
-JEDI   
+Sound Director   
 **Giuseppe SILVI**
 
-PADAWAN   
-**Elena D'ALÒ**
+Staff Coordinator   
+**Marco DE MARTINO**
+
+Staff   
+**Francesco BIANCO**   
+**Elena D’ALÒ**   
+**Luana LUNETTA**   
+**Leonardo MAMMOZZETTI**   
+**Massimiliano MASCARO**   
+**Federico PAGANELLI**   
+**Anna TERZAROLI**   
+**Francesco ZIELLO**   
 
 ----
 
