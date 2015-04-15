@@ -66,7 +66,7 @@ the acoustic instruments available are:
   - piano
   - liturgic organ
 
-All this material must be sent compiling the form, and must be submitted in digital format (not paper).
+All this material must be sent compiling the form, and submitted in digital format.
 
 **SUBMISSION FORM available from the 1th of May**
 
