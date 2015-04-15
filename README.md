@@ -6,15 +6,15 @@ Official Page
 
 #### To do list
 
- - [ ] URGENTE!!! EMUFest 2015: descrizione - banner
+ - [ ] URGENTE!!! EMUFest 2015: descrizione
+ - [ ] URGENTE!!! check contenuti
+ - [ ] @nicb / @scalas form
  - [x] @grammaton template
  - [x] @nenelenen call
- - [ ] @nicb / @scalas form
- - [ ] check contenuti
- - [ ] @grammaton / @nenelenen grafica (logo,sfondo)
+ - [x] @grammaton / @nenelenen grafica (logo,sfondo)
  - [ ] loghi sponsor
  - [ ] online 15 aprile
- - [ ] passare all'atto: grafica
+ - [ ] passare all'atto: proporlo agli altri per grafica
 
 ----
  
