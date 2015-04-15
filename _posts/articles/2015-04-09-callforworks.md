@@ -13,7 +13,8 @@ image:
   creditlink: 
 ---
 
-The Rome Conservatoire presents the 8th edition of EMUFest (International Festival of Electroacoustic Music of Rome)
+Conservatorio S. Cecilia of Rome presents the 8th edition of EMUFest    
+(International Festival of Electroacoustic Music of Rome)
 
 **The festival will take place from 21st to 26th September 2015.**
 
@@ -28,13 +29,9 @@ Works will have to fall in one of the following three categories or combinations
 	
 **Each author can submit a maximum of one works.**
 
-All works submitted for the 8th edition of the Festival, be they selected or not, will be held permanently in the S. Cecilia Conservatoire Library, unless judged completely non-relevant.
+Submission and registration to EMUFest is done by filling the **submission form** with all the required information and uploading all necessary materials to the festival committee.
 
-Submission and registration to EMUFest is done by filling the **submission form** with all the required information and sending all necessary materials to the festival committee.
-
-Once the form has been filled, the author will receive a personal code via email, the code will have to be marked on the envelope containing the submitted work. Such code will uniquely identify each work.
-
-**The registration form will be more not available after 23:59 am CEST on May 31st, 2015.** The materials must be sent to the Festival office by the closing date of the announcement (date of postmark).
+**The registration form will be more not available after 23:59 am CEST on May 31st, 2015.**
 
 **The selected works will be announced by June 15th, 2015.**
 
