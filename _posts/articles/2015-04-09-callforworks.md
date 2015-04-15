@@ -63,13 +63,7 @@ For Category 3 the conservatory will provide performers chosen amongst its teach
 	 - percussion (max 2 percussionists)
 	 - electric and 2 classical guitars
 	 - piano
-	 - liturgic organ   
- score and parts in PDF format;   
- audio file (MP3, WAV or AIF format) with a complete recording of the work, if existing;   
- if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate;   
-live electronics applications must be accompanied by all software components for the functioning of the work, else exclusion by the festival.   
-
-For Category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.
+	 - liturgic organ
 
 **SUBMISSION FORM available from the 1th of May**
 
