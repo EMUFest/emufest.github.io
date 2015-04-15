@@ -47,24 +47,23 @@ Submissions will include a complete description of the technical set-up needed a
  2. **Audiovisual compositions**:   
     HD video with a minimum resolution of 1080p.
  3. **Live performances with electronics**:   
-    score and parts in PDF format;   
-    audio file (MP3, WAV or AIF format) with a complete recording of the work, if existing;   
-    if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate;   
-   live electronics applications must be accompanied by all software components for the functioning of the work, else exclusion by the festival.   
-For Category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.   
-    For the ensemble will be considered organics with 7 orchestral instruments maximum;   
-	the acoustic instruments available are:
-         - 2 voices (Voices are soprano e mezzo soprano)
-	 - 2 violins, viola, cello
-	 - 2 flutes (C and / or G)
-	 - oboe
-	 - clarinet (Cl. in Bb and bass cl.)
-	 - bassoon
-	 - 4 saxophones (soprano, alto, tenor, baritone)
-	 - percussion (max 2 percussionists)
-	 - electric and 2 classical guitars
-	 - piano
-	 - liturgic organ
+    - score and parts in PDF format;   
+    - audio file (MP3, WAV or AIF format) with a complete recording of the work, if existing;   
+    - if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate;   
+   - live electronics applications must be accompanied by all software components for the functioning of the work, else exclusion by the festival.   
+   For Category 3 the conservatory will provide performers chosen amongst its teachers and high-courses students. Technical performers will be chosen among the students of the electronic music course. Should authors decide to use external performers they will have to bear travel, accommodation and any other expense.   
+   For the ensemble will be considered organics with 7 orchestral instruments maximum; the acoustic instruments available are:
+   - 2 voices (Voices are soprano e mezzo soprano)
+   - 2 violins, viola, cello
+   - 2 flutes (C and / or G)
+   - oboe
+   - clarinet (Cl. in Bb and bass cl.)
+   - bassoon
+   - 4 saxophones (soprano, alto, tenor, baritone)
+   - percussion (max 2 percussionists)
+   - electric and 2 classical guitars
+   - piano
+   - liturgic organ
 
 **SUBMISSION FORM available from the 1th of May**
 
