@@ -32,9 +32,6 @@ _Giorgio NOTTOLI_
 
 ##Commitee
 
-President of the Conservatory   
-Dr. **Luigi FERRARI**
-
 Director of the Conservatory   
 Mº **Alfredo SANTOLOCI**
 
@@ -42,12 +39,16 @@ Festival COORDINATORS:
 Mº **Michelangelo LUPONE**   
 Mº **Nicola BERNARDINI**
 
+Teaching Staff:   
+Mº **Antonietta CEROCCHI**   
+Prof. **Marco GIORDANO**   
+Mº **Luigi PIZZALEO**   
+Mº **Riccardo SANTOBONI**   
+Mº **Federico SCALAS** (Tech Supervisor)   
+
 ----
 
 ## Staff
-
-Tech Supervisor   
-Mº **Federico SCALAS**
 
 Sound Director   
 **Giuseppe SILVI**
