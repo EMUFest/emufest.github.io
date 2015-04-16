@@ -59,7 +59,7 @@ in modo indiretto, è anche l’esortazione per noi fruitori, a cogliere gli
 stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
 
 
-### **[Call for Works](/articles/callforworks)**
+> **[Call for Works](/articles/callforworks)**
 
 ## Period
 
