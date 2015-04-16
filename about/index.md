@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the EMUFest
+title: About EMUFest
 excerpt: "International Electroacoustic Music Festival"
 modified: 2015-03-31T00:26:38
 image:
@@ -14,7 +14,7 @@ image:
 
 ## EMUFest
 
-Only sixty years after its introduction, Electronic and Electroacoustic Music has already won wide circulation. A large majority of music that we listen to is now produced, at least partly, with electronic means, through which many of the sounds of our time are developed. Nowadays much of what we have come to think of as 'art related music' is electroacoustic music: it is created in private and public production and research centres throughout the world; it is also common, however, that individual composers use their own personal equipment. 
+Sixty years after its introduction, Electronic and Electroacoustic Music has already won wide circulation. A large majority of music that we listen to is now produced, at least partly, with electronic means, through which many of the sounds of our time are developed. Nowadays much of what we have come to think of as 'art related music' is electroacoustic music: it is created in private and public production and research centres throughout the world; it is also common, however, that individual composers use their own personal equipment. 
 
 The field of electroacoustic music is properly at the attention of applied research. The study of new methods of analysis, synthesis and elaboration of sound is extremely important not only for art related music, but also for industries involved in electronic musical instruments and professional audio. Universities in many different countries work in this field of research, others are dealing with the questions relative to the perception of organized sound, investigating the cognitive aspects of the enjoyment of music. Original methodologies have developed within the sphere of musicology for the analysis of this kind of music as well, and this has led to remarkable contributions to considerations being made on music itself.
 
