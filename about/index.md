@@ -24,13 +24,13 @@ The Course of Electronic Music at the Santa Cecilia Conservatory of Rome was one
 
 _Giorgio NOTTOLI_
 
-###Old Editions
+### Old website
 
-<a href="http://www.emufest.org" target="_blank">**Old editions**</a>
+<a href="http://www.old.emufest.org" target="_blank">**Old website**</a>
 
 ----
 
-##Commitee
+## Commitee
 
 Director of the Conservatory   
 Mº **Alfredo SANTOLOCI**
@@ -68,7 +68,7 @@ Staff
 
 ----
 
-##Contacts
+## Contacts
 
  > * email: info@emufest.org 
  > * phone: (+39) 06 360967
@@ -82,7 +82,7 @@ Postal address of the festival committee:
  
 ----
 
-##Partners
+## Partners
 
 <table>
 <tr>
