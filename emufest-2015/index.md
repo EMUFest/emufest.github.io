@@ -14,9 +14,50 @@ General notes on the 8th EMUFest Edition.
 * Table of Contents
 {:toc}
 
-## Description
+## Passer à l'acte
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+The EMUfest 2015 program draws the work  selection  criterion  from  the
+suggestions of the title. The intention of this festival is to offer  to
+the public an overview of some of the current compositional activities:
+in particular, those that arise  from  research,  from  discovery,  from
+invention.
+
+No artistic practice is an end in itself. Even something so abstract and
+immaterial like music carries on this burden  within  itself.  The  idea
+infused by a composer in his  music  is  the  consequence,  among  other
+things, of an interpretation of reality, a vision on its  values  or  of
+the drifts of our civilization.
+
+The essential element that enables an artwork  to  become  true  and  to
+convey its contents is the relation between the inner necessity  of  the
+artist and the choice of the way to express it. *Passer à l’acte*  is
+therefore the gesture that defines the  artistic  practice  while  being
+also indirectly and at the same time a call to the listeners to  take
+on the stimuli offered by the artwork and to make an  active  reflection
+upon it.
+
+<!-- “PASSARE ALL’ATTO”
+
+(Passer à l’acte)
+
+Il programma EMUfest 2015 ricava dalle suggestioni del titolo il criterio
+di selezione delle opere e  intende offrire al pubblico una panoramica
+delle attuali esperienze compositive: quelle che nascono dalla ricerca,
+dalla scoperta, dall’invenzione.
+
+Nessuna pratica artistica è fine solo a se stessa e anche la musica,
+astratta e immateriale, porta in se questa responsabilità. L’idea è ciò che
+il compositore incarna nella musica ma è pure la conseguenza di una
+interpretazione della realtà, una visione dei valori o delle derive della
+nostra civiltà.
+
+L’elemento essenziale che permette ad un’opera d’arte di compiersi e di
+trasmettere i suoi contenuti  è la correlazione tra la necessità interiore
+dell’artista e la scelta del modo di esprimerla. *Passer à l’acte * è
+dunque il gesto che definisce la pratica artistica ma, allo stesso tempo e
+in modo indiretto, è anche l’esortazione per noi fruitori, a cogliere gli
+stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
+
 
 ## Period
 
