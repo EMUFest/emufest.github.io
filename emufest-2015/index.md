@@ -61,6 +61,8 @@ stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
 
 ### **[Call for Works](/articles/callforworks)**
 
+---
+
 ## Period
 
 Scheduled: 21 Sep 2015 to 26 Sep 2015
