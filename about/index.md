@@ -74,19 +74,19 @@ Postal address of the festival committee:
 
 <table>
 <tr>
-<td>
-	<div style="width: auto; height: auto; padding: 20px;">
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/crm_logo.png">
 		</image>
 	</div>
 </td>
-<td>
-	<div style="width: 200px; height: auto; padding: 20px;">
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/radiocematlogo.png">
 		</image>
 	</div>
 </td>
-<td>
+<td align="center">
 	<div style="width: auto; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/logo_cemat.gif">
 		</image>
@@ -94,15 +94,21 @@ Postal address of the festival committee:
 </td>
 </tr>
 <tr>
-<td>
-	<div style="width: auto; height: 50; padding: 20px;">
+<td align="center">
+	<div style="width: 8em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/LOGO_TOR_VERGATA.png">
 		</image>
 	</div>
 </td>
-<td>
-	<div style="width: 100; height: auto; padding: 20px;">
+<td align="center">
+	<div style="width: auto; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
+		</image>
+	</div>
+</td>
+<td align="center">
+	<div style="width: auto; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/Conservatorio.png">
 		</image>
 	</div>
 </td>
