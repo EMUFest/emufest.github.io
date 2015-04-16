@@ -98,7 +98,7 @@ Postal address of the festival committee:
 	</div>
 </td>
 <td align="center">
-	<div style="width: auto; height: auto; padding: 20px;">
+	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/logo_cemat.gif">
 		</image>
 	</div>
@@ -112,13 +112,13 @@ Postal address of the festival committee:
 	</div>
 </td>
 <td align="center">
-	<div style="width: auto; height: auto; padding: 20px;">
+	<div style="width: 20em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
 		</image>
 	</div>
 </td>
 <td align="center">
-	<div style="width: auto; height: auto; padding: 20px;">
+	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/Conservatorio.png">
 		</image>
 	</div>
