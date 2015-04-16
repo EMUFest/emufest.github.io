@@ -119,7 +119,7 @@ Postal address of the festival committee:
 	</div>
 </td>
 <td align="center">
-	<div style="width: 20em; height: auto; padding: 20px;">
+	<div style="width: 14em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/conservatorio.png">
 		</image>
 	</div>
