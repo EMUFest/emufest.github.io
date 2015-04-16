@@ -30,8 +30,8 @@ the drifts of our civilization.
 
 The essential element that enables an artwork  to  become  true  and  to
 convey its contents is the relation between the inner necessity  of  the
-artist and the choice of the way to express it. *Passer à l’acte*  is
-therefore the gesture that defines the  artistic  practice  while  being
+artist and the choice of the way to express it.   
+*Passer à l’acte*  is therefore the gesture that defines the  artistic  practice  while  being
 also indirectly and at the same time a call to the listeners to  take
 on the stimuli offered by the artwork and to make an  active  reflection
 upon it.
@@ -58,12 +58,13 @@ dunque il gesto che definisce la pratica artistica ma, allo stesso tempo e
 in modo indiretto, è anche l’esortazione per noi fruitori, a cogliere gli
 stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
 
+[Call for Works](/articles/callforworks)
 
 ## Period
 
 Scheduled: 21 Sep 2015 to 26 Sep 2015
 
-Location: Auditorium Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
+Location: Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
 
 <!--**Pro-tip:** Se usiamo **EVENTBRITE** come lo scorso anno, un riquadro evidenziato come questo potrebbe mettere in evidenza le modalità di prenotazione.
 {: .notice}
