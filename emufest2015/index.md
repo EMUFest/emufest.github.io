@@ -16,7 +16,7 @@ General notes on the 8th EMUFest Edition.
 
 ## Passer à l'acte
 
-The EMUfest 2015 program draws the work  selection  criterion  from  the
+The EMUFest 2015 program draws the work  selection  criterion  from  the
 suggestions of the title. The intention of this festival is to offer  to
 the public an overview of some of the current compositional activities:
 in particular, those that arise  from  research,  from  discovery,  from
