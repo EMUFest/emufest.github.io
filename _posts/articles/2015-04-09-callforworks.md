@@ -31,7 +31,7 @@ Works will have to fall within one of the following three categories or combinat
 
 Submission and registration to EMUFest will be complete by filling out all the required information in the on line **submission form** and uploading all the required materials, necessary to the committee.
 
-**The registration form will not be available after 23:59 am CEST on ~~May 31st~~ June 15th, 2015.**
+**The registration form will not be available after 23:59 am CEST on <del>May 31st</del> June 15th, 2015.**
 
 **The selected works will be announced by ~~June 15th~~ June 25, 2015.**
 
