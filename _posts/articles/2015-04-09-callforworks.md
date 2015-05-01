@@ -31,9 +31,9 @@ Works will have to fall within one of the following three categories or combinat
 
 Submission and registration to EMUFest will be complete by filling out all the required information in the on line **submission form** and uploading all the required materials, necessary to the committee.
 
-**The registration form will not be available after 23:59 am CEST on May 31st, 2015.**
+**The registration form will not be available after 23:59 am CEST on ~~May 31st~~ June 15th, 2015.**
 
-**The selected works will be announced by June 15th, 2015.**
+**The selected works will be announced by ~~June 15th~~ June 25, 2015.**
 
 Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
   
@@ -67,7 +67,7 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
 
 All the required material must be sent by compiling the online submittion form.
 
-**The SUBMISSION FORM available from the 1th of May 2015**
+**The SUBMISSION FORM available from the ~~1th of May~~ 8th of May.**
 
 > Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>   
 > <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
