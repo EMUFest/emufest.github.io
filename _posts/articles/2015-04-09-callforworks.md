@@ -67,7 +67,7 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
 
 All the required material must be sent by compiling the online submittion form.
 
-**The SUBMISSION FORM available from the <del>1th of May</del> 8th of May.**
+**The SUBMISSION FORM will be available from the <del>1st of May</del> 8th of May.**
 
 > Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>   
 > <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
