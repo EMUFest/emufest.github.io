@@ -65,7 +65,7 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
   - piano
   - liturgic organ
 
-All the required material must be sent by compiling the online submittion form.
+All the required material must be sent by compiling the online submission form.
 
 **The SUBMISSION FORM will be available from the <del>1st of May</del> 8th of May.**
 
