@@ -26,7 +26,7 @@ _Giorgio NOTTOLI_
 
 ### Old website
 
-<a href="http://www.old.emufest.org" target="_blank">**Old website**</a>
+[**Old website**](http://old.emufest.org)
 
 ----
 
