@@ -70,7 +70,7 @@ All the required material must be sent by compiling the online submission form.
 **The SUBMISSION FORM will be available from the <del>1st of May</del> 8th of May.**
 
 > Information email contact: <a href="mailto:info@emufest.org">**info@emufest.org**</a>   
-> <a href="http://emufest.github.io/about/#contacts" target="_blank">**Other contacts**</a>
+> [**Other Contacts**](http://emufest.org/about/#Contacts)
 
 Further information about the EMUFest will be published on [emufest.org](http://www.emufest.org)
 
