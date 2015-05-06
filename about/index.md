@@ -32,62 +32,53 @@ _Giorgio NOTTOLI_
 
 ## Commitee
 
-Director of the Conservatory
+Director of the Conservatory   
 Mº **Alfredo SANTOLOCI**
 
-Festival COORDINATORS:
-Mº **Michelangelo LUPONE**
+Festival COORDINATORS:   
+Mº **Michelangelo LUPONE**   
 Mº **Nicola BERNARDINI**
 
-Teaching Staff:
-Mº **Antonietta CEROCCHI**
-Prof. **Marco GIORDANO**
-Mº **Luigi PIZZALEO**
-Mº **Riccardo SANTOBONI**
+Teaching Staff:   
+Mº **Antonietta CEROCCHI**   
+Prof. **Marco GIORDANO**   
+Mº **Luigi PIZZALEO**   
+Mº **Riccardo SANTOBONI**   
 Mº **Federico SCALAS** (Tech Supervisor)
 
 ----
 
 ## Staff
 
-Sound Director
+Sound Director   
 **Giuseppe SILVI**
 
-Staff Coordinator
+Staff Coordinator   
 **Marco DE MARTINO**
 
-Staff
-**Francesco BIANCO**
-**Elena D’ALÒ**
-**Luana LUNETTA**
-**Leonardo MAMMOZZETTI**
-**Massimiliano MASCARO**
-**Federico PAGANELLI**
-**Anna TERZAROLI**
-**Francesco ZIELLO**
+Staff   
+**Francesco BIANCO**   
+**Elena D’ALÒ**   
+**Luana LUNETTA**   
+**Leonardo MAMMOZZETTI**   
+**Massimiliano MASCARO**   
+**Federico PAGANELLI**   
+**Anna TERZAROLI**   
+**Francesco ZIELLO**   
 
 ----
 
 ## Contacts
 
- > * email: info@emufest.org
+ > * email: info@emufest.org   
  > * phone: (+39) 06 360967
 
 Postal address of the festival committee:
 
- > **EMUFest**
- > Conservatorio S. Cecilia
- > Via dei Greci, 18 – 00187 Roma
+ > **EMUFest**   
+ > Conservatorio S. Cecilia   
+ > Via dei Greci, 18 – 00187 Roma   
  > ITALY
-
- ----  
-
- <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="//emufest.us10.list-manage.com/subscribe/post?u=14348376c7c7aad2e21142dac&amp;id=f41e9f4b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
-<div class="mc-field-group">
 
 ----
 
