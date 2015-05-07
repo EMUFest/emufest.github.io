@@ -92,12 +92,14 @@ Postal address of the festival committee:
 		</image>
 	</div>
 </td>
+
 <td align="center">
-	<div style="width: 12em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+	<div style="width: 16em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/pietrogarbasso.gif">
 		</image>
 	</div>
 </td>
+
 <td align="center">
 	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/logo_cemat.gif">
@@ -126,4 +128,19 @@ Postal address of the festival committee:
 </td>
 
 </tr>
+<tr>
+<td>
+</td>
+
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+
+<td>
+</td>
+</tr>
+
 </table>
