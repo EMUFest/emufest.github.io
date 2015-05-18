@@ -6,6 +6,7 @@ categories: articles
 tags: [call, electronic, electroacoustic, music, emufest 2015]
 author: emu_staff
 comments: false
+modified: 2015-05-18T13:00:00-04:00
 share: true
 image:
   feature:
@@ -67,7 +68,7 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
 
 All the required material must be sent by compiling the online submission form.
 
-**The SUBMISSION FORM will be available from the <del>1st of May</del> 8th of May.**
+**[SUBMISSION FORM]({{ site.url }}/form)**
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
 > [Other contacts](http://www.emufest.org/about/#contacts)
