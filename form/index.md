@@ -11,4 +11,4 @@ image:
 
 *If the work has been produced by more authors after submission choose the appropriate option*
 
-<iframe src="http://form.emufest.org/bando2015/modulo.php" height="400"></iframe>​
+<iframe src="http://form.emufest.org/bando2015/modulo.php" height="600"></iframe>​
