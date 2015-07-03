@@ -65,7 +65,7 @@ stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
 
 ## Period
 
-Scheduled: 21 Sep 2015 to 26 Sep 2015
+Scheduled: <del>21 Sep 2015 to 26 Sep 2015</del> **05 to 10 October 2015**
 
 Location: Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
 
