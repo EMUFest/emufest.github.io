@@ -1,0 +1,10 @@
+# BIO template
+
+name: # nome cognome
+title: # titolo dell'opera
+year: # anno di composizone
+description: # descrizione del brano, se presente
+bio: # "biografia in inglese"
+
+# ISTRUZIONI
+# per riempire i campi togliere il commento '#'
