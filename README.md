@@ -6,9 +6,13 @@ Official Page
 
 #### To do list
 
- - [ ] online 15 aprile
- - [ ] @nicb / @scalas form
- - [ ] passare all'atto: proporlo agli altri per grafica
+ - [ ] multilingual
+ - [ ] database autori
+ - [ ] database opere selezionate
+ - [ ] anni precedenti
+ - [x] online 15 aprile
+ - [x] @nicb / @scalas form
+ - [x] passare all'atto: proporlo agli altri per grafica
  - [ ] controllare about
  - [x] URGENTE!!! EMUFest 2015: descrizione
  - [x] URGENTE!!! check contenuti
