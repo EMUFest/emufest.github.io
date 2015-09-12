@@ -86,6 +86,14 @@ Postal address of the festival committee:
 
 <table>
 <tr>
+
+<td align="center">
+	<div style="width: 16em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/conservatorio.png">
+		</image>
+	</div>
+</td>
+
 <td align="center">
 	<div style="width: 12em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/crm_logo.png">
@@ -93,43 +101,15 @@ Postal address of the festival committee:
 	</div>
 </td>
 
-<td align="center">
-	<div style="width: 16em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/pietrogarbasso.gif">
-		</image>
-	</div>
-</td>
+</tr>
+
+<tr>
 
 <td align="center">
-	<div style="width: 12em; height: auto; padding: 20px;">
+	<div style="width: 14em; height: auto; padding: 20px;">
 		<img src="{{site.url}}/images/partners/logo_cemat.gif">
 		</image>
 	</div>
-</td>
-</tr>
-<tr>
-<td align="center">
-	<div style="width: 8em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/LOGO_TOR_VERGATA.png">
-		</image>
-	</div>
-</td>
-<td align="center">
-	<div style="width: 20em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
-		</image>
-	</div>
-</td>
-<td align="center">
-	<div style="width: 14em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/conservatorio.png">
-		</image>
-	</div>
-</td>
-
-</tr>
-<tr>
-<td>
 </td>
 
 <td align="center">
@@ -139,8 +119,56 @@ Postal address of the festival committee:
 	</div>
 </td>
 
+</tr>
+
+<tr>
+
+<td align="center">
+	<div style="width: 10em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/LOGO_TOR_VERGATA.png">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 24em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+	<div style="width: 18em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/integra-logo-July-2015-WORD-and-icon2.png">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 24em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/Birmingham_Conservatoire.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+	<div style="width: 16em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/pietrogarbasso.gif">
+		</image>
+	</div>
+</td>
+
 <td>
 </td>
+
 </tr>
 
 </table>
