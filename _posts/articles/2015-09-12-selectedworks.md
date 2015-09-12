@@ -6,7 +6,7 @@ categories: articles
 tags: [call, selected, acousmatic, audiovisual, live electronics, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-09-11T23:16:00
+modified: 2015-09-12T22:53:30
 share: true
 image:
   feature:
@@ -27,19 +27,11 @@ We are pleased to announce the list of selected works:
 |:----------------|:----------------------------------------------|
 | Jones Margarucci | *3 Degrees Of Inner Motion* | 
 |:----------------|:----------------------------------------------|
-| Robert Scott Thompson | *Flora of Fynbos* | 
-|:----------------|:----------------------------------------------|
 | Dennis Deovides A. Reyes III | *Bolgia* | 
 |:----------------|:----------------------------------------------|
 | Daniel Blinkhorn | *frostbYte - wildflower* | 
 |:----------------|:----------------------------------------------|
-| Marcela Pavia | *Risonanze* | 
-|:----------------|:----------------------------------------------|
-| Antonio Ferreira | *Disposable Lullabies* | 
-|:----------------|:----------------------------------------------|
 | Gustavo Adolfo Delgado | *Permanente e transitorio* | 
-|:----------------|:----------------------------------------------|
-| Julius Bucsis | *I Am Who Am I* | 
 |:----------------|:----------------------------------------------|
 | Demian Rudel Rey | *Cenizas del Tiempo* | 
 |:----------------|:----------------------------------------------|
@@ -47,30 +39,20 @@ We are pleased to announce the list of selected works:
 |:----------------|:----------------------------------------------|
 | Benjamin O'Brien | *along the eaves* | 
 |:----------------|:----------------------------------------------|
-| Ludwig Berger | *Mapping of hypothetical islands on the scale 1:1* | 
-|:----------------|:----------------------------------------------|
 | Silvia Lanzalone | *eRose* | 
 |:----------------|:----------------------------------------------|
 | Damian Anache | *Capturas del Unico Camino* | 
 |:----------------|:----------------------------------------------|
 | Ursula Meyer-König | *allears* | 
 |:----------------|:----------------------------------------------|
-| Dario Casillo | *Bollettino di un Viaggio Ordinario* | 
-|:----------------|:----------------------------------------------|
 | Benjamin D. Whiting | *Illumina! Arabidopsis thaliana* | 
-|:----------------|:----------------------------------------------|
-| Cristian Sommaiuolo | *Nobilis Nebula* | 
 |:----------------|:----------------------------------------------|
 | Kyle Vanderburg | *Reverie of Solitude* | 
 |:----------------|:----------------------------------------------|
 | James Andean | *Déchirure* | 
 |:----------------|:----------------------------------------------|
-| Leo Cicala | *diQuadro* | 
-|:----------------|:----------------------------------------------|
 | Kenn Mouritzen | *Cat-back* | 
 |:----------------|:----------------------------------------------|
-| Danilo Girardi | *Opticks_Beam of Blinding Light* | 
-|-----------------|:----------------------------------------------|
 | Cristian Eloy | La cicatrice d'Ulysse |
 |-----------------|:----------------------------------------------|
 |  |  | 
