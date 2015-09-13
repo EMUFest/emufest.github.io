@@ -6,7 +6,7 @@ categories: articles
 tags: [call, selected, acousmatic, audiovisual, live electronics, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-09-12T22:53:30
+modified: 2015-09-13T22:47:00
 share: true
 image:
   feature:
@@ -43,17 +43,17 @@ We are pleased to announce the list of selected works:
 |:----------------|:----------------------------------------------|
 | Damian Anache | *Capturas del Unico Camino* | 
 |:----------------|:----------------------------------------------|
-| Ursula Meyer-König | *allears* | 
+| Ursula Meyer-König | *allears* | 
 |:----------------|:----------------------------------------------|
 | Benjamin D. Whiting | *Illumina! Arabidopsis thaliana* | 
 |:----------------|:----------------------------------------------|
 | Kyle Vanderburg | *Reverie of Solitude* | 
 |:----------------|:----------------------------------------------|
-| James Andean | *Déchirure* | 
+| James Andean | *Déchirure* | 
 |:----------------|:----------------------------------------------|
 | Kenn Mouritzen | *Cat-back* | 
 |:----------------|:----------------------------------------------|
-| Cristian Eloy | La cicatrice d'Ulysse |
+| Christian Eloy | La cicatrice d'Ulysse |
 |-----------------|:----------------------------------------------|
 |  |  | 
 |-----------------|:----------------------------------------------|
