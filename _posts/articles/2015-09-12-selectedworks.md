@@ -6,7 +6,7 @@ categories: articles
 tags: [call, selected, acousmatic, audiovisual, live electronics, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-09-13T22:47:00
+modified: 2015-09-14T02:56:06
 share: true
 image:
   feature:
@@ -119,3 +119,6 @@ We are pleased to announce the list of selected works:
 |:----------------|:----------------------------------------------|
 | Balandino Di Donato | *VoicErutseG* | 
 |:----------------|:----------------------------------------------|
+{: .table} 
+
+<iframe src="http://www.mapcustomizer.com/map/EMUFest_2015_Selected_wauth" width='100%' height="600" frameborder="0" style="border:0"></iframe>

@@ -2,7 +2,7 @@
 layout: page
 title: EMUFest 2015
 excerpt: "Passare all'Atto"
-modified: 2015-04-01T12:58:20
+modified: 2015-09-14T02:56:06
 image:
   feature: emufest2015motto.png
   credit: 
@@ -59,39 +59,54 @@ in modo indiretto, è anche l’esortazione per noi fruitori, a cogliere gli
 stimoli offerti dall’opera e a rendere attiva la nostra riflessione. -->
 
 
-### **[Call for Works](/articles/callforworks)**
+<!-- ### **[Call for Works](/articles/callforworks)** -->
 
 ---
 
 ## Period
 
-Scheduled: <del>21 Sep 2015 to 26 Sep 2015</del> **05 to 10 October 2015**
+Scheduled: **05 to 14 October 2015**
 
-Location: Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
 
-<!--**Pro-tip:** Se usiamo **EVENTBRITE** come lo scorso anno, un riquadro evidenziato come questo potrebbe mettere in evidenza le modalità di prenotazione.
-{: .notice}
+> Mucho público, muy buena recepción y un equipo de producción de lujo sin el que hubiese sido imposible no solo mi estreno sino todo el festival.    
+  --Daniel SCHACHTER (EMUFest 2014)--
 
-| 20 Sep   | 21 Sep   | 22 Sep   | 23 Sep   | 24 Sep   | 25 Sep   | 26 Sep   |
-|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
-| Conference | Conference | Conference | Conference | Conference | Conference | Conference |
-| Concerto | Concerto | Concerto | Concerto | Concerto | Concerto | Concerto |
+### Conservatorio S. Cecilia -- overview
+
+| October 05 | October 06   | October 07 | October 08 | October 09 | October 10 |
+|:---------|:---------|:---------|:---------|:---------|:---------|
+| Openings | Conference | Conference | CoME | Conference | Workshop |
+|  |  | Concerto 5 |  |  |  |
 |----
-| Installazioni | Installazioni | Installazioni | Installazioni | Installazioni | Installazioni | Installazioni |
+| Concerto 1 | Concerto 3 | Workshop | Concerto 7 | Concerto 9 | Workshop |
 |----
-| Concerto | Concerto | Concerto | Concerto | Concerto | Concerto | Concerto |
-|=====
-| Cena | Cena | Cena | Cena | Cena | Cena | Cena |
-{: .table} -->
+| Concerto 2 | Concerto 4 | Concerto 6 | Concerto 8 | Concerto 10 | Workshop | 
+{: .table} 
+
+### University of Rome Tor Vergata -- overview
+
+| October 13 | October 14 | 
+|:---------|:---------|
+| Concerto 11 | Concerto 12 |
+{: .table} 
+
+More details on concerts and other activities coming soon!
 
 ---
 
 ## Places
 
+ - Conservatorio Di Musica S. Cecilia, Via dei Greci 18, Rome, Italy
+ - University of Rome Tor Vergata -- Auditorium *Ennio Morricone*, Via Columbia 1, Rome, Italy
+
+### Conservatorio S. Cecilia
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2969.3215431453746!2d12.478517!3d41.907446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6055e131a33b%3A0x26a9a22f619a40a6!2sConservatorio+Di+Musica+S.+Cecilia!5e0!3m2!1sen!2sit!4v1427887415450" width='100%' height="250" frameborder="0" style="border:0"></iframe>
 
----
+### University of Rome Tor Vergata
 
-## Concerts
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1485.9560566009334!2d12.62180170951288!3d41.851718464956676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xd205133372db63b2!2sFacolt%C3%A0+di+Lettere+e+Filosofia!5e0!3m2!1sen!2sit!4v1442183088907" width='100%' height="250" frameborder="0" style="border:0"></iframe>
 
-Coming SOON
+<!--**Pro-tip:** Se usiamo **EVENTBRITE** come lo scorso anno, un riquadro evidenziato come questo potrebbe mettere in evidenza le modalità di prenotazione.
+{: .notice}
+-->
