@@ -8,10 +8,10 @@ author: emu_staff
 comments: false
 modified: 2015-09-14T02:56:06
 share: true
-image:
-  feature:
-  credit:
-  creditlink:
+image: 
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 We are pleased to announce the list of selected works:   
