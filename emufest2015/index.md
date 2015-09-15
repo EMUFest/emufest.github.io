@@ -2,7 +2,7 @@
 layout: page
 title: EMUFest 2015
 excerpt: "Passare all'Atto"
-modified: 2015-09-14T02:56:06
+modified: 2015-09-15T18:56:11
 image:
   feature: emufest2015motto.png
   credit: 
@@ -76,9 +76,9 @@ Scheduled: **05 to 14 October 2015**
 | October 05 | October 06   | October 07 | October 08 | October 09 | October 10 |
 |:---------|:---------|:---------|:---------|:---------|:---------|
 | Openings | Conference | [Di Donato - Talk]({{site.url }}/articles/VoicErutseG/) | CoME | Conference | Workshop |
-|          |            | VoicErutseG |  |  |  |
+|          |            | [VoicErutseG]({{site.url }}/articles/VoicErutseG/) |  |  |  |
 |----
-| Concerto 1 | Concerto 3 | Integra Hands-on | Concerto 7 | Concerto 9 | Workshop |
+| Concerto 1 | Concerto 3 | [Integra Hands-on]({{site.url }}/articles/VoicErutseG/) | Concerto 7 | Concerto 9 | Workshop |
 |----
 | Concerto 2 | Concerto 4 | Concerto 6 | Concerto 8 | Concerto 10 | Workshop | 
 {: .table} 
