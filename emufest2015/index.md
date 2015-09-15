@@ -75,10 +75,10 @@ Scheduled: **05 to 14 October 2015**
 
 | October 05 | October 06   | October 07 | October 08 | October 09 | October 10 |
 |:---------|:---------|:---------|:---------|:---------|:---------|
-| Openings | Conference | Conference | CoME | Conference | Workshop |
-|  |  | Concerto 5 |  |  |  |
+| Openings | Conference | [Di Donato - Talk]({{site.url }}/articles/VoicErutseG/) | CoME | Conference | Workshop |
+|          |            | VoicErutseG |  |  |  |
 |----
-| Concerto 1 | Concerto 3 | Workshop | Concerto 7 | Concerto 9 | Workshop |
+| Concerto 1 | Concerto 3 | Integra Hands-on | Concerto 7 | Concerto 9 | Workshop |
 |----
 | Concerto 2 | Concerto 4 | Concerto 6 | Concerto 8 | Concerto 10 | Workshop | 
 {: .table} 

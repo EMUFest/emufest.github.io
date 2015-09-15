@@ -153,3 +153,4 @@ More info and demos:
  - [YouTube playslist](https://www.youtube.com/playlist?list=PLprdGlLGoRugBkSX2m7Uq4LlvFGp79VDK)
  - [Integralab Vimeo Channel](https://vimeo.com/channels/integralab)
  - [Vimeo Album](https://vimeo.com/album/3313801)
+ - [This article in a PDF doc]({{ site.url }}/docs/balandino_en.pdf)
