@@ -3,20 +3,23 @@ layout: post
 title: "VoicErutseG and Integra Live hands-on."
 excerpt: "October 7, Talk, concert, hans-on."
 categories: articles
-tags: [emufest 2015, balandino di donato, voicerutseg, integra, integra lab, integra live, talk, concert, hands-on, vittoriana de amicis, video]
+tags: [emufest, emufest 2015, balandino di donato, voicerutseg, integra, integra lab, integra live, talk, concert, hands-on, vittoriana de amicis, video]
 author: emu_staff
 comments: true
-modified: 2015-09-15T16:33:10
+modified: 2015-09-16T23:44:41
 share: true
 image: 
-  feature: 
+  feature: imgEMUFest2015/balandino_vittoriana_crop.JPG
   credit: 
   creditlink: 
 ---
 
-# October, 7 - Talk, Concert, hands-on
+**October, 7 - Talk, Concert, hands-on**
 
 ---
+
+* Table of Contents
+{:toc}
 
 ## Integra Lab
 
@@ -75,7 +78,7 @@ Mixed Reality contexts.
 One of his latest works is ’equinode’, an interactive sound art installation
 exhibited at Vagiti Ultimi 2015.
 
-[Balandino email](balandino.didonato@mail.bcu.ac.uk)
+[Balandino's email](balandino.didonato@mail.bcu.ac.uk)
 
 ## Pre-Concert Talk
 
@@ -132,7 +135,7 @@ live demo. Composers, researchers and practitioners are invited to come along
 with their laptops, Integra Live projects, musical instruments, questions
 and ideas to realise over the hands-on.
 
-### Integra Live
+## Integra Live
 
 Integra Live is an application that makes it easy to use interactive audio
 processing to create new music. The software was originally supported through

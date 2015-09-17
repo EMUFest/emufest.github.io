@@ -3,10 +3,10 @@ layout: post
 title: "Submission Deadline Postponed to Friday June 19th"
 excerpt: "Call for Works to be selected for the 8th edition of EMUFest"
 categories: articles
-tags: [call, electronic, electroacoustic, music, emufest 2015]
+tags: [emufest, call, electronic, electroacoustic, music, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-06-15T13:00:00-04:00
+modified: 2015-09-16T23:44:41
 share: true
 image:
   feature:

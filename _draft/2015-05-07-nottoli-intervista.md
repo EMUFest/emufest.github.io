@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Giorgio NOTTOLI. Intervista."
-modified:
+title: "Intervista a Giorgio Nottoli"
+excerpt: "October 7, Talk, concert, hans-on."
 categories: blog
-excerpt: 
-tags: [Nottoli, intervista, musica]
-image:
-  feature:
-date: 2015-05-07T10:04:55
+tags: [emufest, emufest 2015, balandino di donato, voicerutseg, integra, integra lab, integra live, talk, concert, hands-on, vittoriana de amicis, video]
+author: giuseppe
+comments: true
+modified: 2015-09-16T23:44:41
+share: true
+image: 
+  feature: imgEMUFest2015/balandino_vittoriana_crop.JPG
+  credit: 
+  creditlink: 
 ---
 
 SCATTARE UNA FOTO PANORAMICA A GN

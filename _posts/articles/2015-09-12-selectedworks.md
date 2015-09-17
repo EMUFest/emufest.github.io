@@ -3,10 +3,10 @@ layout: post
 title: "Selected Works"
 excerpt: "We are pleased to announce the list of selected works for EMUFest 2015"
 categories: articles
-tags: [call, selected, acousmatic, audiovisual, live electronics, emufest 2015]
+tags: [emufest, call, selected, acousmatic, audiovisual, live electronics, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-09-14T02:56:06
+modified: 2015-09-16T23:44:41
 share: true
 image: 
   feature: 

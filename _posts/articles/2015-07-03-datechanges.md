@@ -3,10 +3,10 @@ layout: post
 title: "Important Notice"
 excerpt: "Changing the dates for EMUFest 2015"
 categories: articles
-tags: [call, electronic, electroacoustic, music, emufest 2015]
+tags: [emufest, call, electronic, electroacoustic, music, emufest 2015]
 author: emu_staff
 comments: false
-modified: 2015-07-02T13:22:00-04:00
+modified: 2015-09-16T23:44:41
 share: true
 image:
   feature:
