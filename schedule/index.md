@@ -195,7 +195,7 @@ Duration: **60'**
  - György Ligeti • *Volumina*, for organ (15')
  - Alessandro Ratoci • *Studio Mannaro*, for baritone saxophone (10')
  
-saxophones **Enzo Filippetti** 
+saxophones **Enzo Filippetti**     
 percussions **Valerio Cusmai**    
 organ **Antonella Barbarossa**
 
@@ -238,10 +238,10 @@ Sound Direction: **Marco De Martino**
  - Karen Power • *deafening silence*, for piano and tape (6')
  - Pasquale Citera • *Musica per organi caldi*, for organ and live electronics (6')
  
-trombone **Raffaele Marsicano**
-voce **Virginia Guidi**
-flutes **Elena D'Alò, Alessandro Pace**
-piano **Francesco Ziello**
+trombone **Raffaele Marsicano**    
+voce **Virginia Guidi**    
+flutes **Elena D'Alò, Alessandro Pace**    
+piano **Francesco Ziello**    
 organ **Giovanni Ubertini**
 
 ---
@@ -307,9 +307,9 @@ Sound Direction: **Massimiliano Mascaro**
  - Domenico DE SIMONE • *A[LIVE]*, for piano, vibraphone and tape (5'30'')
  - Benjamin D. Whiting • *Illumina! Arabidopsis thaliana*, acousmatic (9'18'')
  
-laptops **Francesco Bianco, Paolo Gatti**
-flute **Elena D'Alò**
-piano **Sara Ferrandino**
+laptops **Francesco Bianco, Paolo Gatti**    
+flute **Elena D'Alò**    
+piano **Sara Ferrandino**    
 vibraphone **Gianluca Ruggeri**
  
 ---
