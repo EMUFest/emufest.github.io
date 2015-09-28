@@ -15,26 +15,26 @@ image:
   <a href="{{site.url }}/schedule/#october-5th"
     class="btn">OCTOBER 5th</a>
   
-  <a href="{{site.url }}/articles/schedule/#october-6th"
+  <a href="{{site.url }}/schedule/#october-6th"
     class="btn">OCTOBER 6th</a>
   
-  <a href="{{site.url }}/articles/schedule/#october-7th"
+  <a href="{{site.url }}/schedule/#october-7th"
     class="btn">OCTOBER 7th</a>    
   
-  <a href="{{site.url }}/articles/schedule/#october-8th"
+  <a href="{{site.url }}/schedule/#october-8th"
     class="btn">OCTOBER 8th</a>
   
-  <a href="{{site.url }}/articles/schedule/#october-9th"
+  <a href="{{site.url }}/schedule/#october-9th"
     class="btn">OCTOBER 9th</a>
 </div>
 
 **University of Rome Tor Vergata**
 
 <div markdown="0">  
-  <a href="{{site.url }}/articles/schedule/#october-13th"
+  <a href="{{site.url }}/schedule/#october-13th"
     class="btn">OCTOBER 13th</a>
   
-  <a href="{{site.url }}/articles/schedule/#october-13th"
+  <a href="{{site.url }}/schedule/#october-13th"
     class="btn">OCTOBER 14th</a>
                   
 </div>
