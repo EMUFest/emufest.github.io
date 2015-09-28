@@ -6,6 +6,10 @@
 # - title: Submission FORM
 #  url: /form/
 
+- title: SCHEDULE
+  url: /schedule/
+
+
 - title: News
   url: /articles/
 

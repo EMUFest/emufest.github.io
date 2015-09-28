@@ -4,7 +4,7 @@ title: EMUFest 2015
 excerpt: "Passare all'Atto"
 modified: 2015-09-15T18:56:11
 image:
-  feature: emufest2015motto.png
+  feature: banners/emufest2015motto.png
   credit: 
   creditlink: 
 ---
@@ -13,6 +13,11 @@ General notes on the 8th EMUFest Edition.
 
 * Table of Contents
 {:toc}
+
+<div markdown="0">
+  <a href="{{site.url }}/schedule"
+    class="btn">SCHEDULE</a>
+</div>
 
 ## Passer à l'acte
 

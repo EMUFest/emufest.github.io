@@ -30,6 +30,17 @@
 	}
 }
 
+.entry-feature-image-home {
+	margin: 20px 0 0;
+	width: 100%;
+	@include media($medium) {
+		margin-top: -75px; /* move up to be overlapped by site logo */
+	}
+	@include media($large) {
+		margin-top: -294px; /* move up further to be overlapped by site logo */
+	}
+}
+
 /* page header */
 
 .entry-header {
@@ -146,7 +157,7 @@ span + .entry-title {
     max-width: 960px;
   }
   a {
-    color: lighten($text-color, 30);
+    color: lighten($text-color, 0);
   }
 }
 
@@ -220,11 +231,11 @@ span + .entry-title {
 	border-radius: $border-radius;
   ul {
   	list-style-type: none;
-  	padding-left: 0;
+  	// padding-left: 0;
   }
   li {
     @include font-size(16,no,18);
-    border-bottom: 1px solid $border-color;
+    // border-bottom: 1px solid $border-color;
     list-style-type: none;
   }
   h6 {
@@ -243,6 +254,8 @@ span + .entry-title {
     }
   }
 }
+
+
 
 /*
    Tables

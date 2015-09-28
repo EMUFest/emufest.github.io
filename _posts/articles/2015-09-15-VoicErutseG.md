@@ -98,7 +98,6 @@ conducted by Balandino Di Donato at the Integra Lab.
 In VoicErutseG the voice of the Soprano Vittoriana De Amicis is spatialised
 using the gSPAT, while she will be performing Sequenza III by Luciano Berio
 and Stryspody by Cathy Berberian.
-More info can be found at the following link.
 
 <iframe src="https://player.vimeo.com/video/124190457"
   width="500"
