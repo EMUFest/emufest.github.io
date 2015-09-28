@@ -34,7 +34,7 @@ image:
   <a href="{{site.url }}/schedule/#october-13th"
     class="btn">OCTOBER 13th</a>
   
-  <a href="{{site.url }}/schedule/#october-13th"
+  <a href="{{site.url }}/schedule/#october-14th"
     class="btn">OCTOBER 14th</a>
                   
 </div>
