@@ -4,9 +4,9 @@ title: EMUFest 2015
 excerpt: "International Electroacoustic Music Festival"
 search_omit: true
 image:
-  feature: banners/2012-bertoncini_crop.png
-  credit: Giuseppe Silvi
-  creditlink: http://www.giuseppesilvi.com
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 **Conservatorio Santa Cecilia**
@@ -49,10 +49,10 @@ image:
 {% endfor %}
 </ul>
 
-<!-- <h3>Blog Posts:</h3>
+<h3>Blog Posts:</h3>
 
 <ul class="post-list">
 {% for post in site.categories.blog limit:5 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
-</ul> -->
+</ul>
