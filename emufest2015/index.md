@@ -4,7 +4,7 @@ title: EMUFest 2015
 excerpt: "Passare all'Atto"
 modified: 2015-09-15T18:56:11
 image:
-  feature: banners/emufest2015motto.png
+  feature: imgEMUFest2015/banners/emufest2015motto.png
   credit: 
   creditlink: 
 ---

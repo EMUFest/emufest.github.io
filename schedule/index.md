@@ -4,7 +4,7 @@ title: EMUFest 2015 SCHEDULE
 excerpt: "Concerts, Talks, Workshop"
 modified: 2015-09-27T01:29:17
 image:
-  feature: banners/Arturo_Ianniello_Transitory_10_crop.jpg
+  feature: imgEMUFest2015/banners/Arturo_Ianniello_Transitory_10_crop.jpg
   credit:  Romano Maniglia
   creditlink: https://www.facebook.com/RomanoManigliaPhotographerandGraphicDesigner?fref=ts
   artist: Arturo Ianniello
@@ -111,7 +111,7 @@ Sound Direction: **Luana Lunetta**
 
  - Alessia Forganni, Daniele Vantaggio • *KOMA - Kontrolled Organic Movement Act*, for voice, piano, and live electronics  (10')
  - Massimo Massimi • *Kronos in Fabula I*, acousmatic (10')
- - Federico Ripanti, Claudia Scroccaro • *On-y rêve*, for piano and tape (7'40'')
+ - Federico Ripanti, Claudia Jane Scroccaro • *On-y rêve*, for piano and tape (7'40'')
  - Carlos D. Perales • *17 Haiku*, for flute ad live electronics (10')
  - Massimiliano Mascaro, Giuseppe Zampetti • *L'abile medico*, for voices and live electronics (10')
 
