@@ -78,21 +78,21 @@ Scheduled: **05 to 14 October 2015**
 
 ### Conservatorio S. Cecilia -- overview
 
-| October 05 | October 06   | October 07 | October 08 | October 09 | October 10 |
-|:---------|:---------|:---------|:---------|:---------|:---------|
-| Openings | Conference | [Di Donato - Talk]({{site.url }}/articles/VoicErutseG/) | CoME | Conference | Workshop |
-|          |            | [VoicErutseG]({{site.url }}/articles/VoicErutseG/) |  |  |  |
+| October, 05 | October, 06   | October, 07 | October, 08 | October, 09 | October, 10 |
+|:------------|:--------------|:------------|:------------|:------------|:------------|
+| Openings   | Il Suono di Piero | [VoicErutseG]({{site.url }}/articles/VoicErutseG/) |   | Conference | Workshop |
+|            |                | [Atto V]({{site.url }}/articles/VoicErutseG/)         |   |            |          |
 |----
-| Concerto 1 | Concerto 3 | [Integra Hands-on]({{site.url }}/articles/VoicErutseG/) | Concerto 7 | Concerto 9 | Workshop |
+| Atto I     | Atto III       | [Integra]({{site.url }}/articles/VoicErutseG/) | Atto VII | Atto IX | Workshop |
 |----
-| Concerto 2 | Concerto 4 | Concerto 6 | Concerto 8 | Concerto 10 | Workshop | 
+| Atto II    | Atto IV        | Atto VI     | Atto VIII   | Atto X      | Workshop    | 
 {: .table} 
 
 ### University of Rome Tor Vergata -- overview
 
-| October 13 | October 14 | 
-|:---------|:---------|
-| Concerto 11 | Concerto 12 |
+| October, 13 | October, 14 | 
+|:------------|:------------|
+| Atto XI     | Atto XII    |
 {: .table} 
 
 More details on concerts and other activities coming soon!

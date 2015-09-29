@@ -94,10 +94,10 @@ Category: **Acousmatics in HOA Domain**
 Duration:     
 Sound Direction: **Federico Paganelli**   
 
- - Jan Jacob Hoffman • *Horizontal and Vertical Lines* ()
+ - Jan Jacob Hofmann • *Horizontal and Vertical Lines* ()
  - Clemens Von Reusner • *Topos Concrete* (9'18'')
  - Damián Anache • *Capturas del Único Camino* (14'29'')
- - Jan Jacob Hoffman • *Tensile Elements* ()
+ - Jan Jacob Hofmann • *Tensile Elements* ()
 
 ---
 
@@ -304,13 +304,13 @@ Sound Direction: **Massimiliano Mascaro**
  - Frei • *Poetics*, for two laptops (16'50)
  - Christian Banasik • *Ik ́*, for flute and live electronics (9'03'')
  - Marco Marinoni • *Finita è la terra*, for piano and live electronics (4'16'')
- - Domenico DE SIMONE • *A[LIVE]*, for piano, vibraphone and tape (5'30'')
+ - Domenico De Simone • *A[LIVE]*, for piano, vibraphone and tape (5'30'')
  - Benjamin D. Whiting • *Illumina! Arabidopsis thaliana*, acousmatic (9'18'')
  
 laptops **Francesco Bianco, Paolo Gatti**    
 flute **Elena D'Alò**    
 piano **Sara Ferrandino**    
-vibraphone **Gianluca Ruggeri**
+vibraphone **Matteo Rossi**
  
 ---
 
