@@ -14,8 +14,6 @@ image:
    
 ---
 
-Day by day schedule.
-
 * Table of Contents
 {:toc}
 
