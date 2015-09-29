@@ -9,7 +9,7 @@ comments: true
 modified: 2015-09-16T23:44:41
 share: true
 image: 
-  feature: imgEMUFest2015/banners/balandino_vittoriana_crop.JPG
+  feature: imgEMUFest2015/banners/balandino_vittoriana_crop.jpeg
   credit: 
   creditlink: 
 ---
