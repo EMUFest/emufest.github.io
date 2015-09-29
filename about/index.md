@@ -89,14 +89,14 @@ Postal address of the festival committee:
 
 <td align="center">
 	<div style="width: 16em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/conservatorio.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/conservatorio.png">
 		</image>
 	</div>
 </td>
 
 <td align="center">
 	<div style="width: 12em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/crm_logo.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/crm_logo.png">
 		</image>
 	</div>
 </td>
@@ -107,14 +107,14 @@ Postal address of the festival committee:
 
 <td align="center">
 	<div style="width: 14em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/logo_cemat.gif">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/logo_cemat.gif">
 		</image>
 	</div>
 </td>
 
 <td align="center">
 	<div style="width: 12em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/radiocematlogo.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/radiocematlogo.png">
 		</image>
 	</div>
 </td>
@@ -125,14 +125,14 @@ Postal address of the festival committee:
 
 <td align="center">
 	<div style="width: 10em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/LOGO_TOR_VERGATA.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/LOGO_TOR_VERGATA.png">
 		</image>
 	</div>
 </td>
 
 <td align="center">
 	<div style="width: 24em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/Logo_SonicArts.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/Logo_SonicArts.png">
 		</image>
 	</div>
 </td>
@@ -143,14 +143,14 @@ Postal address of the festival committee:
 
 <td align="center">
 	<div style="width: 18em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/integra-logo-July-2015-WORD-and-icon2.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/integra-logo-July-2015-WORD-and-icon2.png">
 		</image>
 	</div>
 </td>
 
 <td align="center">
 	<div style="width: 24em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/Birmingham_Conservatoire.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/Birmingham_Conservatoire.png">
 		</image>
 	</div>
 </td>
@@ -161,14 +161,14 @@ Postal address of the festival committee:
 
 <td align="center">
 	<div style="width: 16em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/pietrogarbasso.gif">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/pietrogarbasso.gif">
 		</image>
 	</div>
 </td>
 
 <td align="center">
 	<div style="width: 12em; height: auto; padding: 20px;">
-		<img src="{{site.url}}/images/partners/grame.png">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/grame.png">
 		</image>
 	</div>
 </td>
