@@ -166,7 +166,11 @@ Postal address of the festival committee:
 	</div>
 </td>
 
-<td>
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/partners/grame.png">
+		</image>
+	</div>
 </td>
 
 </tr>

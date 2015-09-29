@@ -6,11 +6,11 @@ modified: 2015-09-27T01:29:17
 image:
   feature: banners/Arturo_Ianniello_Transitory_10_crop.jpg
   credit:  Romano Maniglia
-  creditlink:
+  creditlink: https://www.facebook.com/RomanoManigliaPhotographerandGraphicDesigner?fref=ts
   artist: Arturo Ianniello
-  artistlink: 
+  artistlink: http://www.arturoianniello.it
   work: Transitory
-  worklink:
+  worklink: 
    
 ---
 
@@ -232,11 +232,11 @@ Duration: **60'**
 Sound Direction: **Marco De Martino**
 
  - Enrico Minaglia • *Physis III - Metal*, for trombone and live electronics (7'10)
- - Nuria Gimenez-Comas • *No More Words*, for soprano and live electronics (6')
+ - Núria Giménez-Comas • *No More Words*, for soprano and live electronics (6'27)
  - Silvia Lanzalone • *eRose*, acousmatic (10')
- - Azzigotti • *Vilanos*, for two amplified flutes (11')
+ - Azzigotti • *Vilanos*, for two amplified flutes (10')
  - Karen Power • *deafening silence*, for piano and tape (6')
- - Pasquale Citera • *Musica per organi caldi*, for organ and live electronics (6')
+ - Pasquale Citera • *Musica per organi caldi*, Intonazione e Fuga Eletroacustica per Organo e live electronics (6')
  
 trombone **Raffaele Marsicano**    
 voce **Virginia Guidi**    
