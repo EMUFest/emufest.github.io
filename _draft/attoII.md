@@ -31,7 +31,7 @@ Category: **Talks & Foods**
 ---
 
 ## *Atto I*
-*Acousmatic Concert in Ambisonic dome*
+*Acousmatic concert in ambisonic dome*
 
 Time: **17:00**    
 Location: ***Il Suono di Piero [Aula Bianchini]***    
@@ -84,7 +84,7 @@ Head: **Giuseppe Silvi**
 ---
 
 ## *Atto III*
-*Acousmatic Concert in Ambisonic dome*
+*Acousmatic concert in ambisonic dome*
 
 Time: **17:00**    
 Location: ***Il Suono di Piero [Aula Bianchini]***    
@@ -255,7 +255,7 @@ Head: **Yann Orlarey**
 ---
 
 ## *Atto IX*
-*Acousmatic Concert in Ambisonic dome*
+*Acousmatic concert in ambisonic dome*
 
 Time: **17:00**    
 Location: ***Il Suono di Piero [Aula Bianchini]***    
