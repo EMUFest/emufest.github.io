@@ -1,0 +1,82 @@
+y2015e0027:
+  cat: "01"
+  first: Jones
+  last: Margarucci
+  title: "Inhabitated Places_Part II"
+  duration:
+    min: "5"
+    sec: "52"
+  year: "2015"
+  prognote:
+    eng: "is based on the concept of algorithmic composition. Although the general shape of this piece has been determined in a conventional way, every sound that one can hear are selected in real time by different algorithms written in SuperCollider. These algorithms choose randomly audio files from different folders and play them at different speeds and in different moments. It is as if we had placed several different objects in several boxes (that represent our shape), but every time we open one of these boxes the objects placed inside are positioned differently from how we had left them previously. The piece was also rendered in B-format Ambisonic."
+    ita: "é una composizione elettroacustica basata sul concetto di musica algoritmica. Sebbene la forma generale del brano sia stata determinata apriori e in modo convenzionale, tutti i suoni che ascoltiamo vengono scelti in tempo reale da vari algoritmi scritti in SuperCollider. Questi algoritmi selezionano in modo pseudocasuale dei samples da diverse cartelle e li riproducono a velocità diverse e in diversi momenti. È come se avessimo sistemato in una scatola (che in questo caso rappresenta la struttura dell’opera) degli oggetti in un dato ordine, ma ogni qual volta apriamo la scatola li troviamo disposti in modo differente da come li avevamo lasciati."
+  bio:
+    eng: "Electroacoustic music composition at the State Conservatory of Music “G. Martucci” and at KMH (Royal College of Music Stockholm). His music has been played in several festivals in Europe and North America, and has been selected for: Redshift Music - Postal Pieces (Vancouver – Canada – 2013); Vox Novus  Fifteen Minutes of Fame - Yumi Suehiro (New York City – USA – 2014); Sonorities Festival 2015 (Belfast – North Ireland – 2015); SOUNDkitchen’s Earspace/Frontiers Festival 2015 (Birmingham – UK – 2015); Video Remakes - Call for Tape Music (La Fabbrica del Vedere) (Venice - Italy - 2015)"
+    ita: "Ha studiato Composizione Elettroacustica presso il Conservatorio di Salerno e come exchange student presso la Royal Academy of Music (KMH) a Stoccolma.
+    Sue musiche sono state eseguite in diversi festival in Europa e in Nord America e sono state selezionate per: Redshift Music - Postal Pieces (Vancouver – Canada – 2013); Vox Novus  Fifteen Minutes of Fame - Yumi Suehiro (New York City – USA – 2014); Sonorities Festival 2015 (Belfast – North Ireland – 2015); SOUNDkitchen’s Earspace/Frontiers Festival 2015 (Birmingham – UK – 2015); Video Remakes - Call for Tape Music (La Fabbrica del Vedere) (Venice - Italy - 2015)"
+
+y2015e0049:
+  cat: "01"
+  first: Dennis
+  last: Deovides A. Reyes III
+  title: "Bolgia"
+  duration:
+    min: "7"
+    sec: "31"
+  year: "2014"
+  prognote:
+    eng: "is an Italian word that means pocket or trench.  This term has been used by Dante Alighieri in his notable literary work Inferno.  Bolgia is a stereo fixed media electroacoustic composition, which depicts Alighieri’s journey to the eighth circle of hell, and his experiences to its horrific environment.  The musical gestures and sonic events of the piece evoke the different sounds and emotions of hell."
+    ita: ""
+  bio:
+    eng: "studied music composition in his native Manila, Philippines.  Dennis is currently pursuing his doctorate degree in music composition at the University of Illinois at Urbana-Champaign under the tutelage of Scott A. Wyatt.  His compositions find inspiration in a wide range of subjects, from Asian music to modern art, and also incorporate elements of Philippine tradition.  Dennis’ compositions have received numerous performances in Europe, Asia, and the United States."
+    ita: ""
+
+y2015e0090:
+  cat: "01"
+  first: Dimitrios
+  last: Savva
+  title: "Balloon Theories"
+  duration:
+    min: "14"
+    sec: "30"
+  year: "2013"
+  prognote:
+    eng: "«I was always enjoying squeezing balloons, pressing them with my fingers until they pop… It has not been up until now that I realized why…»"
+    ita: ""
+  bio:
+    eng: "studied music composition in his native Manila, Philippines.  Dennis is currently pursuing his doctorate degree in music composition at the University of Illinois at Urbana-Champaign under the tutelage of Scott A. Wyatt.  His compositions find inspiration in a wide range of subjects, from Asian music to modern art, and also incorporate elements of Philippine tradition.  Dennis’ compositions have received numerous performances in Europe, Asia, and the United States."
+    ita: ""
+
+y2015e0101:
+  cat: "01"
+  first: Benjamin
+  last: O'Brien
+  title: "Along the eaves"
+  duration:
+    min: "8"
+    sec: "02"
+  year: "2015"
+  prognote:
+    eng: "takes its name from the following line in Franz Kafka’s “A Crossbreed:” “On the moonlight nights its favorite promenade is along the eaves.” To compose the work, I developed custom software and used these programs in different ways to process and sequence my source materials, which, in this case, included audio recordings of water, babies, and string instruments. My interest is to create sonic coincidences that suggest relationships between sounds and the illusions they foster."
+    ita: ""
+  bio:
+    eng: "composes, researches, and performs acoustic and electro-acoustic music that focuses on issues of translation and machine listening. He holds a Ph.D in Music at the University of Florida, a MA in Music Composition from Mills College, and a BA in Mathematics from the University of Virginia. His work is published by Oxford University Press, Taukay Edizioni Musicali, Canadian Electroacoustic Community, and SEAMUS. He lives in Marseille, France."
+    ita: ""
+  
+y2015e0133:
+  cat: "01"
+  first: Ursula
+  last: Meyer-König
+  title: "Allears"
+  duration:
+    min: "8"
+    sec: ""
+  year: "2013"
+  prognote: 
+    eng: "The inspiration for this work originally came from a series of intensive discussions with people who are deaf or have hearing impairments. We talked about the pros and cons of technical apparatuses such as hearing aids or cochlea implants, the different ethical and emotional responses people have to them, and the identity issues they raise. Wearing hearing aids also changes how sounds are perceived, sometimes causing interference, distortions, diminished spatial perception and noise overflow."
+    ita: ""
+  bio:
+    eng: "lives in Zurich. After a career as a pediatrician, she undertook foundation and media art studies at the HGKZ in Zurich and the FH Aarau, Switzerland, followed by a continuation course in electro-acoustic composition at the Hochschule für Musik in Weimar, Germany under Prof. R. Minard. She is currently studying electroacoustic composition under Prof. G. Toro-Pérez at ZHdK and ICST, Zurich, Switzerland."
+    ita: ""
+    
+    
