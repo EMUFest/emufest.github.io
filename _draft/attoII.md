@@ -14,6 +14,17 @@ image:
    
 ---
 
+
+“Via l’indugio dal cuore, andate, tutti seguitemi
+ alla casa di Cibele in Frigia, ai boschi suoi di Frigia
+ dove suona voce di cimbali e alto grido di timpani,
+ dove il flautista frigio canta denso sul flauto curvo”
+(Catullo - Canti, 63)
+
+
+Il flauto è forse uno degli strumenti con il più ampio repertorio contemporaneo; la serata inaugurale dell’Emufest sarà caratterizzata proprio dall’esecuzione di brani per flauto e live electronics. 
+Tra le composizioni in programma le prime esecuzioni di: “[re-spì-ro] “,  opera di Maria Cristina De Amicis, e  “7 Isole”, nuovo lavoro di Giorgio Nottoli, ideatore di questo festival. 
+
 * Table of Contents
 {:toc}
 
