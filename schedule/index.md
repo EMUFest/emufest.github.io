@@ -232,7 +232,7 @@ Sound Direction: **Marco De Martino**
  - Enrico Minaglia • *Physis III - Metal*, for trombone and live electronics (7'10)
  - Núria Giménez-Comas • *No More Words*, for soprano and live electronics (6'27)
  - Silvia Lanzalone • *eRose*, acousmatic (10')
- - Azzigotti • *Vilanos*, for two amplified flutes (10')
+ - Luciano Azzigotti • *Vilanos*, for two amplified flutes (10')
  - Karen Power • *deafening silence*, for piano and tape (6')
  - Pasquale Citera • *Musica per organi caldi*, Intonazione e Fuga Eletroacustica per Organo e live electronics (6')
  
@@ -245,6 +245,8 @@ organ **Giovanni Ubertini**
 ---
 
 # October, 9th
+
+---
 
 Time: **11:00**    
 Location: ***Sala Medaglioni***    
@@ -280,11 +282,16 @@ Duration: **60'**
 Sound Direction: **Marco De Martino**
 
  - Javier Alejandro Garavaglia • *Hoquetus*, for sopran sax and live electronics (9')
- - Bussotti • *Ultima RARA*, for acting guitar ()
- - Delgado • *Permanente e transitorio*, acousmatic (7'20'')
- - Dashow • *Soundings in Pure Duration n.7*, for alto saxophone and tape (10'20'')
- - Pisati • *SENTI!*, for guitar, percussions, string orchestra, voice and live electronics ()
+ - Sylvano Bussotti • *Ultima RARA*, for acting guitar (8')
+ - Gustavo Delgado • *Permanente e transitorio*, acousmatic (7'20'')
+ - James Dashow • *Soundings in Pure Duration n.7*, for alto saxophone and tape (10'20'')
+ - Maurizio Pisati • *SENTI!*, for guitar, percussions, string orchestra and live electronics (15')
 
+
+saxes **Enzo Filippetti**
+guitar **Arturo Tallini**
+ensemble **Orchestra Europa**
+ 
 ---
 
 # October, 13th
@@ -330,3 +337,5 @@ Sound Direction: **Francesco Bianco**
  - Mario Mary • *Rock*, for piano and live electronics (8'30'')
  - Inhorep • *inhorep@emufest*, laptop trio (15')
  
+flute **Alessandro Pirchio**
+piano **Sara Ferrandino**
