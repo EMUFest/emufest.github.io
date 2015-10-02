@@ -288,8 +288,8 @@ Sound Direction: **Marco De Martino**
  - Maurizio Pisati • *SENTI!*, for guitar, percussions, string orchestra and live electronics (15')
 
 
-saxes **Enzo Filippetti**
-guitar **Arturo Tallini**
+saxes **Enzo Filippetti**    
+guitar **Arturo Tallini**    
 ensemble **Orchestra Europa**
  
 ---
@@ -337,5 +337,5 @@ Sound Direction: **Francesco Bianco**
  - Mario Mary • *Rock*, for piano and live electronics (8'30'')
  - Inhorep • *inhorep@emufest*, laptop trio (15')
  
-flute **Alessandro Pirchio**
+flute **Alessandro Pirchio**    
 piano **Sara Ferrandino**
