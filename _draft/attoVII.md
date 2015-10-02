@@ -14,6 +14,15 @@ image:
    
 ---
 
+ATTO VII
+
+Un attenta riflessione sui brani presentati in questo 7° concerto lascia intendere che non tutto è dato per scontato e che l'arte Audio-Visiva è quasi spesso frutto di di un compromesso stabilito dai compositori. Rappresentazioni astratte per mezzo di processi generativi, studi sulla sintesi granulare e sulla frammentazione delle immagini, percorsi pseudo-narrativi e altre tecniche, sono più o meno importanti, o che ruolo hanno rispetto a ciò che poi sentiamo? 
+Dunque nasce prima un immagine o un suono o una semplice idea?
+
+
+Careful reflection on the pieces presented in this 7th concert suggests that all is not taken for granted and the Audio-Visual Art is almost often the result of a compromise established by the composers. Abstract representations through generative processes, studies on granular synthesis and the fragmentation of images, pseudo-narrative paths and other techniques are more or less important, or what role than what we hear then?
+So it was born before a picture or a sound or a simple idea?
+
 * Table of Contents
 {:toc}
 

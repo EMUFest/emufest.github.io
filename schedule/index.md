@@ -127,7 +127,7 @@ mezzosoprano **Virginia Guidi**
 
 ## *VoicErutseG*
 
-introduction to Integra Lab, an interdisciplinary research lab from Birmingham.
+introduction to *Integra Lab*, an interdisciplinary research lab from Birmingham.
 
 Time: **11:00**    
 Location: ***Il Suono di Piero [Aula Bianchini]***    
@@ -185,16 +185,16 @@ Time: **20:30**
 Location: ***Sala Accademica***    
 Category: **Acousmatic & Live Electronics**    
 Duration: **60'**    
-<!-- Sound Direction: **Luana Lunetta** -->
+Sound Direction: **Francesco Ziello**
 
- - Capurso • *Sezioni per organo spazializzato*, for organ and live electronics (9')
+ - Elisabetta Capurso • *Sezioni per organo spazializzato*, for organ and live electronics (9')
  - Anna Terzaroli, Cristiana Colaneri • *Fantasia per due*, for saxophones, percussions and tape  (8')
  - Demian Rudel Rey • *Cenizas del Tiempo*, acousmatic (7')
  - György Ligeti • *Volumina*, for organ (15')
  - Alessandro Ratoci • *Studio Mannaro*, for baritone saxophone (10')
  
 saxophones **Enzo Filippetti**     
-percussions **Valerio Cusmai**    
+percussions **Valerio Cosmai**    
 organ **Antonella Barbarossa**
 
 ---
@@ -238,7 +238,7 @@ Sound Direction: **Marco De Martino**
  
 trombone **Raffaele Marsicano**    
 voce **Virginia Guidi**    
-flutes **Elena D'Alò, Alessandro Pace**    
+flutes **Alessandro Pace, Elena D'Alò**    
 piano **Francesco Ziello**    
 organ **Giovanni Ubertini**
 
@@ -277,10 +277,10 @@ Time: **20:30**
 Location: ***Sala Accademica***    
 Category: **Acousmatic & Live Electronics**    
 Duration: **60'**    
-<!-- Sound Direction: **Luana Lunetta** -->
+Sound Direction: **Marco De Martino**
 
  - Javier Alejandro Garavaglia • *Hoquetus*, for sopran sax and live electronics (9')
- - Bussotti • *Ultima RARA*, for guitar ()
+ - Bussotti • *Ultima RARA*, for acting guitar ()
  - Delgado • *Permanente e transitorio*, acousmatic (7'20'')
  - Dashow • *Soundings in Pure Duration n.7*, for alto saxophone and tape (10'20'')
  - Pisati • *SENTI!*, for guitar, percussions, string orchestra, voice and live electronics ()
