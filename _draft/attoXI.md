@@ -14,6 +14,22 @@ image:
    
 ---
 
+ATTO XI
+
+“Vieni, disse la Musa,
+cantami un canto che nessun poeta ha mai cantato,
+cantami l'universale.
+Nella nostra vasta terra,
+in mezzo alla volgarità smisurata e alla feccia,
+racchiuso e sicuro nel suo cuore più intimo,
+si nasconde il seme della perfezione.”
+(Walt Whitman - Canto dell'universale)
+
+“La metafora è probabilmente la forza più feconda che l'uomo possieda.”
+(José Ortega y  Gasset - La disumanizzazione dell'arte)
+
+L'esibizione Atto XI racchiude cinque brani che inglobano le varie forme della musica elettronica, passando da un live-electronics a un acustico e tape, finendo con un acusmatico. I titoli di questi lavori hanno come filo conduttore il rapporto tra l'ambiente e la natura umana che li integra e li unisce.
+
 * Table of Contents
 {:toc}
 

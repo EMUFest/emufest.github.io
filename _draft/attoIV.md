@@ -19,8 +19,8 @@ Il movimento nello spazio fisico per l'attuazione di processi sonori.
 Il movimento del suono nello spazio per mettere in risalto differenti tematiche compositive.
 Il testo poetico che si tramuta in suono.
 
-Il concerto Atto IV comprende due brani nati dalla collaborazione tra allievi delle classi di Composizione e Musica Elettronica, un progetto musicale live-electronics che utilizza sensori di movimento per il trattramento del suono, un brano per flauto ed elettronica su supporto e un brano acusmatico che usufruisce della diffusione sonora spazializzata.
-
+Il concerto Atto IV comprende due brani nati dalla collaborazione tra allievi delle classi di Composizione e Musica Elettronica, un progetto musicale live-electronics che utilizza sensori di movimento per il trattramento del suono, un brano per flauto ed elettronica su supporto e un brano acusmatico che usufruisce della diffusione sonora spazializzata.     
+*Luana Lunetta*
 
 * Table of Contents
 {:toc}
@@ -34,7 +34,7 @@ Il concerto Atto IV comprende due brani nati dalla collaborazione tra allievi de
 Time: **11:00**    
 Location: **Foyer**    
 Category: **Talks & Foods**    
-<!-- Sound Direction: **Francesco Ziello** -->
+Sound Direction: **Luana Lunetta**
 
 ---
 

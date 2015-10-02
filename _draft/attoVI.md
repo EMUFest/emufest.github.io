@@ -14,6 +14,10 @@ image:
    
 ---
 
+Un concerto che narra le modulazioni dell’aria attraverso forme diverse d’insufflazione. I toni, i ritmi e i timbri che si diffondono dalle canne d’organo e del sax, incontrano, dialogano e interagiscono con l’elettronica e la multi percussione fino a diventare un’unica massa cangiante, intima o dirompente, animata o pacata, sempre espressiva.
+
+A concert that narrates the modulations of the air through different forms of  insufflation. Tones, rhythms and timbres that spread from the organ pipes and the sax, meet, talk and interact with electronics and multi percussions to become a changing, disruptive or intimate, lively or calm, always expressive unique mass.
+
 * Table of Contents
 {:toc}
 
