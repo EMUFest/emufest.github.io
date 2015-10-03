@@ -92,10 +92,10 @@ Category: **Acousmatics in HOA Domain**
 Duration:     
 Sound Direction: **Federico Paganelli**   
 
- - Jan Jacob Hofmann • *Horizontal and Vertical Lines* ()
+ - Jan Jacob Hofmann • *Horizontal and Vertical Lines* (7'53)
  - Clemens Von Reusner • *Topos Concrete* (9'18'')
  - Damián Anache • *Capturas del Único Camino* (14'29'')
- - Jan Jacob Hofmann • *Tensile Elements* ()
+ - Jan Jacob Hofmann • *Tensile Elements* (9'30'')
 
 ---
 
