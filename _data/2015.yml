@@ -1,4 +1,65 @@
-y2015e0001:
+# TEMPLATE:
+yYYYYeFOLD:
+  names:
+    author:
+      first:
+      last:
+      dateofbirth:
+        year: ""
+        month: ""
+        day: ""
+      nationality:
+      eng: ""
+      ita: ""
+    author2:
+      first:
+      last:
+      dateofbirth:
+        year: ""
+        month: ""
+        day: ""
+      nationality:
+      eng: ""
+      ita: ""
+    author3:
+      first:
+      last:
+      dateofbirth:
+        year: ""
+        month: ""
+        day: ""
+      nationality:
+      eng: ""
+      ita: ""
+    author4:
+      first:
+      last:
+      dateofbirth:
+        year: ""
+        month: ""
+        day: ""
+      nationality:
+      eng: ""
+      ita: ""
+    author5:
+      first:
+      last:
+  entrydescription:
+    cat: ""         # 01 acousmatic 02 audiovisual 03 live electronics
+    title: ""
+    subtitle: ""
+    description: ""
+    duration:
+      minutes: ""
+      seconds: ""
+    year: ""
+    prognote:
+      eng: ""
+      ita: ""
+
+# DATABASE 2015 RIEMPITO A MANO
+
+y2015e0003:
   cat: "01"
   first: Clemens
   last: Von Reusner
@@ -13,6 +74,23 @@ y2015e0001:
   bio:
     eng: "is a composer and soundartist based in Germany, who is focused on acousmatic music. International broadcasts and performances of his compositions. www.cvr-net.de"
     ita: "è un compositore e soundartist residente in Germania, il cui lavoro si concentra sulla musica acusmatica. Le sue composizioni hanno ottenuto trasmissioni ed esecuzioni a livello internazionale."
+
+y2015e0018:
+  cat: "03"
+  first: Carlos D. 
+  last: Perales
+  title: "17 Haiku"
+  duration:
+    min: "10"
+    sec: "00"
+  year: "2012"
+  prognote:
+    eng: "Heirs of haikai, comic-themed and outgoing figuralisms in Japanese poetry, haiku was taking its own identity in the complex art of expression of consciousness. In them, senses are suggested, not the meanings. Haiku does not mean, because it says nothing. Indeed, haiku does not have an informative function. But, perhaps, to the expressive function, a suggestive function should be added."
+    ita: "Eredi degli haikai, fumetti a tema e figuralismi uscenti della poesia giapponese, gli haiku si sono guadagnati una propria identità nella complessa arte di espressione della coscienza. In essi si suggeriscono i sensi, non i significati. Haiku non significa, perché non dice nulla. Infatti, gli haiku non hanno una funzione informativa. Ma, forse, alla funzione espressiva bisogna aggiungere una funzione suggestiva."
+  bio:
+    eng: "His works have been awarded at international competition contest likÈMiniaturas Electroacústicas' - Confluencias (Huelva, 2008), Laboratorio del Espacio LIEM-CDMC (Madrid, 2010), XXII Composition Contest SGAE (Madrid, 2011), Toy Piano World Summit (Luxembourg, 2012), Musica Nova (Prague, Czech republic, 2012), Luigi Russolo (France, 2012), Fundación Destellos (Argentine, 2013). PhD by Universidad Politécnica de Valencia. Since 2014 lectures Composition & Electroacoustic music at CSMCLM."
+    ita: "Le sue opere sono state premiate ai concorsi internazionali 'Miniaturas Electroacústicas' - Confluencias (Huelva, 2008), Laboratorio del Espacio LIEM-CDMC (Madrid, 2010), XXII Concorso di Composizione SGAE (Madrid, 2011), Toy Piano Summit Mondiale (Lussemburgo, 2012), Musica Nova (Praga, Repubblica Ceca, 2012), Luigi Russolo (Francia, 2012), Fundación Destellos (Argentina, 2013). Ha conseguito il dottorato presso l'Universidad Politécnica di Valencia. Dal 2014 tiene lezioni di Composizione Elettroacustica al CSMCLM."
+
 
 y2015e0026:
   cat: "03"
@@ -118,7 +196,7 @@ y2015e0133:
   title: "Allears"
   duration:
     min: "8"
-    sec: ""
+    sec: "00"
   year: "2013"
   prognote: 
     eng: "The inspiration for this work originally came from a series of intensive discussions with people who are deaf or have hearing impairments. We talked about the pros and cons of technical apparatuses such as hearing aids or cochlea implants, the different ethical and emotional responses people have to them, and the identity issues they raise. Wearing hearing aids also changes how sounds are perceived, sometimes causing interference, distortions, diminished spatial perception and noise overflow."
@@ -126,7 +204,28 @@ y2015e0133:
   bio:
     eng: "lives in Zurich. After a career as a pediatrician, she undertook foundation and media art studies at the HGKZ in Zurich and the FH Aarau, Switzerland, followed by a continuation course in electro-acoustic composition at the Hochschule für Musik in Weimar, Germany under Prof. R. Minard. She is currently studying electroacoustic composition under Prof. G. Toro-Pérez at ZHdK and ICST, Zurich, Switzerland."
     ita: "compone, ricerca, ed esegue musica acustica e elettroacustica che si concentra su questioni di trasformazione e l'ascolto delle macchine. Ha conseguito un dottorato in musica presso l'Università della Florida, un MA in composizione musicale al Mills College, e una laurea in Matematica presso l'Università della Virginia. La sua opera è pubblicata dalla Oxford University Press, Taukay Edizioni Musicali, canadese Elettroacustica Comunità, e Seamus. Vive a Marsiglia, in Francia."
-    
+
+y2015e0208:
+  cat: "03"
+  authora:
+    first: Alessia
+    last: Forganni
+    eng: "(Brescia, 1982) graduated in Piano at Luca Marenzio Conservatory under the guidance of M° M. Zana. She also graduated at University in D.A.M.S. Since 2007 she has lived and taught in Rome: in the last years she combined classical piano with a modern approach: playing in the piano duo named Duel she had the chance to perform in Europe, Russia, Lebanon and South Africa between 2009 and 2015. Now she is finishing bachelor’s degree in Electronic Music at Santa Cecilia Conservatory: her research aspires to find a personal compromise between her classical background, extemporary exploration, use of the voice and contemporary influence."
+    ita: "(Brescia, 1982) si diploma in pianoforte presso il conservatorio Luca Marenzio, sotto la guida del M° M. Zana, e si laurea al D.A.M.S. - Indirizzo Cinema e Audiovisivi. Dal 2007 vive e insegna a Roma: negli ultimi anni all’attività classica ha affiancato un approccio moderno allo strumento: con il duo pianistico Duel, tra il 2009 al 2015 si è esibita in Europa, Russia, Libano e Sudafrica. Attualmente sta ultimando il triennio di Musica Elettronica presso il conservatorio Santa Cecilia: la sua ricerca compositiva è volta a una personale messa in relazione tra il background classico, l’esplorazione improvvisativa, l’utilizzo della voce e le istanze contemporanee."
+  authorb:
+    first: Daniele
+    last: Vantaggio
+    eng: "(Rome, 1987) is a producer, sound designer and sound engineer. He graduated in HD recording at Saint Louis College of Rome in 2006, under the guidance of M° L. Spagnoletti. He also obtained a degree in Sound Engineering thanks to V. Nocenzi and L. Pozzi. Since 2009 he has studied Electronic Music at Santa Cecilia Conservatory. He always developed a big interest in underground musical scene and he performed in Europe and South America. Currently he takes care of production, post-production, soundtracks for cinema and theatre. He teaches and also directs a national radio program."
+    ita: "(Roma, 1987) è un produttore, sound designer e sound engineer. Si diploma alla St.Louis di Roma nel 2006 con il M° Luca Spagnoletti, in sintesi del suono e HD Recording e ottiene attestato di Sound Engineering con Vittorio Nocenzi e Lorenzo Pozzi. Dal 2009 studia presso il dipartimento di Musica Elettronica del Conservatorio Santa Cecilia. Da sempre il suo interesse è rivolto al suono della scena underground. Si esibisce in Europa e Sud America. Attualmente si occupa di produzioni discografiche, post-produzione, produzioni cinematografiche e teatrali, tiene corsi di formazione e conduce un programma radiofonico nazionale."
+  title: "KOMA - Kontrolled Organic Movement Act"
+  duration:
+    min: "10"
+    sec: "00"
+  year: "2015"
+  prognote:
+    eng: "Our entire life is made by acts. Life is articulated day by day through repetition. Millions of automatisms assure us a cognitive and energetic saving. So life seems to be an automated system that is difficult to avoid or control, without a real consciousness of our actions. Maybe we should see our actions as a ritual gesture, instead of a simple repetition of the same act. Sometimes we should give time, meaning and attention to our acts to really control them. The performance includes tape, live piano, voices, live electronics and sound controlling by body movement through Kinect and Leap Motion system."
+    ita: "Tutta la nostra vita è fatta di gesti: grazie alla ripetizione di milioni di essi la vita è scandita ogni giorno. Forme di automatismi permettono un risparmio cognitivo ed energetico e alla maggior parte non si fa caso. La vita appare così un sistema automatizzato dal quale è difficile sottrarsi e avere reale controllo, uno stato di assenza di reale coscienza e consapevolezza. Per rendere i nostri gesti un atto consapevole bisogna vederli nella loro “ritualità” piuttosto che “ripetitività”, conferendovi significato e tempo,  focalizzandovi al massimo la nostra attenzione. La performance include nastro, piano e voci dal vivo, live electronics e controllo del suono tramite movimento con i sistemi di sensoristica Kinect e Leap Motion."
+      
 y2015e0251:
   cat: "03"
   first: Dominique
@@ -134,7 +233,7 @@ y2015e0251:
   title: "Cendre"
   duration:
     min: "10"
-    sec: ""
+    sec: "00"
   year: "2008"
   prognote:
     eng: "draws on the idea from the impermanence of materiality. The title of the piece gives further meaning referring to a fragile and delicate state, but also the potential of ashes as a fertilizer for something new. The bass flute being suspended within the electronics extends space and timbre, at times detaching itself within its own identity, but repeatedly gets reabsorbed into space. The piece was written for and premiered by Mario Caroli during his Fromm Residency at Harvard University."
@@ -143,6 +242,23 @@ y2015e0251:
     eng: "A native of Fribourg, Switzerland, Dominique Schafer is a composer whose breadth of musical expression encompasses both, acoustic instrumentation and electroacoustic media. His music has been performed by ensembles and performers such as the Arditti String Quartet, Dinosaur Annex Ensemble, Ensemble Fa, Boston Modern Orchestra Project (BMOP), Talea Ensemble, Frances Marie Uitti, Alarm will Sound, and the California EAR Unit, at festivals such as Musica Nova Finland, June in Buffalo, and others."
     ita: "Nato in Svizzera a Friburgo, è un compositore la cui espressività musicale spazia da lavori per strumenti acustici a lavori multimediali elettroacustici. Le sue composizioni sono state eseguite dall’Arditti String Quartet, Dinosaur Annex Ensemble, Ensemble Fa, Boston Modern Orchestra Project (BMOP), Talea Ensemble, Frances Marie Uitti, Alarm will Sound, California EAR Unit, nel Musica Nova Finland Festival e nel June di Buffalo, tra i tanti."
 
+y2015e0262:
+  cat: "01"
+  first: Massimo
+  last: Massimi
+  title: "Kronos in Fabula I"
+  duration:
+    min: "10"
+    sec: "00"
+  year: "2015"
+  prognote:
+    eng: "The acousmatic piece “Kronos in Fabula 1” is part of a series of compositions dedicated to the speculation about time. The material’s acoustic density represents the time trend; the possibilities of the listening points’ collocation on the time axis are connected to a feasible fruition “directionality” linked to the sequence and reiteration of sounds events."
+    ita: "è l’acusmatico di un ciclo di composizioni dedicate alla speculazione sul tempo. La densità acustica del materiale rappresenta l’andamento del movimento temporale, le possibilità di collocazione di punti di ascolto sull’asse del tempo vengono associate a una possibile “direzionalità” dell’ascolto legata al concatenarsi e al reiterarsi degli eventi sonori."
+  bio:
+    eng: "developed his music backgrounds at the Santa Cecilia Conservatory of Rome, graduated in lute and electroacoustic composition. After dealing with early music, he has dedicated himself to electronic music, with special attention to instrument and machine interaction."
+    ita: "si è formato musicalmente presso il Conservatorio Santa Cecilia di Roma, diplomato in liuto e musica elettronica, ha affrontando lo studio della musica antica e successivamente si è dedicato alla composizione elettroacustica con particolare attenzione all’interazione tra strumento e macchina."
+
+
 y2015e1064:
   cat: "03"
   first: Christian
@@ -150,7 +266,7 @@ y2015e1064:
   title: "La cicatrice d'Ulysse"
   duration:
     min: "13"
-    sec: ""
+    sec: "00"
   year: "2015"
   prognote:
     eng: "This title, borrowed from Erich Auerbach, German writer and critic deceased in 1957, immediately sets the scene on a plane where realism is depicted in the aesthetics of Western music. Electroacoustic music has the ability, using *concrete* sounds (with all the ambiguity implied by the word), of giving us an immediate sensation of reality, which we can all situate in relation to our references and private objects of reference; these are the profound notions of sublimitas and humilitas, which merge and unite in musical expression. Every listener will be able to decipher his or her own images of a collective mental universe from the essence of this kind of artistic creation, just like the scar by which Ulysses was recognised by his former servant woman."
