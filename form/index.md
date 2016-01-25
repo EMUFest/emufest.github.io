@@ -11,8 +11,6 @@ image:
 
 **The registration form is CLOSED.**
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/ef4a33ae04c0" method="POST">
-  <input type="hidden" name="utf8" value="✓">
-  <input type="email" name="email" placeholder="Your Email">
-  <button type="submit">Submit</button>
-</form>
+<iframe src="http://173.236.144.114:3000/works"></iframe>
+
+**The registration form is CLOSED.**
