@@ -30,17 +30,6 @@
 	}
 }
 
-.entry-feature-image-top {
-	margin: 20px 0 0;
-	width: 100%;
-	@include media($medium) {
-		margin-top: -75px; /* move up to be overlapped by site logo */
-	}
-	@include media($large) {
-		margin-top: -294px; /* move up further to be overlapped by site logo */
-	}
-}
-
 /* page header */
 
 .entry-header {
@@ -50,14 +39,30 @@
 /* tag listing in page header */
 
 .entry-tags {
-	display: block;
-	margin-top: 2em;
+	margin: 2em 0 0;
+  padding: 0;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 600;
-	a {
-		color: $text-color;
-	}
+  a {
+    color: $text-color;
+    padding: 0 5px;
+  }
+  li {
+    display: inline-block;
+    margin-bottom: 0;
+    &:before {
+      content: "\2022";
+    }
+    &:first-child {
+      &:before {
+        content: "";
+      }
+      a {
+        padding-left: 0;
+      }
+    }
+  }
 }
 
 /* page title */
@@ -157,7 +162,7 @@ span + .entry-title {
     max-width: 960px;
   }
   a {
-    color: lighten($text-color, 0);
+    color: lighten($text-color, 30);
   }
 }
 
@@ -231,11 +236,11 @@ span + .entry-title {
 	border-radius: $border-radius;
   ul {
   	list-style-type: none;
-  	// padding-left: 0;
+  	padding-left: 0;
   }
   li {
     @include font-size(16,no,18);
-    // border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
     list-style-type: none;
   }
   h6 {
@@ -254,8 +259,6 @@ span + .entry-title {
     }
   }
 }
-
-
 
 /*
    Tables
@@ -304,29 +307,5 @@ span + .entry-title {
 	}
 	tr, td, th {
 		vertical-align: middle;
-	}
-}
-
-.alttable {
-	border-collapse: collapse;
-	margin: ((0px + $doc-line-height) / 2) 0;
-	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 2) 0;
-	width: 100%;
-	tbody {
-		tr:hover > td, tr:hover > th {
-			background-color: $table-hover-color;
-		}
-	}
-	thead {
-		tr:first-child td {
-			border-bottom: 2px solid $table-border-color;
-		}
-	}
-	tr, td, th {
-		vertical-align: middle;
-		border-bottom: 1px solid $border-color;
-		padding: (0px + $doc-line-height) / 2;
-		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
-		@include font-size(18);
 	}
 }

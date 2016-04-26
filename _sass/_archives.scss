@@ -17,7 +17,7 @@
     padding: 8px 0;
     border-bottom: 1px solid lighten($black,80);
     border-bottom: 1px solid rgba($black,.10);
-    @include font-size(24,no);
+    @include font-size(18,no);
     @include clearfix;
     > a {
       border-bottom-width: 0; /* remove underlines from items in post indexes */
@@ -27,7 +27,7 @@
     float: right;
   }
   .entry-date {
-    @include font-size(18,no);
+    @include font-size(14,no);
     text-transform: uppercase;
     display: none;
     @include media($medium) {
