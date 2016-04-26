@@ -19,9 +19,7 @@
   url: /about/
 
 - title: Past Editions
-  dropdown:
-  - title: EMUFest 2015
-    url: /emufest2015/
+  url: /pastEditions/
 
 - title: Conservatorio S. Cecilia
   url: http://www.conservatoriosantacecilia.it
