@@ -9,11 +9,10 @@
 .notice {
   margin-top: 1.5em;
   padding: .5em 1em;
-  text-indent: 1em;
-  @include font-size(24);
-
-  // background-color: lighten($black, 95);
-  // border: 1px solid lighten($black, 90);
+  text-indent: 0;
+  @include font-size(16);
+  background-color: lighten($black, 95);
+  border: 1px solid lighten($black, 90);
   @include rounded(4px);
 }
 
