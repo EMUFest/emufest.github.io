@@ -1,0 +1,13 @@
+en:
+  url: ''
+  language: 'en'
+  translation:
+    text: 'IT'
+    url: '/it'
+
+it:
+  url: '/it'
+  language: 'it'
+  translation:
+    text: 'ENG'
+    url: ''

@@ -3,6 +3,27 @@
 timezone: CEST
 lang: en
 
+defaults:
+  # Default language
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+  # Language for everything inside `/en`
+  -
+    scope:
+      path: "it"
+    values:
+      lang: "it"
+  # Language for English posts
+  -
+    scope:
+      path: "it/_posts"
+      type: "posts" # As of version 2.3.0, Jekyll uses plural keywords for type
+    values:
+      lang: "it"
+
 # Site wide configuration
 
 title: EMUFest
@@ -15,6 +36,7 @@ url: http://www.emufest.org
 # Jekyll configuration
 
 permalink:   /:categories/:title/
+#permalink: /:categories/:year/:month/:title
 markdown:    kramdown
 highlighter: rouge
 sass:

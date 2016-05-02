@@ -3,6 +3,7 @@ layout: page
 title: EMUFest 2016
 excerpt: "Per volontà e per caso"
 modified: 2016-04-27T01:27:35
+static: "2016-emufest"
 image:
   feature:
   credit:
