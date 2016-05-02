@@ -58,13 +58,11 @@ Staff Coordinator
 
 Staff   
 **Francesco BIANCO**   
-**Gianmarco COSTA***   
 **Elena D’ALÒ**   
-**Virginia GUIDI**   
+**Luana LUNETTA**   
 **Leonardo MAMMOZZETTI**   
 **Massimiliano MASCARO**   
 **Federico PAGANELLI**   
-**Michele PAPA**   
 **Anna TERZAROLI**   
 **Francesco ZIELLO**   
 
@@ -141,7 +139,7 @@ Postal address of the festival committee:
 
 </tr>
 
-<!-- <tr>
+<tr>
 
 <td align="center">
 	<div style="width: 18em; height: auto; padding: 20px;">
@@ -157,7 +155,7 @@ Postal address of the festival committee:
 	</div>
 </td>
 
-</tr> -->
+</tr>
 
 <tr>
 
