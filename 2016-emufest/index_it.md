@@ -11,8 +11,8 @@ image:
 
 General notes on the 9th EMUFest Edition.
 
-* Table of Contents
-{:toc}
+<!-- * Table of Contents
+{:toc} -->
 
 ## Per volontà e per caso
 
