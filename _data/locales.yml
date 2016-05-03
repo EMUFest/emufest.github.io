@@ -4,6 +4,7 @@ en:
   translation:
     text: 'IT'
     url: '/it'
+    description: "International Electroacoustic Music Festival"
 
 it:
   url: '/it'
@@ -11,3 +12,4 @@ it:
   translation:
     text: 'ENG'
     url: ''
+    description: "Festival Internazionale di Musica Elettroacustica"

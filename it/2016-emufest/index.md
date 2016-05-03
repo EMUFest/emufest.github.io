@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-General notes on the 9th EMUFest Edition.
+Informazioni generali sulla IX edizione di EMUFest.
 
 <!-- * Table of Contents
 {:toc} -->

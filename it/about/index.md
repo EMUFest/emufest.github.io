@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About EMUFest
-excerpt: "International Electroacoustic Music Festival"
+excerpt: "Festival Internazionale di Musica Elettroacustica"
 modified: 2015-03-31T00:26:38
+static: "about"
 image:
   feature:
   credit:
