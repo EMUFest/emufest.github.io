@@ -17,10 +17,12 @@ body {
 }
 
 // COLORS =====================================================
-$supercolor         : #032724;
-$ombreduble         : #adb7b6;
+// 2015 $supercolor         : #032724;
+// 2015 $ombreduble         : #adb7b6;
+$supercolor         : #301026;
+$ombreduble         : #44273b;
 
-$body-color         : #eaeaea;
+$body-color         : #eae7e9; // #eaeaea;
 $text-color         : $supercolor;
 $base-color         : #343434;
 $comp-color         : spin($base-color, 90);

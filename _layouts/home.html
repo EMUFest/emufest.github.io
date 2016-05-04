@@ -1,4 +1,5 @@
 <!doctype html>
+<html lang="{{ page.lang }}">
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
@@ -22,7 +23,7 @@
             {% if page.image.artist %}
             {% if page.image.work %}
       <p class="image-credit">
-        Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a> • 
+        Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a> •
         Artist: <a href="{{ page.image.artistlink }}">{{ page.image.artist }}</a> •
         Title: <a href="{{ page.image.worklink }}">{{ page.image.work }}</a>
       </p>

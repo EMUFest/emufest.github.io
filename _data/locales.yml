@@ -1,0 +1,15 @@
+en:
+  url: ''
+  language: 'en'
+  translation:
+    text: 'IT'
+    url: '/it'
+    description: "International Electroacoustic Music Festival"
+
+it:
+  url: '/it'
+  language: 'it'
+  translation:
+    text: 'ENG'
+    url: ''
+    description: "Festival Internazionale di Musica Elettroacustica"
