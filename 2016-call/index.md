@@ -2,7 +2,7 @@
 layout: page
 title: Call For Works
 excerpt: "Per volontà e per caso"
-modified: 2016-04-27T01:27:35
+modified: 2016-05-05T01:26:21
 static: "2016-call"
 image:
   feature:
@@ -13,9 +13,9 @@ image:
 Conservatorio S. Cecilia of Rome presents the 8th edition of EMUFest   
 (International Electroacoustic Music Festival)
 
-**The festival will take place from the 21st to the 26th of September 2015.**
+**The festival will take place from the 20st to the 27th of October 2016.**
 
-Works will have to fall within one of the following three categories or combinations:
+Works will have to fall within one of the following two categories:
 
  1. **Acousmatic works**:   
     compositions for recorded-only sounds (synthesised or/and concrete), from one to eight channels.
@@ -24,11 +24,11 @@ Works will have to fall within one of the following three categories or combinat
 
 **Each author can submit only one work.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **submission form** and uploading all the required materials, necessary to the committee.
+Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](http://submission.emufest.org)** and uploading all the required materials, necessary to the committee.
 
-**The registration form will not be available after 23:59 am CEST on <del>May 31st</del> June 15th, 2015.**
+**The registration form will not be available after 23:59 CEST on July 17th, 2016.**
 
-**The selected works will be announced by <del>June 15th</del> June 25, 2015.**
+**The selected works will be announced by July 1th, 2016.**
 
 Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
 
@@ -58,7 +58,9 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
 
 All the required material must be sent by compiling the online submission form.
 
-**[SUBMISSION FORM]({{ site.url }}/form)**
+<div markdown="0">
+  <a href="http://submission.emufest.org" class="mybtn">SUBMISSION FORM</a>
+</div>
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
 > [Other contacts](http://www.emufest.org/about/#contacts)

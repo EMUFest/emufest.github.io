@@ -9,17 +9,17 @@
 # - title: SCHEDULE
 #   url: /schedule/
 
-- title: News
-  url: /articles/
+# - title: News
+#   url: /articles/
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
 - title: About
   url: /about/
 
-- title: Past Editions
-  url: /pastEditions/
+# - title: Past Editions
+#   url: /pastEditions/
 
 - title: Conservatorio S. Cecilia
   url: http://www.conservatoriosantacecilia.it

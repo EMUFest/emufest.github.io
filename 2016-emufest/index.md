@@ -31,3 +31,7 @@ The ***Sequence*** is the result of the selection and interpretation of the new 
 The ***Events*** are realized in collaboration with other Italian Conservatories, Festivals or other Institutions. They consist of conferences, seminars and concerts of internationally known musicians and researchers during the Summer - Autumn 2016 period.
 
 The ***Fusions***, produced with the collaboration of international teachers and performers, introduce the approach to contemporary composition and performance of music in tutorial and performative form.
+
+<div markdown="0">
+  <a href="{{site.url }}/2016-call" class="mybtn">!!! CALL FOR WORKS !!!</a>
+</div>
