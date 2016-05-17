@@ -25,6 +25,26 @@
     color: $white;
   }
 }
+
+.twobtn {
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  @include font-size(24);
+  background-color: $white;
+  color: $black;
+  border: 2px solid $black !important;
+  border-radius: $border-radius;
+  &:visited {
+    color: $black;
+  }
+  &:hover {
+    background-color: $black;
+    color: $white;
+  }
+}
 //
 // /*
 //    Close button
