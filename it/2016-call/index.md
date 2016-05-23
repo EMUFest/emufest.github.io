@@ -26,9 +26,9 @@ Works will have to fall within one of the following two categories:
 
 Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]()** and uploading all the required materials, necessary to the committee.
 
-**The registration form will not be available after 23:59 CEST on July 17th, 2016.**
+**The registration form will not be available after 23:59 CEST on July 22th, 2016.**
 
-**The selected works will be announced by July 1th, 2016.**
+**The selected works will be announced by August 1th, 2016.**
 
 Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
 
@@ -42,7 +42,7 @@ Submissions must include a complete description of the technical set-up needed a
     - if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate;
     - live electronics works submitted without all software components for the functioning of the work will be discarded.
 
-For “Category 2” the conservatory will provide performers chosen amongst its faculty and selected graduate students. Technical performers will be chosen among the students of the Electronic Music department. Should authors decide to use external performers they will have to bear all accommodation and travel costs, as well as any further expenses.
+For **Category 2** the conservatory will provide performers chosen amongst its faculty and selected graduate students. Technical performers will be chosen among the students of the Electronic Music department. Should authors decide to use external performers they will have to bear all accommodation and travel costs, as well as any further expenses.
 
 For the instrumental ensemble a maximum of 7 performers might be chosen from the following:
 
@@ -50,15 +50,15 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
   - violin, viola, cello, double bass
   - 2 flutes (C and / or G)
   - clarinet (cl. in Bb and bass cl.)
-  - bassoon
-  - 4 saxophones (soprano, alto, tenor, baritone)
+  - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
   - percussions (max 2 percussionists)
   - 2 electric and 2 classical guitars
-  - 2 piano
+  - 2 pianos
 
 All the required material must be sent by compiling the online submission form.
 
 <div markdown="0">
+  <!-- <a href="http://submission.emufest.org" class="mybtn">SUBMISSION FORM</a> -->
   <a href="" class="mybtn">SUBMISSION FORM</a>
 </div>
 
