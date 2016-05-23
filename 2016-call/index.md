@@ -46,10 +46,10 @@ For **Category 2** the conservatory will provide performers chosen amongst its f
 
 For the instrumental ensemble a maximum of 7 performers might be chosen from the following:
 
-  - 2 voices (soprano e mezzo soprano)
+  - 2 voices (soprano and mezzo soprano)
   - violin, viola, cello, double bass
   - 2 flutes (C and / or G)
-  - clarinet (cl. in Bb and bass cl.)
+  - clarinet (Bb cl. and Bb bass cl.)
   - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
   - percussions (max 2 percussionists)
   - 2 electric and 2 classical guitars
