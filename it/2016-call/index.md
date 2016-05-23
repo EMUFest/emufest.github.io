@@ -24,7 +24,7 @@ Works will have to fall within one of the following two categories:
 
 **Each author can submit only one work.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](http://submission.emufest.org)** and uploading all the required materials, necessary to the committee.
+Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]()** and uploading all the required materials, necessary to the committee.
 
 **The registration form will not be available after 23:59 CEST on July 17th, 2016.**
 
@@ -59,7 +59,7 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
 All the required material must be sent by compiling the online submission form.
 
 <div markdown="0">
-  <a href="http://submission.emufest.org" class="mybtn">SUBMISSION FORM</a>
+  <a href="" class="mybtn">SUBMISSION FORM</a>
 </div>
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
