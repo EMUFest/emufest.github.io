@@ -103,6 +103,7 @@ span + .entry-title {
 /* form wrapper */
 
 .entry-large-wrapper {
+	@include clearfix;
 	@include media($medium) {
 		max-width: em(728);
 		padding-right: 60px;
