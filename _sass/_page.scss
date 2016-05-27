@@ -100,6 +100,23 @@ span + .entry-title {
 	padding-left: $gutter;
 }
 
+/* form wrapper */
+
+.entry-large-wrapper {
+	@include media($medium) {
+		max-width: em(728);
+		padding-right: 60px;
+		padding-left: 60px;
+	}
+	@include media($large) {
+		max-width: em(1024);
+	}
+	margin-top: 0;
+	margin-bottom: 3em;
+	padding-right: $gutter;
+	padding-left: $gutter;
+}
+
 /* page/post meta content (date, author, etc) */
 
 .entry-meta {
