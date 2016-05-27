@@ -104,14 +104,6 @@ span + .entry-title {
 
 .entry-large-wrapper {
 	@include clearfix;
-	@include media($medium) {
-		max-width: em(728);
-		padding-right: 60px;
-		padding-left: 60px;
-	}
-	@include media($large) {
-		max-width: em(1024);
-	}
 	margin-top: 0;
 	margin-bottom: 3em;
 	padding-right: $gutter;
