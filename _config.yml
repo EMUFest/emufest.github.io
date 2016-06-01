@@ -60,6 +60,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Octopress
 
+# Contact form
+api_token: 81c5c38ffac3051679f51f4239d8fb83
+
 # Default extensions
 post_ext: md
 page_ext: md
