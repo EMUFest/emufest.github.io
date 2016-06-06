@@ -10,10 +10,10 @@ image:
   creditlink:
 ---
 
-Conservatorio S. Cecilia of Rome presents the 8th edition of EMUFest   
+Conservatorio S. Cecilia of Rome presents the 9th edition of EMUFest   
 (International Electroacoustic Music Festival)
 
-**The festival will take place from the 20st to the 27th of October 2016.**
+**The festival will take place from the 20th to the 27th of October 2016.**
 
 Works will have to fall within one of the following two categories:
 
