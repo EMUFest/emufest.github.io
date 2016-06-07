@@ -1,0 +1,181 @@
+---
+layout: page
+title: About EMUFest
+excerpt: "Festival Internazionale di Musica Elettroacustica"
+modified: 2015-03-31T00:26:38
+static: "pages/about"
+image:
+  feature:
+  credit:
+  creditlink:
+---
+
+* Table of Contents
+{:toc}
+
+## EMUFest
+
+Sixty years after its appearance, Electronic and Electroacoustic Music has already gained wide circulation. Most of the music we listen to is now produced, at least partly, with electronic means, through which many of the sounds of our time are developed. Nowadays much of what we have come to think of as ‘art related music’ is electroacoustic music: it is created in private and public production and in research centres throughout the world; however, it is not uncommon that individual composers might use their own personal equipment.
+
+Currently, the field of electroacoustic music is properly at the attention of applied research. The study of new methodologies for sound analysis, synthesis, and elaboration is extremely important, not only for art-related music, but also for industries involved in electronic musical instruments and professional audio. In many different countries numerous universities work on this field of research, wile others are dealing with questions connected to the perception of organized sound, investigating the cognitive aspects of the enjoyment of music. Furthermore, research conducted within the musicology and music theory field of studies has developed original methodologies, enabling the analysis of this kind of music; this has led both to remarkable contributions as well as to considerations being made upon Music itself.
+
+Electroacoustic music, therefore, represents an interdisciplinary field, the meeting place of art, science and technology. Different kinds of expertise meet, where the specificity of each one must be overcome and the gaze must be raised above individual boundaries belonging to each of us, in order to build together knowledge, creation, and expression.
+
+The Course of Electronic Music at the “Santa Cecilia” Conservatory of Music of Rome was among the first ones in Italy. Franco Evangelisti was the first teacher and is considered one of the foremost representatives of the Italian and European experimental avant-garde. Since then, thanks to him, to its first professor, the School of Electronic Music of Rome has been well known for its quality and depth in music composition.
+
+_Giorgio NOTTOLI_
+
+### Old website
+
+[**Old website**](http://old.emufest.org)
+
+----
+
+## Commitee
+
+Director of the Conservatory   
+Mº **Alfredo SANTOLOCI**
+
+Festival COORDINATORS:   
+Mº **Michelangelo LUPONE**   
+Mº **Nicola BERNARDINI**
+
+Teaching Staff:   
+Mº **Antonietta CEROCCHI**   
+Prof. **Marco GIORDANO**   
+Mº **Luigi PIZZALEO**   
+Mº **Riccardo SANTOBONI**   
+Mº **Federico SCALAS** (Tech Supervisor)
+
+----
+
+## Staff
+
+Sound Director   
+**Giuseppe SILVI**
+
+Staff Coordinator   
+**Marco DE MARTINO**
+
+Staff   
+**Francesco BIANCO**   
+**Gianmarco COSTA***   
+**Elena D’ALÒ**   
+**Virginia GUIDI**   
+**Leonardo MAMMOZZETTI**   
+**Massimiliano MASCARO**   
+**Federico PAGANELLI**   
+**Michele PAPA**   
+**Anna TERZAROLI**   
+**Francesco ZIELLO**   
+
+----
+
+## Contacts
+
+ > * email: info@emufest.org   
+ > * phone: (+39) 06 360967
+
+Postal address of the festival committee:
+
+ > **EMUFest**   
+ > Conservatorio S. Cecilia   
+ > Via dei Greci, 18 – 00187 Roma   
+ > ITALY
+
+----
+
+## Partners
+
+<table>
+<tr>
+
+<td align="center">
+	<div style="width: 16em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/conservatorio.png">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/crm_logo.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+	<div style="width: 14em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/logo_cemat.gif">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/radiocematlogo.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+	<div style="width: 10em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/LOGO_TOR_VERGATA.png">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 24em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/Logo_SonicArts.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+<!-- <tr>
+
+<td align="center">
+	<div style="width: 18em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/integra-logo-July-2015-WORD-and-icon2.png">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 24em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/Birmingham_Conservatoire.png">
+		</image>
+	</div>
+</td>
+
+</tr> -->
+
+<tr>
+
+<td align="center">
+	<div style="width: 16em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/pietrogarbasso.gif">
+		</image>
+	</div>
+</td>
+
+<td align="center">
+	<div style="width: 12em; height: auto; padding: 20px;">
+		<img src="{{site.url}}/images/imgEMUFest2015/partners/grame.png">
+		</image>
+	</div>
+</td>
+
+</tr>
+
+</table>
