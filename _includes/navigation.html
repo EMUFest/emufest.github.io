@@ -9,6 +9,8 @@
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
+			<li>__</li>
+ +			<li><a href="{{ page-lang.translation.url }}/{{ page.static }}">{{ page-lang.translation.text }}</a></li>
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
