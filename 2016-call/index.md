@@ -26,7 +26,7 @@ Works will have to fall within one of the following two categories:
 
 **Each author can submit only one work.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]({ site.url }/semuform)** and uploading all the required materials, necessary to the committee.
+Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](http://emufest.org/semuform)** and uploading all the required materials, necessary to the committee.
 
 **The registration form will not be available after 23:59 CEST on July 22th, 2016.**
 
@@ -63,7 +63,7 @@ All the required material for performance must be sent by compiling the online s
 After submission closing it will not be possible upload or send other materials.
 
 <div markdown="0">
-  <!-- <a href="http://submission.emufest.org" class="mybtn">SUBMISSION FORM</a> -->
+  <!-- <a href="http://emufest.org/semuform" class="mybtn">SUBMISSION FORM</a> -->
   <a href="" class="mybtn">SUBMISSION FORM</a>
 </div>
 
