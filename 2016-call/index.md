@@ -63,8 +63,7 @@ All the required material for performance must be sent by compiling the online s
 After submission closing it will not be possible upload or send other materials.
 
 <div markdown="0">
-  <!-- <a href="http://emufest.org/semuform" class="mybtn">SUBMISSION FORM</a> -->
-  <a href="" class="mybtn">SUBMISSION FORM</a>
+  <a href="http://emufest.org/semuform" class="mybtn">SUBMISSION FORM</a>
 </div>
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
