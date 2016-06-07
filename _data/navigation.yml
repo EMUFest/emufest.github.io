@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: EMUFest 2016
-  url: /2016-emufest/
+  url: /pages/2016-emufest/
 
 - title: Submission FORM
   url: http://emufest.org/semuform
@@ -16,7 +16,7 @@
 #   url: /blog/
 
 - title: About
-  url: /about/
+  url: /pages/about/
 
 # - title: Past Editions
 #   url: /pastEditions/

@@ -33,5 +33,5 @@ The ***Events*** are realized in collaboration with other Italian Conservatories
 The ***Fusions***, produced with the collaboration of international teachers and performers, introduce the approach to contemporary composition and performance of music in tutorial and performative form.
 
 <div markdown="0">
-  <a href="{{site.url }}/2016-call" class="mybtn">!!! CALL FOR WORKS !!!</a>
+  <a href="{{site.url }}/pages/2016-call" class="mybtn">!!! CALL FOR WORKS !!!</a>
 </div>
