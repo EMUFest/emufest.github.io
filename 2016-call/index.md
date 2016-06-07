@@ -26,7 +26,7 @@ Works will have to fall within one of the following two categories:
 
 **Each author can submit only one work.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]()** and uploading all the required materials, necessary to the committee.
+Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]({ site.url }/semuform)** and uploading all the required materials, necessary to the committee.
 
 **The registration form will not be available after 23:59 CEST on July 22th, 2016.**
 
