@@ -11,7 +11,8 @@ sitemap: false
  *
 */
 
-@import "variables";
+// @import "variables";
+@import "gs/myvariables";
 
 /*
    Vendor
@@ -37,7 +38,6 @@ sitemap: false
 
 @import "helpers";
 @import "buttons";
-@import "mybuttons";
 @import "wells";
 @import "syntax";
 @import "forms";
@@ -54,4 +54,10 @@ sitemap: false
 
 @import "page"; /* layout and styles that apply to posts and pages */
 @import "archives"; /* archive pages (post/tag lists, etc) */
-// @import "home";
+
+/*
+   GS CUSTOM
+   ========================================================================== */
+
+@import "gs/mybuttons";
+@import "gs/mypage";

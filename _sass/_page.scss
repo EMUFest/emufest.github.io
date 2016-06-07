@@ -13,8 +13,8 @@
 .entry,
 .hentry {
 	@include clearfix;
-	// border-bottom: 1px solid lighten($black,80);
-	// border-bottom: 1px solid rgba($black,.10);
+	border-bottom: 1px solid lighten($black,80);
+	border-bottom: 1px solid rgba($black,.10);
 }
 
 /* feature image */
@@ -94,16 +94,6 @@ span + .entry-title {
 
 .entry-wrapper {
 	@include outer-container;
-	margin-top: 0;
-	margin-bottom: 3em;
-	padding-right: $gutter;
-	padding-left: $gutter;
-}
-
-/* form wrapper */
-
-.entry-large-wrapper {
-	@include clearfix;
 	margin-top: 0;
 	margin-bottom: 3em;
 	padding-right: $gutter;

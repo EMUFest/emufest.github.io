@@ -10,27 +10,24 @@ $doc-line-height: 24;
 
 $border-radius: 3px;
 
+
 // set-up the body font-size / line-height
 body {
   margin-top: 0px + $doc-line-height;
-  font-size: 0px + $doc-font-size;
+  font-size: 0px + $doc-font-size;  
 }
 
-// COLORS =====================================================
-// 2015 $supercolor         : #032724;
-// 2015 $ombreduble         : #adb7b6;
-$supercolor         : #301026;
-$ombreduble         : #44273b;
 
-$body-color         : #eae7e9; // #eaeaea;
-$text-color         : $supercolor;
-$base-color         : #343434;
-$comp-color         : spin($base-color, 90);
-$border-color       : $ombreduble; // ddd
-$white              : #eaeaea;
-$black              : $supercolor;
+// COLORS =====================================================
+$body-color         : #fff;
+$text-color         : #222;
+$base-color         : #343434;    
+$comp-color         : spin($base-color, 180); 
+$border-color       : #ddd;
+$white              : #fff;
+$black              : #000;
 $accent-color       : $black;
-$link-color         : $supercolor;
+$link-color         : #222;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
@@ -39,6 +36,7 @@ $table-header-color           : lighten($table-background, 10);
 $table-hover-color            : darken($table-background, 2);
 $table-stripe-color           : darken($table-background, 4);
 $table-stripe-color-hover     : darken($table-stripe-color, 5);
+
 
 // MEDIA QUERIES ==============================================
 $micro            : "only screen and (min-width: 30em)";
