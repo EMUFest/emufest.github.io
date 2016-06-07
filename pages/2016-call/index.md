@@ -3,7 +3,7 @@ layout: page
 title: Call For Works
 excerpt: "Per volontà e per caso"
 modified: 2016-05-05T01:26:21
-static: "2016-call"
+static: "pages/2016-call"
 image:
   feature:
   credit:
