@@ -55,7 +55,8 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
   - clarinet (Bb cl. and Bb bass cl.)
   - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
   - percussions (max 2 percussionists)
-  - 2 electric and 2 classical guitars
+  - 2 electric guitars
+  - 2 classical guitars
   - 2 pianos
 
 All the required material for performance must be sent by compiling the online submission form until exipration date.

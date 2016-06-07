@@ -10,59 +10,65 @@ image:
   creditlink:
 ---
 
-Conservatorio S. Cecilia of Rome presents the 8th edition of EMUFest   
+Il Conservatorio S. Cecilia di Roma presenta la nona edizione di EMUFest    
 (International Electroacoustic Music Festival)
 
-**The festival will take place from the 20st to the 27th of October 2016.**
+**Il Festival avrà luogo dal 20 al 27 di ottobre 2016.**
 
-Works will have to fall within one of the following two categories:
+Le opere dovranno rientrare in una delle seguenti due categorie:
 
- 1. **Acousmatic works**:   
-    compositions for recorded-only sounds (synthesised or/and concrete), from one to eight channels.
- 2. **Live performances with electronics**:   
-    works with acoustic instruments and live electronics and/or recorded audio; performances of live electronics only.
+ 1. **Opere Acusmatiche**:
+    - Composizioni per soli suoni registrati (sintetizzati o concreti), da uno a otto canali per la riproduzione attraverso il **sistema di diffusione 8.2 d&b**, all'interno della *Sala Accademica*.    
+    - Sono incoraggiate opere acusmatiche per la riproduzione all'interno della cupola sonora *Il Suono di Piero* di 22.1 diffusori **Genelec**. I file audio dovranno essere inviati in **B-Format** di qualsiasi ordine (per un risultato ottimale si consiglia almeno il terzo ordine).
+ 2. **Opere dal vivo con elettronica**:   
+    - Opere con strumenti acustici ed elettronic dal vivo o suoni pre-registrati.
+    - Performances di sola elettronica dal vivo.
 
-**Each author can submit only one work.**
+**Ogni autore può inviare una sola opera.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form]()** and uploading all the required materials, necessary to the committee.
+La registrazione a EMUFest può essere effettuata compilando tutte le informazioni richieste nella **[submission form](http://emufest.org/semuform)** ed inviando tutti i materiali richiesti dalla commissione.
 
-**The registration form will not be available after 23:59 CEST on July 22th, 2016.**
+**La registrazione sarù possibile fino alle ore 23:59 CEST del 22 luglio 2016.**
 
-**The selected works will be announced by August 1th, 2016.**
+**Le opere selezionate verranno annunciate dal primo agosto 2016.**
 
-Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
+Le scelte saranno effettuate esclusivamente in base alla rappresentatività della situazione internazionale della musica elettroacustica e alla fattibilità in relazione al programma del Festival.
 
-Submissions must include a complete description of the technical set-up needed and instrumental techniques for the performance and, depending on the category, it must also include:
+La registrazione deve includere la descrizione completa del setup tecnico necessario e delle tecniche strumentali per l'attuazione e, a seconda della categoria, deve anche comprendere:
 
- 1. **Acousmatic works**:
-    - version from 1 to 8 channels on data file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate.
- 2. **Live performances with electronics**:
-    - score and parts in PDF format;
-    - audio file (MP3, WAV or AIF format) with a complete recording of the work, if existing;
-    - if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 16 or 24 bit rate and 44100 Hz sampling rate;
-    - live electronics works submitted without all software components for the functioning of the work will be discarded.
+ 1. **Opere Acusmatiche**:
+    - da 1 a 8 canali su un file audio interlacciato o su file separati in formato WAV o AIFF con risoluzione di 16 o 24 *bit* e frequenza di campionamento tra 44100 e 96000 *Hz*.
+    - per le opere *ambisonic* file audio WAV o AIFF con risoluzione di 16 o 24 *bit* e frequenza di campionamento tra 44100 e 96000 *Hz* in formato *B-Format*. Ogni file dovà essere nominato indicando la relativa armonica sferica (es. *R-titolo.wav*, *S-titolo.wav*, *T-titolo.wav*, e così via).
 
-For **Category 2** the conservatory will provide performers chosen amongst its faculty and selected graduate students. Technical performers will be chosen among the students of the Electronic Music department. Should authors decide to use external performers they will have to bear all accommodation and travel costs, as well as any further expenses.
+ 2. **Opere dal vivo con elettronica**:   
+    - partitura e parti staccate in formato PDF;
+    - file audio (MP3, WAV or AIF format) con la registrazione completa dell'opera, se esistente;
+    - nel caso di suoni pre-registrati, dovranno essere forniti su file audio con tracce sepate o interlacciate in formato WAV o AIFF con risoluzione di 16 o 24 *bit* e frequenza di campionamento tra 44100 e 96000 *Hz*;
+    - le opere con elettronica dal vivo inviate senza tutto il software necessario al corretto funzionamento dell'elettronica verranno rifiutate.
 
-For the instrumental ensemble a maximum of 7 performers might be chosen from the following:
+Per la **Categoria 2** il conservatorio metterà a disposizione interpreti scelti tra i docenti e gli studenti diplomati. Gli interpreti elettroacustici verranno scelti tra gli studenti del dipartimento di Musica Elettronica. Gli autori possono scegliere di coinvolgere interpreti esterni facendosi carico di eventuali costi di viaggio, vitto e alloggio ed eventuali spese accessorie.
 
-  - 2 voices (soprano e mezzo soprano)
-  - violin, viola, cello, double bass
-  - 2 flutes (C and / or G)
-  - clarinet (cl. in Bb and bass cl.)
-  - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
-  - percussions (max 2 percussionists)
-  - 2 electric and 2 classical guitars
-  - 2 pianos
+L'ensemble può essere composto da un massimo di 7 interpreti, scelti tra i seguenti:
 
-All the required material must be sent by compiling the online submission form.
+  - 2 voci (soprano e mezzosoprano)
+  - violino, viola, violoncello, contrabbasso
+  - 2 flauti (Do e/o Sol)
+  - clarinetti (cl in Bb e Basso)
+  - 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
+  - percussioni (max 2 percussionisti)
+  - 2 chitarre elettriche
+  - 2 chitarre classiche
+  - 2 pianoforti
+
+Tutto il materiale necessario per l'esecuzione deve essere inviato entro la data di chiusura della registrazione online.
+
+Al termine del periodo di registrazione non sarà più possibile inviare altri materiali.
 
 <div markdown="0">
-  <!-- <a href="http://submission.emufest.org" class="mybtn">SUBMISSION FORM</a> -->
-  <a href="" class="mybtn">SUBMISSION FORM</a>
+  <a href="http://emufest.org/semuform" class="mybtn">REGISTRAZIONE ONLINE</a>
 </div>
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
 > [Other contacts](http://www.emufest.org/about/#contacts)
 
-Further information about the EMUFest will be published on [emufest.org](http://www.emufest.org)
+Ulteriori informazioni su EMUFest verranno pubblicate su [emufest.org](http://www.emufest.org)
