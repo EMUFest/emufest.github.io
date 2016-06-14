@@ -28,9 +28,9 @@ Works will have to fall within one of the following two categories:
 
 Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](http://emufest.org/semuform)** and uploading all the required materials, necessary to the committee.
 
-**The registration form will not be available after 23:59 CEST on July 22th, 2016.**
+**The registration form will not be available after 23:59 CEST on July 30th, 2016.**
 
-**The selected works will be announced by August 1th, 2016.**
+**The selected works will be announced by August 10th, 2016.**
 
 Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
 
