@@ -28,7 +28,7 @@ Le opere dovranno rientrare in una delle seguenti due categorie:
 
 La registrazione a EMUFest può essere effettuata compilando tutte le informazioni richieste nella **[submission form](http://emufest.org/semuform)** ed inviando tutti i materiali richiesti dalla commissione.
 
-**La registrazione sarù possibile fino alle ore 23:59 CEST del 22 luglio 2016.**
+**La registrazione sarù possibile fino alle ore 23:59 CEST del 30 luglio 2016.**
 
 **Le opere selezionate verranno annunciate dal primo agosto 2016.**
 
