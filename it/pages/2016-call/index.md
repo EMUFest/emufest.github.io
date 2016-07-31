@@ -64,9 +64,9 @@ Tutto il materiale necessario per l'esecuzione deve essere inviato entro la data
 
 Al termine del periodo di registrazione non sarà più possibile inviare altri materiali.
 
-<div markdown="0">
+<!-- <div markdown="0">
   <a href="http://emufest.org/semuform" class="mybtn">REGISTRAZIONE ONLINE</a>
-</div>
+</div> -->
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
 > [Other contacts](http://www.emufest.org/about/#contacts)
