@@ -33,5 +33,5 @@ Gli ***Eventi***, realizzati in collaborazione con altri Conservatori italiani, 
 Le ***Fusioni***, prodotte con la collaborazione di docenti e interpreti italiani ed esteri, presentano, in forma didattica e performativa, l’approccio alla composizione e alla esecuzione musicale contemporanea.
 
 <div markdown="0">
-  <a href="{{ site.url }}/it/2016-call" class="mybtn">!!! BANDO PER OPERE !!!</a>
+  <!-- <a href="{{ site.url }}/it/2016-call" class="mybtn">!!! BANDO PER OPERE !!!</a> -->
 </div>
