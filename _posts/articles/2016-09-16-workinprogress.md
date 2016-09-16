@@ -1,9 +1,9 @@
 ---
 published: false
 ---
-Program will be published in a few days.
+#Program will be published in a few days
 
-Selected composer will recieve an email with every concerts (day, hall, musicians, rehearsals, etc).
+Selected composer will recieve an email with concerts details (day, hall, musicians, rehearsals, etc).
 
 Thank you all
 
