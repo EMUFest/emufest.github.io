@@ -1,7 +1,7 @@
 ---
 published: true
 layout: page
-excerpt: Program will be published in a few days
+excerpt: Work in progress
 categories: articles
 tags:
   - emufest
@@ -14,7 +14,8 @@ image:
   credit: null
   creditlink: null
 ---
-#Program will be published in a few days
+
+Program will be published in a few days
 
 Selected composer will recieve an email with concerts details (day, hall, musicians, rehearsals, etc).
 
