@@ -20,5 +20,5 @@ Selected composer will recieve an email with concerts details (day, hall, musici
 
 Thank you all
 
-![Sala Accademia, Conservatorio di Musica Santa Cecilia di Roma - EMUFest2015]({{site.baseurl}}/_posts/articles/sala_EMUFest.jpg)
+![Sala Accademia, Conservatorio di Musica Santa Cecilia di Roma - EMUFest2015]({{site.baseurl}}//images/imgEMUFest2016/imagepost/sala_EMUFest.jpg)
 
