@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 excerpt: Program will be published in a few days
 categories: articles
