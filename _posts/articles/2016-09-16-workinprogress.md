@@ -1,5 +1,18 @@
 ---
 published: false
+layout: page
+excerpt: Program will be published in a few days
+categories: articles
+tags:
+  - emufest
+  - 2016
+  - selected works
+modified: null
+share: true
+image:
+  feature: null
+  credit: null
+  creditlink: null
 ---
 #Program will be published in a few days
 
