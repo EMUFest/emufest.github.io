@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Volonta IV"
-excerpt: "Acousmatic Concert • October, 26th 2016"
+excerpt: "Acousmatic Concert"
 date: 2016-10-26T18:30:00
 categories: events
 tags: [emufest, emufest, 2016]

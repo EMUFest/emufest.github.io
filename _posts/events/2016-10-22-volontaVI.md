@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Volontà VI"
-excerpt: "Acousmatic Concert • October, 27th 2016"
+excerpt: "Acousmatic Concert"
 date: 2016-10-27T18:30:00
 categories: events
 tags: [emufest, emufest, 2016]
