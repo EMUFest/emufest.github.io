@@ -2,7 +2,7 @@
 layout: page
 title: "Volontà III"
 excerpt: "Concert • October, 25th 2016"
-date: 2016-10-25
+date: 2016-10-25T20:30:00
 categories: events
 tags: [emufest, emufest, 2016]
 author:
