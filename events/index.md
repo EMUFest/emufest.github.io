@@ -5,7 +5,7 @@ excerpt: "Events sorted by date."
 search_omit: true
 ---
 
-EMUFest 2016 Events
+### EMUFest 2016 Events
 
 <ul class="post-list">
 {% for post in site.categories.events %}
@@ -13,7 +13,7 @@ EMUFest 2016 Events
 {% endfor %}
 </ul>
 
-Past EMUFest Events
+### Past EMUFest Events
 
 <ul class="post-list">
 {% for post in site.categories.pastevents %}
