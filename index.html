@@ -19,9 +19,14 @@ image:
 <ul class="post-list">
 {% for post in site.categories.events reversed %}
   {% unless post.previous %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+  <h3>{{ post.date | date: '%Y %b' }}</h3>
+  {% else %}
+  {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+  {% capture pyear %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
+  {% if year != pyear %}
+  <h3>{{ post.date | date: '%Y %b' }}</h3>
   {% endunless %}
+    <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
