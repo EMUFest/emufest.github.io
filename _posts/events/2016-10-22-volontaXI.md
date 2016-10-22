@@ -2,7 +2,7 @@
 layout: page
 title: "Volontà XI"
 excerpt: "Concert • October, 29th 2016"
-date: 2016-10-25T20:30:00
+date: 2016-10-29T20:30:00
 categories: events
 tags: [emufest, emufest, 2016]
 author:
