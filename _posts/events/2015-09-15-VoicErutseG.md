@@ -2,7 +2,7 @@
 layout: post
 title: "VoicErutseG and Integra Live hands-on."
 excerpt: "October 7, Talk, concert, hans-on."
-date: 2016-10-07
+date: 2015-10-07
 categories: events
 tags: [emufest, emufest 2015, balandino di donato, voicerutseg, integra, integra lab, integra live, talk, concert, hands-on, vittoriana de amicis, video]
 author: emu_staff
