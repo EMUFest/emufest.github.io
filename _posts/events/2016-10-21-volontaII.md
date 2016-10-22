@@ -15,7 +15,7 @@ image:
   creditlink:
 ---
 
-### {{ page.date | date: '%B %d, %Y' – %R }}
+### {{ page.date | date: '%B %d, %Y' }}
 
 |  |  |
 |------------:|:------------|

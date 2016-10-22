@@ -15,7 +15,7 @@ image:
   creditlink:
 ---
 
-## October, 28th
+### {{ page.date | date: '%B %d, %Y' }}
 
 |  |  |
 |------------:|:------------|
