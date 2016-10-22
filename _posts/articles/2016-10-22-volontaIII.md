@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Volontà III"
-excerpt: "Concert • October, 24th 2016"
+excerpt: "Concert • October, 25th 2016"
 categories: articles
 tags: [emufest, emufest, 2016]
 author:
@@ -21,7 +21,7 @@ image:
 | Time: | **20:30** |
 | Location: | ***Sala Accademica*** |
 | Category: | **Live Elecctronics and Acousmatic** |
-| Duration: | **1h46'** |
+| Duration: | **1h06'** |
 | Sound Direction: | **Pasquale Citera - Federico Ripanti** |
 |
 | {{ site.data.2016COMMISSIONED.2016-526.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-526.title }}*** • {{ site.data.2016COMMISSIONED.2016-526.duration }} |
