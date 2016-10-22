@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-excerpt: "News sorted by date."
+title: Events
+excerpt: "Events sorted by date."
 search_omit: true
 ---
 
