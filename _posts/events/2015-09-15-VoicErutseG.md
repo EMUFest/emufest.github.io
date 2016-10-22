@@ -2,16 +2,17 @@
 layout: post
 title: "VoicErutseG and Integra Live hands-on."
 excerpt: "October 7, Talk, concert, hans-on."
+date: 2016-10-07
 categories: articles
 tags: [emufest, emufest 2015, balandino di donato, voicerutseg, integra, integra lab, integra live, talk, concert, hands-on, vittoriana de amicis, video]
 author: emu_staff
 comments: true
 modified: 2015-09-16T23:44:41
 share: true
-image: 
+image:
   feature: imgEMUFest2015/banners/balandino_vittoriana_crop.jpeg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 ---
 
 **October, 7 - Talk, Concert, hands-on**
@@ -112,17 +113,17 @@ and Stryspody by Cathy Berberian.
 Vittoriana De Amicis was born in L’Aquila in 1992, at the age of fifteen she
 began her vocal studies at Conservatorio A.Casella with Antonella Cesari.
 
-She attended masterclasses in Italy and abroad, 
+She attended masterclasses in Italy and abroad,
 in 2013 she was selected to take part to the Summer Academy with Horiana Branisteanu
 at Mozarteum in Salzburg. In 2013 she received an Erasmus scholarship to attend
-Universität für Musik in Vienna studying with Anton Scharinger. 
+Universität für Musik in Vienna studying with Anton Scharinger.
 In 2014 she graduated in singing summa cum laude at L’Aquila, at presend she is
 studying in Rome with Elizabeth Norberg-Schultz.
-She took part to several competitions: I prize - International Competition 
-Domenico Sarro in Trani in 2011; in 2012 semifinalist at Maria Caniglia 
-International Competition in Sulmona and at International Competition Ismaele 
+She took part to several competitions: I prize - International Competition
+Domenico Sarro in Trani in 2011; in 2012 semifinalist at Maria Caniglia
+International Competition in Sulmona and at International Competition Ismaele
 Voltolini in Mantova. In 2013 she performed Petite Messe Sonnelle in Teramo and
-Tivoli. In 2014 in Vienna she debuted the role of Annika in Brundibar by H. 
+Tivoli. In 2014 in Vienna she debuted the role of Annika in Brundibar by H.
 Krása, performed at Austrian Parliament on the Remembrance Day, Susanna in Le nozze di
 Figaro at Schönbrunn Castle. In 2015 she has been invited at Frontiers Festival in
 Birmingham to perform contemporary music.
