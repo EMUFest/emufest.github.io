@@ -23,7 +23,7 @@ image:
 | Location: | ***Sala Accademica*** |
 | Category: | **Live Elecctronics and Acousmatic** |
 | Duration: | **53'** |
-| Sound Direction: | ** {{ site.data.2016CONFERENCES.2016-707.nameone }}  - {{ site.data.2016CONFERENCES.2016-723.nameone }}** |
+| Sound Direction: | ** {{ site.data.2016MUSICIANS.2016-707.nameone }}  - {{ site.data.2016MUSICIANS.2016-723.nameone }}** |
 |
 | {{ site.data.2016COMMISSIONED.2016-534.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-534.title }}*** • {{ site.data.2016COMMISSIONED.2016-534.duration }} |
 |  | {{ site.data.2016COMMISSIONED.2016-534.performers }} |
@@ -38,7 +38,7 @@ image:
 |
 |  *viola* | {{ site.data.2016MUSICIANS.2016-729.nameone }} |
 |  *guitar* | {{ site.data.2016MUSICIANS.2016-718.nameone }} |
-|  *live electronics* | {{ site.data.2016CONFERENCES.2016-723.nameone }} |
+|  *live electronics* | {{ site.data.2016MUSICIANS.2016-723.nameone }} |
 {: .alttable}
 
 ### Program Notes

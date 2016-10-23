@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Volonta II"
+title: "Volontà II"
 excerpt: "Acousmatic Concert"
 date: 2016-10-25T18:30:00
 categories: events
@@ -22,8 +22,8 @@ image:
 | Time: | **18:00** |
 | Location: | ***Il Suono di Piero [Aula Bianchini]*** |
 | Category: | **Acousmatic** |
-| Duration: | **50'** |
-| Sound Direction: | **Francesco Bianco** |
+| Duration: | **36'** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-704.nameone }}** |
 |
 | {{ site.data.2016SELECTED.2016-006.nameone }} | ***{{ site.data.2016SELECTED.2016-006.title }}*** • {{ site.data.2016SELECTED.2016-006.duration }} |
 | {{ site.data.2016SELECTED.2016-099.nameone }} | ***{{ site.data.2016SELECTED.2016-099.title }}*** • {{ site.data.2016SELECTED.2016-099.duration }} |

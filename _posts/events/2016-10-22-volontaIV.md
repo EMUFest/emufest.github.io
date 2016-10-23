@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Volonta IV"
+title: "Volontà IV"
 excerpt: "Acousmatic Concert"
 date: 2016-10-26T18:30:00
 categories: events
@@ -23,7 +23,7 @@ image:
 | Location: | ***Il Suono di Piero [Aula Bianchini]*** |
 | Category: | **Acousmatic** |
 | Duration: | **35'** |
-| Sound Direction: | **Federico Paganelli** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-723.nameone }}** |
 |
 | {{ site.data.2016SELECTED.2016-060.nameone }} | ***{{ site.data.2016SELECTED.2016-060.title }}*** • {{ site.data.2016SELECTED.2016-060.duration }} |
 | {{ site.data.2016SELECTED.2016-061.nameone }} | ***{{ site.data.2016SELECTED.2016-061.title }}*** • {{ site.data.2016SELECTED.2016-061.duration }} |

@@ -23,7 +23,7 @@ image:
 | Location: | ***Sala Accademica*** |
 | Category: | **WindBack Concert** |
 | Duration: | **56'** |
-| Sound Direction: | **{{ site.data.2016SELECTED.2016-707.nameone }} - {{ site.data.2016SELECTED.2016-721.nameone }}** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }} - {{ site.data.2016MUSICIANS.2016-721.nameone }}** |
 |
 | {{ site.data.2016COMMISSIONED.2016-529.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-529.title }}*** • {{ site.data.2016COMMISSIONED.2016-529.duration }} |
 |  | {{ site.data.2016COMMISSIONED.2016-529.performers }} |
@@ -36,9 +36,9 @@ image:
 | {{ site.data.2016COMMISSIONED.2016-533.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-533.title }}*** • {{ site.data.2016COMMISSIONED.2016-533.duration }} |
 |  | {{ site.data.2016COMMISSIONED.2016-533.performers }} |
 |
-|  *mezzosoprano* | {{ site.data.2016MUSICIANS.2016-717.nameone }} |
+|  *mezzosoprano* | {{ site.data.2016MUSICIANS.2016-716.nameone }} |
 |  *soprano* | {{ site.data.2016MUSICIANS.2016-709.nameone }} |
-|  *saxophone* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
+|  *saxophone* | {{ site.data.2016MUSICIANS.2016-708.nameone }} |
 |  *live electronics* | {{ site.data.2016CONFERENCES.2016-607.nameone }} |
 {: .alttable}
 
