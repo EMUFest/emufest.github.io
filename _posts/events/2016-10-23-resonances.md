@@ -22,7 +22,7 @@ image:
 | Time: | **20:30** |
 | Location: | ***Sala Accademica*** |
 | Category: | **Acoustic and Live Electronics** |
-| Duration: | **37'** |
+| Duration: | **48'** |
 | Sound Direction: | **Pasquale Citera** |
 |
 | {{ site.data.2016COMMISSIONED.2016-515.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-515.title }}*** • {{ site.data.2016COMMISSIONED.2016-515.duration }} |
