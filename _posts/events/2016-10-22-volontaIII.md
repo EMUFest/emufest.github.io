@@ -39,12 +39,14 @@ image:
 |  | {{ site.data.2016SELECTED.2016-041.performers }} |
 |
 |  *saxophone* | {{ site.data.2016MUSICIANS.2016-724.nameone }} |
+|  *live electronics* | {{ site.data.2016MUSICIANS.2016-720.nameone }} |
 |  *violin* | {{ site.data.2016MUSICIANS.2016-702.nameone }} |
 |  *clarinet* | {{ site.data.2016MUSICIANS.2016-709.nameone }} |
 |  *cello* | {{ site.data.2016MUSICIANS.2016-727.nameone }} |
 |  *flute* | {{ site.data.2016MUSICIANS.2016-722.nameone }} |
 |  *piano* | {{ site.data.2016MUSICIANS.2016-733.nameone }} |
 |  *percussions* | {{ site.data.2016MUSICIANS.2016-705.nameone }}, {{ site.data.2016MUSICIANS.2016-728.nameone }} |
+|  *live electronics* | {{ site.data.2016MUSICIANS.2016-721.nameone }} |
 |  *conductor* | {{ site.data.2016MUSICIANS.2016-730.nameone }} |
 {: .alttable}
 

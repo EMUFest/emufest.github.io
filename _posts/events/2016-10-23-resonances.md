@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Resonances - Luis Naon"
+title: "Resonances - Luis Naón"
 excerpt: "Concert"
 date: 2016-10-20T20:30:00
 categories: events
@@ -23,7 +23,7 @@ image:
 | Location: | ***Sala Accademica*** |
 | Category: | **Acoustic and Live Electronics** |
 | Duration: | **48'** |
-| Sound Direction: | **Pasquale Citera** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }}** |
 |
 | {{ site.data.2016COMMISSIONED.2016-515.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-515.title }}*** • {{ site.data.2016COMMISSIONED.2016-515.duration }} |
 |  | {{ site.data.2016COMMISSIONED.2016-515.performers }} [{{ site.data.2016COMMISSIONED.2016-519.year }}] |
@@ -38,6 +38,7 @@ image:
 |  *guitar* | {{ site.data.2016MUSICIANS.2016-731.nameone }} |
 |  *sopran sax* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
 |  *piano* | {{ site.data.2016MUSICIANS.2016-715.nameone }} |
+|  *live electronics* | {{ site.data.2016COMMISSIONED.2016-532.nameone }} |
 {: .alttable}
 
 ### Program Notes

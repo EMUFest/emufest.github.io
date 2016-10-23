@@ -37,8 +37,8 @@ image:
 |  | {{ site.data.2016COMMISSIONED.2016-533.performers }} |
 |
 |  *mezzosoprano* | {{ site.data.2016MUSICIANS.2016-716.nameone }} |
-|  *soprano* | {{ site.data.2016MUSICIANS.2016-709.nameone }} |
-|  *saxophone* | {{ site.data.2016MUSICIANS.2016-708.nameone }} |
+|  *soprano* | {{ site.data.2016MUSICIANS.2016-708.nameone }} |
+|  *saxophone* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
 |  *live electronics* | {{ site.data.2016CONFERENCES.2016-607.nameone }} |
 {: .alttable}
 
