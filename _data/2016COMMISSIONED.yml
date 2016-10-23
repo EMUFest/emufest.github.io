@@ -224,9 +224,8 @@
   duration: "5'00"
   performers: "per viola"
   programnotes:
-  programnotesita: "Apre il ciclo della settimana di eventi EMUFest un percorso incentrato sulla natura intima e rituale del suono.
-Un’omaggio ai molteplici universi del contemporaneo, condotti dalla musica di Giorgio Netti. Musiche di confine che trasfigurano la natura d’origine del violino e della viola, in un cammino sospeso fra i glissandi di Xenakis, i battimenti di Scelsi, le maglie interne del suono di Murail e Dusapin, fino al concretismo strumentale di Lachenmann: differenti modalità di fare vuoto, e ripartire.
-Una prima *volontà* eseguita  dall’*mdi ensemble*."
+  programnotesita: "Fondatore insieme a Gerard Grisey della musica “spettrale”, Murail  utilizza l’informatica per approfondire le ricerche  d’analisi e sintesi dei fenomeni ascustici, costruendo una musica basata sulle micro-variazioni interne al suono.
+*C’est un jardin secret…* presenta  questo percorso di ricerca: una miniatura per viola attraversata da molteplici processi, trasformazioni progressive e ambiguità tra armonia e timbro. Un brano, afferma il compositore, costruito attorno al ritmo di un battito cardiaco, costantemente accellerato e rallentato, vivo e risonante."
 
 2016-520:
   nameone: "Iannis Xenakis"
@@ -238,7 +237,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "4'25"
   performers: "per violino"
   programnotes:
-  programnotesita:
+  programnotesita: "Riconosciuto tra gli esponenti più radicali della musica del 900, il compositore greco Iannis Xenakis compone il brano Mikka nel 1971 e l’anno successivo eseguito  al Festival D’automne de Paris. Il brano è un impressionante fusione di glissati del violino che pongono l’accento su una materia incisa in limite estremo dell’accezione di melodia. Un  suono/canto dell’arco che oscilla tra i suoni più sottili fino alle dinamiche più accese."
 
 2016-521:
   nameone: "Pascal Dusapin"
@@ -250,7 +249,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "8'32"
   performers: "per viola"
   programnotes:
-  programnotesita:
+  programnotesita: "Diviso in tre parti, il brano mette in luce il grande ventaglio timbrico della viola, in una articolazione frenetica ed immersiva. Anche questo brano presenta micro-variazioni del suono instaurando un dialogo quarti-tonale tra le corde."
 
 2016-522:
   nameone: "Giorgio Netti"
@@ -262,7 +261,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "9'00"
   performers: "per violino"
   programnotes:
-  programnotesita:
+  programnotesita: "…Ho cercato di ripensare lo strumento a partire dalla sua memoria, dalla memoria delle dita che per secoli l’hanno attraversato: ho cercato di ascoltarlo come voce di voci e dallo stratificarsi nell'aria di queste, dal loro sovrapporsi, ha preso corpo il volume dello spazio nel quale è contenuto. Le diverse “apparizioni” vorrebbero arrivare a comporre via via un’unità, che non determina una direzione quanto un sostare: stato incandescente della materia sonora, non solidifica, s’addensa e, sospeso, prossimo a saturarsi viene nell’ultimo respiro infine travasato… (frammento tratto dal compositore)"
 
 2016-523:
   nameone: "Giacinto Scelsi"
@@ -274,7 +273,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "5'10"
   performers: "per viola"
   programnotes:
-  programnotesita:
+  programnotesita: "Secondo movimento per Viola,  Manto prende il nome da un profeta dell’antica Grecia. Scelsi incentra il brano sulle soglie del battimento e sugli aspetti liminari del suono. Qui il rito è alla base dell’estetica del compositore, percepibile come vero e proprio ponte/distanza tra il tempo immobile e il successivo canto umano che accompagna il terzo movimento."
 
 2016-524:
   nameone: "Helmut Lachenmann"
@@ -286,7 +285,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "4'50"
   performers: "per violino"
   programnotes:
-  programnotesita:
+  programnotesita: "Helmut Lachenmann consegna in eredità al fare musicale una continua nuova percezione dell’ascolto. Questo studio per violino, apre una nuova finestra, indicando *un possibile oltre a ciò che abitualmente chiamiamo musica* (G. Netti): una nuova sensibilità dello strumento, che parte da un idea di musica concreta strumentale, fattasi  sottile e cristallina in questa breve dischiusura musicale"
 
 2016-525:
   nameone: "Giorgio Netti"
@@ -298,7 +297,7 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   duration: "17'00"
   performers: "per due violini"
   programnotes:
-  programnotesita: "Ho cercato di incanalare quell’energia in un percorso che la rendesse percepibile senza snaturarne l’essenza: l’energia che abita i violini di Corelli, Tartini, Vivaldi, certo non citazioni ne dirette ne indirette ma l’imprevedibile vitalità delle loro articolazioni (tremoli, arpeggi, ribattuti, sincronie e fioriture improvvise) che hanno fatto della scuola italiana, elettrica ante litteram, un irraggiungibile modello di virtuosismo strumentale; poi la tensione, il vuoto attorno e dentro alla costruzione delle frasi, le imitazioni, i pedali, la continua sovrapposizione delle corde."
+  programnotesita: "…Provenendo da un soffio raccolto nella sordina, *inoltre* è diventato il continuo tentativo di riavvicinare al “mondo intonato” un materiale sonoro, una esperienza acustica che da altrove proviene […] Il pezzo porta ad uno stato incandescente la materia e nel suo ribollire riappaiono articolazioni, frammenti, incubi, divagazioni che nel fondere diventeranno infine tutt’altro: una voce-violino, un *suono/uomo* sacro nella sua unicità, senza più articolazione, teso, sospeso, sullo sfondo elettrico, estremo, custodito (frammento tratto dal compositore)"
 
 2016-526:
   nameone: "Karlheinz Stockhausen"
@@ -409,8 +408,12 @@ Una prima *volontà* eseguita  dall’*mdi ensemble*."
   year: 1977
   duration: "12'00"
   performers: "per viola sola"
-  programnotes:
-  programnotesita:
+  programnotes: "Ali, due pezzi per viola sola, richiama il suono dei fruscii e fremiti di ali. Scritto nel 1977, fa parte di un gruppo di quattro opere, insieme a Algo, due pezzi per chitarra, e Argot per violino, che confluiscono in About, un trio per violino viola e chitarra, dove Donatoni utilizza materiale già utilizzato per ciascuno dei pezzi solistici.
+A livello esecutivo, è interessante notare una serie di volute contraddizioni presenti dei due pezzi: la prima è proprio nel carattere e nella scrittura tra le due ali, Ali I è esatto, con notazione molto precisa ed una struttura perfettamente riconosciblie, in cui all'inizio si nota una reminiscenza della sonata op. 25 numero 1 di Paul Hindemith, scritta una sessantina di anni prima. Nel quarto movimento, Hindemith suona dei pedali ritmici sul do al tempo di 660 di metronomo, alternati a dei bicordi sparsi e sempre più contratti. In Ali Franco Donatoni percorre una strada simile, sostituendo i do vuoti  (anche graficamente, in quanto scrive delle stanghette senza note) con delle pause, lasciando così nudi dei bicordi che via via si contraggono. Altra contraddizione presente in Ali I è certamente il fatto che, pur accumulando materiale (ai bicordi iniziali si aggiungono acccordi, scale veloci e armonici) il pezzo tende a perdere consistenza, terminando con un grande diminuendo intenzionale e musicale.
+Ali II contraddice Ali I. È un pezzo certamente opposto, solo effettistico, qui le note perdono la loro importanza e cedono il passo ad un nuovo linguaggio, in cui l'esecutore si diverte a cercare timbriche decisamente nuove per l'epoca, e suggestive anche oggi. Ali II lo considero un pezzo volto al futuro, perfettamente integrabile in un ipotetico evento visuale, in quanto colgo in esso, a differenza di Ali I, pezzo disciplinato per eccellenza, un invito ad una folle teatralità."
+  programnotesita: "Ali, due pezzi per viola sola, richiama il suono dei fruscii e fremiti di ali. Scritto nel 1977, fa parte di un gruppo di quattro opere, insieme a Algo, due pezzi per chitarra, e Argot per violino, che confluiscono in About, un trio per violino viola e chitarra, dove Donatoni utilizza materiale già utilizzato per ciascuno dei pezzi solistici.
+A livello esecutivo, è interessante notare una serie di volute contraddizioni presenti dei due pezzi: la prima è proprio nel carattere e nella scrittura tra le due ali, Ali I è esatto, con notazione molto precisa ed una struttura perfettamente riconosciblie, in cui all'inizio si nota una reminiscenza della sonata op. 25 numero 1 di Paul Hindemith, scritta una sessantina di anni prima. Nel quarto movimento, Hindemith suona dei pedali ritmici sul do al tempo di 660 di metronomo, alternati a dei bicordi sparsi e sempre più contratti. In Ali Franco Donatoni percorre una strada simile, sostituendo i do vuoti  (anche graficamente, in quanto scrive delle stanghette senza note) con delle pause, lasciando così nudi dei bicordi che via via si contraggono. Altra contraddizione presente in Ali I è certamente il fatto che, pur accumulando materiale (ai bicordi iniziali si aggiungono acccordi, scale veloci e armonici) il pezzo tende a perdere consistenza, terminando con un grande diminuendo intenzionale e musicale.
+Ali II contraddice Ali I. È un pezzo certamente opposto, solo effettistico, qui le note perdono la loro importanza e cedono il passo ad un nuovo linguaggio, in cui l'esecutore si diverte a cercare timbriche decisamente nuove per l'epoca, e suggestive anche oggi. Ali II lo considero un pezzo volto al futuro, perfettamente integrabile in un ipotetico evento visuale, in quanto colgo in esso, a differenza di Ali I, pezzo disciplinato per eccellenza, un invito ad una folle teatralità."
 
 2016-535:
   nameone: Giorgio Nottoli
