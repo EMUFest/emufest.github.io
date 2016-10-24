@@ -23,7 +23,7 @@ image:
 | Location: | ***Sala Accademica*** |
 | Category: | **Live Elecctronics and Acousmatic** |
 | Duration: | **1h06'** |
-| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }} - {{ site.data.2016MUSICIANS.2016-726.nameone }}** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }} - {{ site.data.2016MUSICIANS.2016-712.nameone }}** |
 |
 | {{ site.data.2016COMMISSIONED.2016-526.nameone }} | ***{{ site.data.2016COMMISSIONED.2016-526.title }}*** • {{ site.data.2016COMMISSIONED.2016-526.duration }} |
 |  | {{ site.data.2016COMMISSIONED.2016-526.performers }} |
