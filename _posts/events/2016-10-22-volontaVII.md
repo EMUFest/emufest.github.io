@@ -38,8 +38,8 @@ image:
 |
 |  *mezzosoprano* | {{ site.data.2016MUSICIANS.2016-716.nameone }} |
 |  *soprano* | {{ site.data.2016MUSICIANS.2016-708.nameone }} |
-|  *saxophone* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
-|  *live electronics* | {{ site.data.2016CONFERENCES.2016-607.nameone }} |
+|  *saxophone and windback* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
+|  *live electronics* | {{ site.data.2016COMMISSIONED.2016-529.nameone }}, {{ site.data.2016COMMISSIONED.2016-530.nameone }}, {{ site.data.2016COMMISSIONED.2016-531.nameone }}, {{ site.data.2016CONFERENCES.2016-607.nameone }}, {{ site.data.2016COMMISSIONED.2016-533.nameone }} |
 {: .alttable}
 
 ### Program Notes
