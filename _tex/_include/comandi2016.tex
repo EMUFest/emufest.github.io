@@ -1,0 +1,85 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = XeLaTex
+% !TEX root = EMU2015_booklet.tex
+
+%----------------------------------------------------------------------------------------
+%	NEW COMMANDS 2015
+%----------------------------------------------------------------------------------------
+
+\newcommand{\greco}[1]{%
+\begin{otherlanguage*}{greek}#1\end{otherlanguage*}}
+
+
+%----------------------------------------------------------------------------------------
+\newcommand{\livel}[5]{%
+\noindent \textsc{#1}\\ %
+\noindent \textbf{\textit{#2}} -- #3\\%
+\noindent #4\\ %
+\noindent #5%
+\\
+}%
+
+%: #1 autore, #2 titolo, #3 anno ed esecuzione, #4 tipologia, #5 strumenti, #6 esecutori
+
+%\livel{}
+%{}{}
+%{}
+%{}{}
+
+
+%-----------------------------------------------------------------------------------------------------------------
+\newcommand{\brano}[4]{%
+\noindent \textsc{#1}\\ %
+\noindent \textbf{\textit{#2}} -- #3\\%
+\noindent #4%
+\\
+}%
+
+%: #1 autore, #2 titolo, #3 anno ed esecuzione, #4 tipologia
+%\acusmatico{}
+%{}{}
+%{}
+
+%-----------------------------------------------------------------------------------------------------------------
+\newcommand{\acusmatici}[4]{%
+\noindent \textsc{#1}\\ %
+\noindent \textbf{\textit{#2}} -- #4\\%
+#3\\%
+%\\
+}%
+
+%: #1 autore, #2 titolo, #3 anno ed esecuzione
+%\acusmatici{}
+%{}{}
+
+%-----------------------------------------------------------------------------------------------------------------
+\newcommand{\esecutore}[2]{%
+\noindent #1:  %
+\textsc{#2} %
+\\
+}%
+
+%: #1 strumento, #2 nome e cognome
+% \esecutore{}{}
+
+%-----------------------------------------------------------------------------------------------------------------
+\newcommand{\descrizione}[2]{%
+\noindent \textbf{\textit{#1}} %
+#2 %
+\medskip
+}%
+
+%: #1 titolo, #2 abstract
+% \descrizione{}{}
+
+
+%-----------------------------------------------------------------------------------------------------------------
+\newcommand{\biografia}[2]{%
+\noindent \textbf{\textsc{#1}} %
+#2 %
+\medskip
+}%
+
+%: #1 autore, #2 biografia
+% \biografia{}{}
+

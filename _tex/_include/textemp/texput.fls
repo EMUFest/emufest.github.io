@@ -1,0 +1,5 @@
+PWD /Users/giuseppe/Git_REPO/_others/_EMUFEST/EMUBooklets/2016/tex/_include
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+OUTPUT /Users/giuseppe/Git_REPO/_others/_EMUFEST/EMUBooklets/2016/tex/_include/textemp/texput.log
