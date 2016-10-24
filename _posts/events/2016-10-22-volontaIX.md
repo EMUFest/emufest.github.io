@@ -39,7 +39,6 @@ image:
 |  | {{ site.data.2016SELECTED.2016-051.performers }} |
 |
 |  *guitar* | {{ site.data.2016MUSICIANS.2016-731.nameone }} |
-|  *live electronics* | |
 |  *tenor sax* | {{ site.data.2016MUSICIANS.2016-701.nameone }} |
 |  *alto flute* | {{ site.data.2016MUSICIANS.2016-710.nameone }} |
 |  *piano* | {{ site.data.2016MUSICIANS.2016-713.nameone }} |
