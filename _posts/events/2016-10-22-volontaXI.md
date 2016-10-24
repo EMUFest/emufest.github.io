@@ -38,7 +38,7 @@ image:
 |
 |  *viola* | {{ site.data.2016MUSICIANS.2016-729.nameone }} |
 |  *guitar* | {{ site.data.2016MUSICIANS.2016-718.nameone }} |
-|  *live electronics* | {{ site.data.2016MUSICIANS.2016-723.nameone }} |
+|  *live electronics* | {{ site.data.2016MUSICIANS.2016-723.nameone }}, {{ site.data.2016COMMISSIONED.2016-535.nameone }} |
 {: .alttable}
 
 ### Program Notes

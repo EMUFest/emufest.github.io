@@ -39,14 +39,14 @@ image:
 |  | {{ site.data.2016SELECTED.2016-051.performers }} |
 |
 |  *guitar* | {{ site.data.2016MUSICIANS.2016-731.nameone }} |
-|  *live electronics* | {{ site.data.2016MUSICIANS.2016-721.nameone }} |
+|  *live electronics* | |
 |  *tenor sax* | {{ site.data.2016MUSICIANS.2016-701.nameone }} |
 |  *alto flute* | {{ site.data.2016MUSICIANS.2016-710.nameone }} |
 |  *piano* | {{ site.data.2016MUSICIANS.2016-713.nameone }} |
 |  *flute* | {{ site.data.2016MUSICIANS.2016-717.nameone }} |
 |  *sopran sax* | {{ site.data.2016MUSICIANS.2016-714.nameone }} |
 |  *percussions* | {{ site.data.2016MUSICIANS.2016-719.nameone }} |
-|  *live electronics* | {{ site.data.2016MUSICIANS.2016-726.nameone }} |
+|  *live electronics* | {{ site.data.2016MUSICIANS.2016-721.nameone }}, {{ site.data.2016SELECTED.2016-058.nameone }}, {{ site.data.2016SELECTED.2016-035.nameone }}, {{ site.data.2016SELECTED.2016-117.nameone }}, {{ site.data.2016MUSICIANS.2016-726.nameone }} |
 {: .alttable}
 
 ### Program Notes
