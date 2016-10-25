@@ -41,7 +41,7 @@ image:
 |  *live electronics* | {{ site.data.2016MUSICIANS.2016-723.nameone }}, {{ site.data.2016COMMISSIONED.2016-535.nameone }} |
 {: .alttable}
 
-<sub><sup>live streaming on [radiocemat.org](http://www.radiocemat.org)</sup></sub>
+<small>live streaming on [radiocemat.org](http://www.radiocemat.org)</small>
 
 ### Program Notes
 

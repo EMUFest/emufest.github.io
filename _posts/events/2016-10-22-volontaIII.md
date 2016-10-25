@@ -49,7 +49,7 @@ image:
 |  *conductor* | {{ site.data.2016MUSICIANS.2016-730.nameone }} |
 {: .alttable}
 
-<sub><sup>live streaming on [radiocemat.org](http://www.radiocemat.org)</sup></sub>
+<small>live streaming on [radiocemat.org](http://www.radiocemat.org)</small>
 
 ### Program Notes
 
