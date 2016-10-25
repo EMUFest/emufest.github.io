@@ -49,6 +49,8 @@ image:
 |  *conductor* | {{ site.data.2016MUSICIANS.2016-730.nameone }} |
 {: .alttable}
 
+live streaming on [radiocemat.org](http://www.radiocemat.org)
+
 ### Program Notes
 
 ***{{ site.data.2016COMMISSIONED.2016-526.title }}*** [{{ site.data.2016COMMISSIONED.2016-526.year }}] {{ site.data.2016COMMISSIONED.2016-526.programnotes }}

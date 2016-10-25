@@ -42,6 +42,8 @@ image:
 |  *live electronics* | {{ site.data.2016COMMISSIONED.2016-529.nameone }}, {{ site.data.2016COMMISSIONED.2016-530.nameone }}, {{ site.data.2016COMMISSIONED.2016-531.nameone }}, {{ site.data.2016CONFERENCES.2016-607.nameone }}, {{ site.data.2016COMMISSIONED.2016-533.nameone }} |
 {: .alttable}
 
+live streaming on [radiocemat.org](http://www.radiocemat.org)
+
 ### Program Notes
 
 ***{{ site.data.2016COMMISSIONED.2016-529.title }}*** [{{ site.data.2016COMMISSIONED.2016-529.year }}] {{ site.data.2016COMMISSIONED.2016-529.programnotes }}
