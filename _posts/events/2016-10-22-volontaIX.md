@@ -48,7 +48,7 @@ image:
 |  *live electronics* | {{ site.data.2016MUSICIANS.2016-721.nameone }}, {{ site.data.2016SELECTED.2016-058.nameone }}, {{ site.data.2016SELECTED.2016-035.nameone }}, {{ site.data.2016SELECTED.2016-117.nameone }}, {{ site.data.2016MUSICIANS.2016-726.nameone }} |
 {: .alttable}
 
-live streaming on [radiocemat.org](http://www.radiocemat.org)
+<sub><sup>live streaming on [radiocemat.org](http://www.radiocemat.org)</sup></sub>
 
 ### Program Notes
 
