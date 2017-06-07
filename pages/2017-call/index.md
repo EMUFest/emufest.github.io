@@ -19,14 +19,14 @@ Works will have to fall within one of the following three categories:
 
  1. **Acousmatic works**:
     - Compositions for recorded-only sounds (synthesized or/and concrete), from one to twenty-six  channels to be played into  *Il Suono di Piero* projection room with ambisonic dome of 26.1 **Genelec sound system**. The audio files must be sent in **B-Format** of any order (use, for best result, from third order or up) or spatialized with Zirkonium (Bounce or MK3 project)  .
- 
+
 2. **Live performances with electronics**:   
     - Works with acoustic instruments and live electronics and/or recorded audio.
     - Performances of live electronics only.
-    
+
 3. **Audiovisual composition**:   
-   
--To be played at the University of Tor Vergata
+
+    - To be played at the University of Tor Vergata
 
 **Each author can submit only one work.**
 
@@ -41,43 +41,36 @@ Choices will be made exclusively based on representativeness of the internationa
 Submissions must include a complete description of the technical set-up needed and instrumental techniques for the performance and, depending on the category, it must also include:
 
  1. **Acousmatic works**:
- 
-From 1.1 to 26.1 channels on data file with separate or interleaved tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
-For ambisonic works audio file with separate tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate  into *B-Format* audio files. Each file must be named with spherical harmonics name (ex: *R-title.wav*, *S-title.wav*, *T-title.wav*, and so on).
-For works spatialized with Zirkonium  MK3 project or a Bounce in AIFF or WAV with tracks numbered according to the speaker numbering in the dome set up map.  
+    - From 1.1 to 26.1 channels on data file with separate or interleaved tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
+    For ambisonic works audio file with separate tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate  into *B-Format* audio files. Each file must be named with spherical harmonics name (ex: *R-title.wav*, *S-title.wav*, *T-title.wav*, and so on).
+    For works spatialized with Zirkonium  MK3 project or a Bounce in AIFF or WAV with tracks numbered according to the speaker numbering in the dome set up map.  
 
 2. **Live performances with electronics**:
     - score and parts in PDF format;
     - audio file (MP3, WAV or AIFF format) with a complete recording of the work, if existing;
     - if pre-existing audio is needed, audio file with separate or interleaved tracks in WAV or AIFF format with 24 bit rate and 48000*Hz*       sampling rate ;
-    - live electronics works submitted without all software components for the functioning of the work will be discarded. Documentation of       the software must be included (as comments in the file or as a separate read me file). 
-
+    - live electronics works submitted without all software components for the functioning of the work will be discarded. Documentation of       the software must be included (as comments in the file or as a separate read me file).
 
 For **Category 2** the conservatory will provide performers chosen amongst its faculty and selected graduate students. Technical performers will be chosen among the students of the Electronic Music department. Should authors decide to use external performers they will have to bear all accommodation and travel costs, as well as any further expenses.
 
-
-
 For the instrumental ensemble a maximum of 7 performers might be chosen from the following:
-
   - 1 voice ( mezzo soprano)
- - 2 pianos  
- - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
- - 1 double bass
- - 2 cellos  
- - 1 viola
- - 1 violin 
- - 2 flutes (C and / or G)
- - clarinet (Bb cl. and Bb bass cl.)
- - percussions (max 3 percussionists)
+  - 2 pianos  
+  - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
+  - 1 double bass
+  - 2 cellos  
+  - 1 viola
+  - 1 violin
+  - 2 flutes (C and / or G)
+  - clarinet (Bb cl. and Bb bass cl.)
+  - percussions (max 3 percussionists)
   - 2 electric guitars
   - 2 classical guitars
   - 1 conductor
 
 3. **Audiovisual composition**:   
-
--Audio file from 1.1 to 4.1 channels in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
--Video file with a minimum resolution of 1080P.
-
+  - Audio file from 1.1 to 4.1 channels in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
+  - Video file with a minimum resolution of 1080P.
 
 All the required material for performance must be sent by compiling the online submission form until expiration date.
 
