@@ -19,15 +19,15 @@ Le opere dovranno rientrare in una delle seguenti tre categorie:
 
  1. **Opere Acusmatiche**:
     - Composizioni per soli suoni registrati (sintetizzati o concreti), da uno a ventisei canali per la riproduzione attraverso la cupola sonora *Il Suono di Piero* di 26.1 diffusori **Genelec**. I file audio dovranno essere inviati in **B-Format** di qualsiasi ordine (per un risultato ottimale si consiglia almeno il terzo ordine) o spazializzati con Zirkonium (Bounce o progetto MK3).
- 
+
 2. **Opere dal vivo con elettronica**:   
-Opere con strumenti acustici ed elettronica dal vivo o suoni pre-registrati.
-Performances di sola elettronica dal vivo.
+    - Opere con strumenti acustici ed elettronica dal vivo o suoni pre-registrati.
+    Performances di sola elettronica dal vivo.
 
 3. **Composizioni Audiovideo**:  
-- Eseguite presso l'auditorium dell'Università di Tor Vergata
-     
-   
+    - Eseguite presso l'auditorium dell'Università di Tor Vergata
+
+
 **Ogni autore può inviare una sola opera.**
 
 La registrazione a EMUFest può essere effettuata compilando tutte le informazioni richieste nella **[submission form](http://emufest.org/semuform)** ed inviando tutti i materiali richiesti dalla commissione.
@@ -42,7 +42,7 @@ La registrazione deve includere la descrizione completa del setup tecnico necess
 
  1. **Opere Acusmatiche**:
     - da 1.1 a 26.1 canali su un file audio interlacciato o su file separati in formato WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000 *Hz*.
-per le opere *ambisonic* file audio WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000  *Hz* in formato *B-Format*. Ogni file dovà essere nominato indicando la relativa armonica sferica (es. *R-titolo.wav*, *S-titolo.wav*, *T-titolo.wav*, e così via). Per i lavori spazializzati con Zirkonium il progetto MK3 o un Bounce in AIFF o WAV con le tracce numerate seguendo la numerazione dei diffusori nella mappa della cupola
+    per le opere *ambisonic* file audio WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000  *Hz* in formato *B-Format*. Ogni file dovà essere nominato indicando la relativa armonica sferica (es. *R-titolo.wav*, *S-titolo.wav*, *T-titolo.wav*, e così via). Per i lavori spazializzati con Zirkonium il progetto MK3 o un Bounce in AIFF o WAV con le tracce numerate seguendo la numerazione dei diffusori nella mappa della cupola
 
 
  2. **Opere dal vivo con elettronica**:   
@@ -55,29 +55,25 @@ Per la **Categoria 2** il conservatorio metterà a disposizione interpreti scelt
 
 L'ensemble può essere composto da un massimo di 7 interpreti, scelti tra i seguenti:
 
-- 1 voce ( mezzosoprano)
-- 2 pianoforti
-- 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
-- 1 contrabbasso
-- 2 violoncelli
-- 1 viola
-- 1 violino
-- 2 flauti (Do e/o Sol)
-- clarinetto (cl in Bb e Basso)
-- 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
-- percussioni (max 3 percussionisti)
-- 2 chitarre elettriche
-- 2 chitarre classiche
-- 1 direttore
-  
+  - 1 voce ( mezzosoprano)
+  - 2 pianoforti
+  - 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
+  - 1 contrabbasso
+  - 2 violoncelli
+  - 1 viola
+  - 1 violino
+  - 2 flauti (Do e/o Sol)
+  - clarinetto (cl in Bb e Basso)
+  - 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
+  - percussioni (max 3 percussionisti)
+  - 2 chitarre elettriche
+  - 2 chitarre classiche
+  - 1 direttore
 
 3. **Composizioni Audiovideo**:
 
-
-- File video con risoluzione minima di 1080P
-
-- File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
-
+  - File video con risoluzione minima di 1080P
+  - File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
 
 Tutto il materiale necessario per l'esecuzione deve essere inviato entro la data di chiusura della registrazione online.
 

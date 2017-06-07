@@ -53,6 +53,7 @@ Submissions must include a complete description of the technical set-up needed a
 For **Category 2** the conservatory will provide performers chosen amongst its faculty and selected graduate students. Technical performers will be chosen among the students of the Electronic Music department. Should authors decide to use external performers they will have to bear all accommodation and travel costs, as well as any further expenses.
 
 For the instrumental ensemble a maximum of 7 performers might be chosen from the following:
+
   - 1 voice ( mezzo soprano)
   - 2 pianos  
   - 4 saxophones (for each combination of soprano, alto, tenor, baritone)
