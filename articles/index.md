@@ -5,7 +5,7 @@ excerpt: "News sorted by date."
 search_omit: true
 ---
 
-News about EMUFest
+### News about EMUFest
 
 <ul class="post-list">
 {% for post in site.categories.articles %}
