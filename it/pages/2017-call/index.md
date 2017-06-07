@@ -72,8 +72,8 @@ L'ensemble può essere composto da un massimo di 7 interpreti, scelti tra i segu
 
 3. **Composizioni Audiovideo**:
 
-  - File video con risoluzione minima di 1080P
-  - File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
+    - File video con risoluzione minima di 1080P
+    - File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
 
 Tutto il materiale necessario per l'esecuzione deve essere inviato entro la data di chiusura della registrazione online.
 

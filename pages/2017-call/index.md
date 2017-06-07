@@ -69,8 +69,8 @@ For the instrumental ensemble a maximum of 7 performers might be chosen from the
   - 1 conductor
 
 3. **Audiovisual composition**:   
-  - Audio file from 1.1 to 4.1 channels in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
-  - Video file with a minimum resolution of 1080P.
+    - Audio file from 1.1 to 4.1 channels in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
+    - Video file with a minimum resolution of 1080P.
 
 All the required material for performance must be sent by compiling the online submission form until expiration date.
 
