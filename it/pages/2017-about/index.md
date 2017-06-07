@@ -39,7 +39,7 @@ Festival COORDINATORS:
 Mº **Michelangelo LUPONE**   
 Mº **Nicola BERNARDINI**
 
-Music and new technology department:     
+Electronic Music Department:     
 Prof. **Marco GIORDANO**   
 Mº **Luigi PIZZALEO**   
 Mº **Riccardo SANTOBONI**   
