@@ -25,7 +25,7 @@ Opere con strumenti acustici ed elettronica dal vivo o suoni pre-registrati.
 Performances di sola elettronica dal vivo.
 
 3. **Composizioni Audiovideo**:  
--Eseguite presso l'auditorium dell'Università di Tor Vergata
+- Eseguite presso l'auditorium dell'Università di Tor Vergata
      
    
 **Ogni autore può inviare una sola opera.**
@@ -54,28 +54,29 @@ per le opere *ambisonic* file audio WAV o AIFF con risoluzione di  24 *bit* e fr
 Per la **Categoria 2** il conservatorio metterà a disposizione interpreti scelti tra i docenti e gli studenti diplomati. Gli interpreti elettroacustici verranno scelti tra gli studenti del dipartimento di Musica Elettronica. Gli autori possono scegliere di coinvolgere interpreti esterni facendosi carico di eventuali costi di viaggio, vitto e alloggio ed eventuali spese accessorie.
 
 L'ensemble può essere composto da un massimo di 7 interpreti, scelti tra i seguenti:
--1 voce ( mezzosoprano)
--2 pianoforti
-4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
--1 contrabbasso
--2 violoncelli
--1 viola
--1 violino
--2 flauti (Do e/o Sol)
--clarinetto (cl in Bb e Basso)
--4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
--percussioni (max 3 percussionisti)
--2 chitarre elettriche
--2 chitarre classiche
+
+- 1 voce ( mezzosoprano)
+- 2 pianoforti
+- 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
+- 1 contrabbasso
+- 2 violoncelli
+- 1 viola
+- 1 violino
+- 2 flauti (Do e/o Sol)
+- clarinetto (cl in Bb e Basso)
+- 4 sassofoni (in ogni combinazione di soprano, contralto, tenore, baritono)
+- percussioni (max 3 percussionisti)
+- 2 chitarre elettriche
+- 2 chitarre classiche
 - 1 direttore
   
 
 3. **Composizioni Audiovideo**:
 
 
--File video con risoluzione minima di 1080P
+- File video con risoluzione minima di 1080P
 
--File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
+- File Audio da 1.1 a 4.1 canali  in formato WAV o AIFF con risoluzione di 24 *bit* e frequenza di campionamento di 48000 *Hz*;
 
 
 Tutto il materiale necessario per l'esecuzione deve essere inviato entro la data di chiusura della registrazione online.
