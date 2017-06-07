@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EMUFest 2016
+title: EMUFest 2017
 excerpt: "International Electroacoustic Music Festival"
 search_omit: true
 image:
@@ -11,13 +11,13 @@ image:
 
 <div markdown="0">
   <!-- <a href="{{site.url }}/pages/2016-call" class="mybtn">!!! CALL FOR WORKS !!!</a> -->
-  <a href="{{site.url }}/pages/2016-emufest" class="mybtn">General notes on EMUFest 2016</a>
+  <a href="{{site.url }}/pages/2017-call" class="mybtn">EMUFest 2017</a>
 </div>
 
 <h3><a href="{{ site.url }}/events/index.html">Events:</a></h3>
 
 <ul class="post-list">
-{% for post in site.categories.events reversed %}
+{% for post in site.categories.events reversed limit:5 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }} • {{ post.date | date: "%B %d, %Y - %R" }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>

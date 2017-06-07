@@ -3,7 +3,7 @@ layout: page
 title: "Volontà II"
 excerpt: "Acousmatic Concert"
 date: 2016-10-25T18:00:00
-categories: events
+categories: pastevents
 tags: [emufest, emufest, 2016]
 author:
 comments: true

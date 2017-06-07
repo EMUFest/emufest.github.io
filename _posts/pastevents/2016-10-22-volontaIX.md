@@ -3,7 +3,7 @@ layout: page
 title: "Volontà IX"
 excerpt: "Concert"
 date: 2016-10-28T20:30:00
-categories: events
+categories: pastevents
 tags: [emufest, emufest, 2016]
 author:
 comments: true

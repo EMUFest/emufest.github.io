@@ -3,7 +3,7 @@ layout: page
 title: "Volontà VII"
 excerpt: "Concert"
 date: 2016-10-27T20:30:00
-categories: events
+categories: pastevents
 tags: [emufest, emufest, 2016]
 author:
 comments: true
