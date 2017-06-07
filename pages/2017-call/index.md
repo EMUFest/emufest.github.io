@@ -2,8 +2,8 @@
 layout: page
 title: Call For Works
 excerpt: "EMUfest 2017"
-modified: 2016-05-05T01:26:21
-static: "pages/2016-call"
+modified: 2017-06-07T01:26:21
+static: "pages/2017-call"
 image:
   feature:
   credit:
