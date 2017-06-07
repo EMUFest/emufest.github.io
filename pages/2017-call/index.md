@@ -25,7 +25,6 @@ Works will have to fall within one of the following three categories:
     - Performances of live electronics only.
 
 3. **Audiovisual composition**:   
-
     - To be played at the University of Tor Vergata
 
 **Each author can submit only one work.**
