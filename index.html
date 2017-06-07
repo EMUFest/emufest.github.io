@@ -9,12 +9,12 @@ image:
   creditlink:
 ---
 
+<h3><a href="{{ site.url }}/events/index.html">Events:</a></h3>
+
 <div markdown="0">
   <!-- <a href="{{site.url }}/pages/2016-call" class="mybtn">!!! CALL FOR WORKS !!!</a> -->
   <a href="{{site.url }}/pages/2017-call" class="mybtn">EMUFest 2017 Call for works</a>
 </div>
-
-<h3><a href="{{ site.url }}/events/index.html">Events:</a></h3>
 
 <ul class="post-list">
 {% for post in site.categories.events reversed limit:5 %}
@@ -22,7 +22,7 @@ image:
 {% endfor %}
 </ul>
 
-<h3><a href="{{ site.url }}/articles/index.html">Latest EMUFest News:</a></h3>
+<h3><a href="{{ site.url }}/articles/index.html">EMUFest News:</a></h3>
 
 <ul class="post-list">
 {% for post in site.categories.articles limit:5 %}
