@@ -40,9 +40,9 @@ Choices will be made exclusively based on representativeness of the internationa
 Submissions must include a complete description of the technical set-up needed and instrumental techniques for the performance and, depending on the category, it must also include:
 
  1. **Acousmatic works**:
-    - From 1.1 to 26.1 channels on data file with separate or interleaved tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate.
-    For ambisonic works audio file with separate tracks in WAV or AIFF format with 24 bit rate and 48000 *Hz* sampling rate  into *B-Format* audio files. Each file must be named with spherical harmonics name (ex: *R-title.wav*, *S-title.wav*, *T-title.wav*, and so on).
-    For works spatialized with Zirkonium  MK3 project or a Bounce in AIFF or WAV with tracks numbered according to the speaker numbering in the dome set up map.  
+    - From 1.1 to 24.1 channels on data file with separate or interleaved tracks in *WAV* or *AIFF* format with 24 *bit* and 48000 *Hz* sampling rate.
+    For **ambisonic** works audio file with separate tracks in *WAV* or *AIFF* format with 24 *bit* and 48000 *Hz* sampling rate into *B-Format* audio files. Each file must be named with spherical harmonics name (ex: *R-title.wav*, *S-title.wav*, *T-title.wav*, and so on).
+    For works spatialised with **Zirkonium** *MK3* project or a bounce in *AIFF* or *WAV* with tracks numbered according to the speaker numbering in the dome set up map (map of loudspeakers and zirkonium xml comings soon).
 
 2. **Live performances with electronics**:
     - score and parts in PDF format;

@@ -41,8 +41,8 @@ Le scelte saranno effettuate esclusivamente in base alla rappresentatività dell
 La registrazione deve includere la descrizione completa del setup tecnico necessario e delle tecniche strumentali per l'attuazione e, a seconda della categoria, deve anche comprendere:
 
  1. **Opere Acusmatiche**:
-    - da 1.1 a 26.1 canali su un file audio interlacciato o su file separati in formato WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000 *Hz*.
-    per le opere *ambisonic* file audio WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000  *Hz* in formato *B-Format*. Ogni file dovà essere nominato indicando la relativa armonica sferica (es. *R-titolo.wav*, *S-titolo.wav*, *T-titolo.wav*, e così via). Per i lavori spazializzati con Zirkonium il progetto MK3 o un Bounce in AIFF o WAV con le tracce numerate seguendo la numerazione dei diffusori nella mappa della cupola
+    - da 1.1 a 24.1 canali su un file audio interlacciato o su file separati in formato WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000 *Hz*.
+    per le opere *ambisonic* file audio WAV o AIFF con risoluzione di  24 *bit* e frequenza di campionamento di 48000  *Hz* in formato *B-Format*. Ogni file dovà essere nominato indicando la relativa armonica sferica (es. *R-titolo.wav*, *S-titolo.wav*, *T-titolo.wav*, e così via). Per i lavori spazializzati con Zirkonium il progetto MK3 o un Bounce in AIFF o WAV con le tracce numerate seguendo la numerazione dei diffusori nella mappa della cupola (verranno pubblicate sia la mappa della disposizione degli altoparlanti che un file xml del setup per zirkonium).
 
 
  2. **Opere dal vivo con elettronica**:   
