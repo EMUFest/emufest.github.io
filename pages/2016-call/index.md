@@ -76,9 +76,9 @@ All the required material for performance must be sent by compiling the online s
 
 After submission closing it will not be possible upload or send other materials.
 
-<!-- <div markdown="0">
-  <a href="http://emufest.org/semuform" class="mybtn">SUBMISSION FORM</a>
-</div> -->
+<div markdown="0">
+  <a href="https://easychair.org/conferences/?conf=emufest2017" class="mybtn">SUBMISSION FORM</a>
+</div>
 
 > Information email contact: [info@emufest.org](info@emufest.org)   
 > [Other contacts](http://www.emufest.org/about/#contacts)
