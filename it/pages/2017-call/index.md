@@ -30,7 +30,7 @@ Le opere dovranno rientrare in una delle seguenti tre categorie:
 
 **Ogni autore può inviare una sola opera.**
 
-La registrazione a EMUFest può essere effettuata compilando tutte le informazioni richieste nella **[submission form](http://emufest.org/semuform)** ed inviando tutti i materiali richiesti dalla commissione.
+La registrazione a EMUFest può essere effettuata compilando tutte le informazioni richieste nella **[submission form](https://easychair.org/conferences/?conf=emufest2017)** ed inviando tutti i materiali richiesti dalla commissione.
 
 **La registrazione sarà possibile fino alle ore 23:59 CEST del 30 luglio 2017.**
 
