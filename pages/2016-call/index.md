@@ -29,7 +29,7 @@ Works will have to fall within one of the following three categories:
 
 **Each author can submit only one work.**
 
-Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](http://emufest.org/semuform)** and uploading all the required materials, necessary to the committee.
+Submission and registration to EMUFest will be complete by filling out all the required information in the on line **[submission form](https://easychair.org/conferences/?conf=emufest2017)** and uploading all the required materials, necessary to the committee.
 
 **The registration form will not be available after 23:59 CEST on July 30th, 2017.**
 
