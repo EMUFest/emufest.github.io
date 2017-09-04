@@ -34,7 +34,7 @@ La registrazione a EMUFest può essere effettuata compilando tutte le informazio
 
 **La registrazione sarà possibile fino alle ore 23:59 CEST del 30 luglio 2017.**
 
-**Le opere selezionate verranno annunciate dal primo Settembre 2017.**
+**Le opere selezionate verranno annunciate dal ~~primo~~ 12 settembre 2017.**
 
 Le scelte saranno effettuate esclusivamente in base alla rappresentatività della situazione internazionale della musica elettroacustica e alla fattibilità in relazione al programma del Festival.
 
