@@ -33,7 +33,7 @@ Submission and registration to EMUFest will be complete by filling out all the r
 
 **The registration form will not be available after 23:59 CEST on July 30th, 2017.**
 
-**The selected works will be announced by September 1st, 2017.**
+**The selected works will be announced by ~~September 1st~~ September 12th, 2017.**
 
 Choices will be made exclusively based on representativeness of the international situation of electroacoustic music and upon the feasibility connected to the Festival's program.
 
