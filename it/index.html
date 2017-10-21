@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EMUFest 2016
+title: EMUFest 2017
 excerpt: "International Electroacoustic Music Festival"
 search_omit: true
 image:
@@ -9,23 +9,26 @@ image:
   creditlink:
 ---
 
-<div markdown="0">
-  <!-- <a href="{{ site.url }}/it/2016-call" class="mybtn">!!! BANDO PER OPERE !!!</a> -->
+<h3><a href="{{ site.url }}/events/index.html">Eventi:</a></h3>
+
+<!-- <div markdown="0">
   <a href="{{ site.url }}/it/2016-emufest" class="mybtn">Note generali su EMUFest 2016</a>
-</div>
+</div> -->
 
 <h3>Ultime notizie:</h3>
 
 <ul class="post-list">
-{% for post in site.categories.articles limit:5 %}
+{% for post in site.categories.articles limit:3 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
+  <li><a href="{{ site.url }}/articles/index.html">…</a></li>
 </ul>
 
-<!-- <h3>Blog Posts:</h3>
+<h3><a href="{{ site.url }}/events/index.html">Eventi Passati:</a></h3>
 
 <ul class="post-list">
-{% for post in site.categories.blog limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% for post in site.categories.pastevents limit:3 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }} • {{ post.date | date: "%B %d, %Y - %R" }}</span>{% endif %}</a></article></li>
 {% endfor %}
-</ul> -->
+  <li><a href="{{ site.url }}/events/index.html">…</a></li>
+</ul>
