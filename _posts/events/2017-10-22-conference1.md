@@ -2,7 +2,7 @@
 layout: page
 title: "Masterclass I"
 excerpt: "Conference"
-date: 2017-10-23T09:30:00
+date: 2017-10-22T09:30:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
