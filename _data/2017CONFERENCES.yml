@@ -2,6 +2,7 @@
   nameone: Francesco Galante
   bioengone: Ha studiato musica elettronica in Italia e in Francia. Compositore,ricercatore,saggista. Co-fondatore della Societa di Informatica Musicale(1982-1990). E’ stato ricercatore nel campo tecnologico (ICMC1984 e 1986, CIM 1988).E’ co-autore dei volumi "Musica espansa" e "Metafonie". Nel 1997 è stato "composer in residence" presso IIME Bourges (Francia). Dal 1998 al 2000, ha curato per il Teatro Alla Scala, assieme a Luigi Pestalozza,                     l’ ideazione e la realizzazione del ciclo biennale di concerti Metafonie e un convegno internazionale sulla  Musica e la Tecnologia (1999). Ha realizzato conferenze in Italia, Olanda,Francia,Cuba,Spagna; le sue composizioni sono state eseguite in circa 20 paesi ( tra Europa, USA, Canada, Asia, Australia, America Latina) e all’interno di numerose edizioni della ICMC. Ha inciso per Fonit Cetra,Ricordi,Eshock Edts-Mosca,EMI-Italia,LIMEN,CEMAT. Negli ultimi anni è interessato ad approfondire la ricerca storico critica sulla musica elettronica europea e italiana degli anni 50/70. Dal 1990 è collaboratore scientifico della rivista Musica Realtà.  E’ titolare della cattedra di composizione musicale elettroacustica presso il Conservatorio di Musica di Cosenza.
   bioitaone: Ha studiato musica elettronica in Italia e in Francia. Compositore,ricercatore,saggista. Co-fondatore della Societa di Informatica Musicale(1982-1990). E’ stato ricercatore nel campo tecnologico (ICMC1984 e 1986, CIM 1988).E’ co-autore dei volumi "Musica espansa" e "Metafonie". Nel 1997 è stato "composer in residence" presso IIME Bourges (Francia). Dal 1998 al 2000, ha curato per il Teatro Alla Scala, assieme a Luigi Pestalozza,                     l’ ideazione e la realizzazione del ciclo biennale di concerti Metafonie e un convegno internazionale sulla  Musica e la Tecnologia (1999). Ha realizzato conferenze in Italia, Olanda,Francia,Cuba,Spagna; le sue composizioni sono state eseguite in circa 20 paesi ( tra Europa, USA, Canada, Asia, Australia, America Latina) e all’interno di numerose edizioni della ICMC. Ha inciso per Fonit Cetra,Ricordi,Eshock Edts-Mosca,EMI-Italia,LIMEN,CEMAT. Negli ultimi anni è interessato ad approfondire la ricerca storico critica sulla musica elettronica europea e italiana degli anni 50/70. Dal 1990 è collaboratore scientifico della rivista Musica Realtà.  E’ titolare della cattedra di composizione musicale elettroacustica presso il Conservatorio di Musica di Cosenza.
+  affil: "Conservatorio Stanislao Giacomantonio di Cosenza"
   cat: CONF
   titleeng: Composizione, ragioni ed utopie, mutamenti del suono nella musica elettroacustica
   titleita: Composizione, ragioni ed utopie, mutamenti del suono nella musica elettroacustica
@@ -11,229 +12,84 @@
   programnotesita: "Partendo da un nucleo di composizioni elettroniche ed elettroacustiche, che appartengono alla personale produzione musicale dal 1984 ad oggi, si illustreranno alcune  direzioni compositive intraprese nel rapporto musica/tecnologie, e le ragioni e le utopie  che hanno sostenuto il paradigma del comporre il suono. Mettendo anche a confronto sul piano storico-critico alcune delle questioni musicali e tecnologiche esistenti negli anni 70 e lo stato delle cose musicali del nostro tempo in ambito tecnologico."
 
 2017-302:
-  nameone: Omino Prova
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: "Titolo Prova"
-  year:
-  duration: ""
+  nameone: Franco Sbacco
+  bioengone: "Graduated in Composition, Conducting, Electronic Music and Percussions, respectively with D. Guaccero, D, Paris, G, Nottoli and L. Torrebruno. Specialized in Composition at Accademia Nazionale of S. Cecilia in Rome with G. Petrassi and F. Donatoni in 1979. In 1989 he won a Canadian bursary for research activities on computer music with the system PODX of B. Truax at the Simon University of Vancouver. He worked in musical theatre. His compositions are executed in Italy and all over the world in the main contemporary music festivals. He also won the Varese's 3rd International Competition of Electroacoustic Music and the 18the Bourges's International Contest of Electroacoustic Music. He recorded for BMG Ariola - Roma, for DOMANI MUSICA - Roma, which has named after him two monographic cds in 1999 and in 2008 moreover, he recorded for ALBANY RECORDS too (New York). Nowdays he teachs analysis an harmony at the Conservatory of Santa Cecilia in Rome."
+  bioitaone: "diplomato in Composizione, Direzione d'Orchestra, Musica Elettronica e Percussion, rispettivamente con D. Guaccero, D. Paris, G. Nottoli e L. Torrebruno. Perfezionato nel 1979 in Composizione presso l'Accademia Nazionale di S. Cecilia a Roma con G. Petrassi e F. Donatoni. Nel 1989 vince una borsa di studio canadese per attività di ricerca sulla computer music presso la Simon Fraser University di Vancouver con il sistema PODX di B. Truax. Si è dedicato al teatro musicale, le sue composizioni, eseguite in Italia e all'estero nei principali festival di musica contemporanea. È inoltre vincitore del 3° Concorso Internazionale  di Musica Elettroacustica di Varese e del 18° Concorso Internazionale di Musica Elettroacustica di Bourges. Ha inciso per BMG Ariola – Roma, per DOMANI MUSICA – Roma, che nel 1999 e nel 2008 gli ha dedicato due cd monografici e nel 2015 per ALBANY RECORDS -  New York. Insegna Armonia e Analisi presso il Conservatorio S. Cecilia di Roma."
+  affil: "Conservatorio Santa Cecilia di Roma"
+  cat: CONF
+  titleeng: "Un ITER in atto"
+  titleita: "Un ITER in atto"
   performers: no
-  programnotes: "note eng prova"
-  programnotesita: "note ita prova"
+  programnotes: "Nato nel 2008, l’EMUFest, Festival Internazionale di Musica Elettroacustica del Conservatorio Santa Cecilia, ha segnato una svolta epocale nel panorama italiano sia riguardo all’informazione sulla ricerca, sperimentazione compositiva e analisi della musica elettronica e della computer music, sia nel selezionare e proporre, di anno in anno, nuove opere acusmatiche, dal vivo con elettronica, audiovisuali e installative. Si fa il punto sul cammino percorso e ci si interroga sul futuro, con particolare attenzione agli aspetti formativi e di crescita tecnico-musicale degli studenti."
+  programnotesita: "Nato nel 2008, l’EMUFest, Festival Internazionale di Musica Elettroacustica del Conservatorio Santa Cecilia, ha segnato una svolta epocale nel panorama italiano sia riguardo all’informazione sulla ricerca, sperimentazione compositiva e analisi della musica elettronica e della computer music, sia nel selezionare e proporre, di anno in anno, nuove opere acusmatiche, dal vivo con elettronica, audiovisuali e installative. Si fa il punto sul cammino percorso e ci si interroga sul futuro, con particolare attenzione agli aspetti formativi e di crescita tecnico-musicale degli studenti."
 
 2017-303:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
+  nameone: Emmanuel Favreau
+  bioengone: "Direttore scientifico dell’INA GRM di Parigi, collaboratore di Giuseppe Di Giugno per diversi anni, prima all’IRCAM poi all’IRIS di Paliano,  lavora da 22 anni all’INA-GRM, dove si dedica allo sviluppo di software per applicazioni musicali, tra queste GRM Tools, una serie di plug-in software, tra i più noti e usati strumenti digitali per l’aiuto alla composizione musicale, alla formazione e al sound design."
+  bioitaone: "Direttore scientifico dell’INA GRM di Parigi, collaboratore di Giuseppe Di Giugno per diversi anni, prima all’IRCAM poi all’IRIS di Paliano,  lavora da 22 anni all’INA-GRM, dove si dedica allo sviluppo di software per applicazioni musicali, tra queste GRM Tools, una serie di plug-in software, tra i più noti e usati strumenti digitali per l’aiuto alla composizione musicale, alla formazione e al sound design."
+  affil: "INA-GRM - Paris"
+  cat: CONF
+  titleeng: "GRM Tools et la spatialisation"
+  titleita: "GRM Tools e la spazializzazione"
   performers: no
-  programnotes: ""
-  programnotesita: " "
+  programnotes: "Après un bref historique du GRM présentant l’approche concrete, je présenterai plus en détails quelques outils GRM Tools. L’accent sera mis plus particulièrement sur les derniers outils consacrés à la spatialisation 2D, 3D et binaurale avec des démonstrations sur le dôme de 22 haut-parleurs."
+  programnotesita: "Dopo una breve introduzione storica sul GRM e il suo approccio alla musica concreta, presenterò nei dettagli alcuni dispositivi GRM Tools. L’accento è posto, in particolare, sugli ultimi dispositivi dedicati alla spazializzazione 2D, 3D e binaurale con alcune dimostrazioni sulla cupola di 22 altoparlanti."
 
 2017-304:
-  nameone:
+  nameone: Luigi Pizzaleo
   bioengone: ""
   bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
+  affil: "Conservatorio Santa Cecilia di Roma"
+  cat: CONF
+  titleeng: "Jean-Claude Risset. Metafore e archetipi del linguaggio elettroacustico"
+  titleita: "Jean-Claude Risset. Metafore e archetipi del linguaggio elettroacustico"
   performers: no
-  programnotes: ""
-  programnotesita: " "
+  programnotes: "Saranno esaminati gli aspetti più rilevanti della poetica di Jean-Claude Risset ed in particolare le connessioni profonde tra la musica e la scienza che il compositore ha esplorato. La Master class, articolata in ascolti e analisi, ospita il sassofonista Enzo Filippetti che eseguirà  il brano *Voilements*"
+  programnotesita: "Saranno esaminati gli aspetti più rilevanti della poetica di Jean-Claude Risset ed in particolare le connessioni profonde tra la musica e la scienza che il compositore ha esplorato. La Master class, articolata in ascolti e analisi, ospita il sassofonista Enzo Filippetti che eseguirà  il brano *Voilements*"
 
 2017-305:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
+  nameone: Yann Orlarey
+  bioengone: "Compositore, direttore scientifico del GRAME cncm di Lione, ideatore di FAUST (Functional Audio Stream). L’incontro con il gruppo del GRAME nel 1983 gli permette di praticare la musica come compositore e di seguire lo sviluppo di sistemi informatici per scopi musicali. E’ presso il Centro che crea sistemi e linguaggi di programmazione importanti per la musica, l’ultimo dei quali FAUST è noto e usato in moltissimi paesi europei ed extraeuropei. La flessibilità di questo sistema ne consente un uso esteso anche a tecnologie di uso quotidiano, come lo smartphone. Per la maggior parte, le sue opere utilizzano mezzi informatici, sia per l’esecuzione strumentale sia per la composizione. Il suo repertorio musicale include lavori su supporto, lavori interattivi e strumentali per solisti, piccole formazioni e orchestra. Molti brani sono il risultato di un lavoro di co-scrittura realizzata al GRAME con compositori/interpreti come ad esempio Jérôme Dorival (clarinettista e compositore). Le sue opere sono eseguite in Europa, negli Stati Uniti, in Canada, in Cina e nei Paesi dell’Est."
+  bioitaone: "Compositore, direttore scientifico del GRAME cncm di Lione, ideatore di FAUST (Functional Audio Stream). L’incontro con il gruppo del GRAME nel 1983 gli permette di praticare la musica come compositore e di seguire lo sviluppo di sistemi informatici per scopi musicali. E’ presso il Centro che crea sistemi e linguaggi di programmazione importanti per la musica, l’ultimo dei quali FAUST è noto e usato in moltissimi paesi europei ed extraeuropei. La flessibilità di questo sistema ne consente un uso esteso anche a tecnologie di uso quotidiano, come lo smartphone. Per la maggior parte, le sue opere utilizzano mezzi informatici, sia per l’esecuzione strumentale sia per la composizione. Il suo repertorio musicale include lavori su supporto, lavori interattivi e strumentali per solisti, piccole formazioni e orchestra. Molti brani sono il risultato di un lavoro di co-scrittura realizzata al GRAME con compositori/interpreti come ad esempio Jérôme Dorival (clarinettista e compositore). Le sue opere sono eseguite in Europa, negli Stati Uniti, in Canada, in Cina e nei Paesi dell’Est."
+  affil: "GRAME Lyon"
+  cat: CONF
+  titleeng: "Il linguaggio Faust per la composizione musicale"
+  titleita: "Il linguaggio Eaust per la composizione musicale"
   performers: no
-  programnotes: ""
-  programnotesita: " "
+  programnotes: "Faust è un linguaggio di programmazione appositamente progettato per descrivere processi di sintesi e di elaborazione del suono. Faust può essere utilizzato per progettare strumenti musicali elettronici su una vasta gamma di piattaforme, dai pedali di effetti alle applicazioni audio per il web o smartphone. L'obiettivo dell'intervento è di presentare Faust e il suo ecosistema in modo semplice e accessibile."
+  programnotesita: "Faust è un linguaggio di programmazione appositamente progettato per descrivere processi di sintesi e di elaborazione del suono. Faust può essere utilizzato per progettare strumenti musicali elettronici su una vasta gamma di piattaforme, dai pedali di effetti alle applicazioni audio per il web o smartphone. L'obiettivo dell'intervento è di presentare Faust e il suo ecosistema in modo semplice e accessibile."
 
 2017-306:
-  nameone:
-  bioengone: "  "
+  nameone: Simone Santi Gubini
+  bioengone: " "
   bioitaone: " "
-  cat:
-  title: " "
-  year:
-  duration: " "
+  cat: CONF
+  titleeng: "Shock e Ambiguità musicale - tecniche di un suono liberato"
+  titleita:
   performers: no
-  programnotes: " "
-  programnotesita: " "
+  programnotes: "Il compositore presenterà gli elementi costitutivi della sua estetica musicale. L’indagine sarà rivolta al suono e alle forma, con esemplificazioni tratte dalle sue opere e in un susseguirsi di concetti che dichiarano la necessità di una musica “dinamica, ipertrofca, di espressione immediata, formulata in una dialettica strettissima di opposte artcolazioni…”"
+  programnotesita: "Il compositore presenterà gli elementi costitutivi della sua estetica musicale. L’indagine sarà rivolta al suono e alle forma, con esemplificazioni tratte dalle sue opere e in un susseguirsi di concetti che dichiarano la necessità di una musica “dinamica, ipertrofca, di espressione immediata, formulata in una dialettica strettissima di opposte artcolazioni…”"
 
 2017-307:
-  nameone:
+  nameone: Chaya Czernowin
   bioengone: ""
   bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
+  affil: Harvard University USA
+  cat: CONF
+  titleeng: "Hidden. Composing sound and space of sound I"
+  titleita: "Hidden. Composing sound and space of sound I"
   performers: no
-  programnotes: ""
-  programnotesita: " "
+  programnotes: "Il lavoro di Chaya Czernowin, compositrice di fama mondiale si caratterizza per l’uso della metafora come mezzo privilegiato per raggiungere un mondo sonoro non familiare, una musica per il subconscio, che si estenda oltre le convenzioni stilistiche o la razionalità. La composizione della tessitura sonora, l’attenzione alla fluidità o alla rugosità del timbro fino al confine con il rumore, la dilatazione del tempo, l’elaborazione e la spazializzazione del suono, sono tecniche sapientemente utilizzate per la creazione di una vitale, viscerale e diretta esperienza musicale. Nel corso della masterclass sarà descritta anche la realizzazione dell’opera HIDDEN, per quartetto d’archi ed elettronica, prodotta nel 2014 con Carlo Laurenzi presso l’IRCAM."
+  programnotesita: "Il lavoro di Chaya Czernowin, compositrice di fama mondiale si caratterizza per l’uso della metafora come mezzo privilegiato per raggiungere un mondo sonoro non familiare, una musica per il subconscio, che si estenda oltre le convenzioni stilistiche o la razionalità. La composizione della tessitura sonora, l’attenzione alla fluidità o alla rugosità del timbro fino al confine con il rumore, la dilatazione del tempo, l’elaborazione e la spazializzazione del suono, sono tecniche sapientemente utilizzate per la creazione di una vitale, viscerale e diretta esperienza musicale. Nel corso della masterclass sarà descritta anche la realizzazione dell’opera HIDDEN, per quartetto d’archi ed elettronica, prodotta nel 2014 con Carlo Laurenzi presso l’IRCAM."
 
 2017-308:
-  nameone:
+  nameone: Carlo Laurenzi
   bioengone: ""
   bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
+  affil: IRCAM Paris
+  cat: CONF
+  titleeng: "Hidden. Composing sound and space of sound II"
+  titleita: "Hidden. Composing sound and space of sound II"
   performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-309:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-310:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-311:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-312:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-313:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-314:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-315:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-316:
-  nameone:
-  bioengone: "  "
-  bioitaone: " "
-  cat:
-  title: " "
-  year:
-  duration: " "
-  performers: no
-  programnotes: " "
-  programnotesita: " "
-
-2017-317:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-318:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-319:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
-
-2017-320:
-  nameone:
-  bioengone: ""
-  bioitaone: ""
-  cat: ACU
-  title: ""
-  year:
-  duration: ""
-  performers: no
-  programnotes: ""
-  programnotesita: " "
+  programnotes: "Sarà presentato il lavoro di ricerca, svolto presso IRCAM di Parigi, che si incentra sulla composizione e l’elaborazione dei suoni elettronici e strumentali nello spazio d’ascolto. La percezione spaziale del suono, intesa come parametro costruttivo musicale, al pari dei parametri di altezza, durata e intensità, sarà esaminata in funzione delle caratteristiche timbriche e delle tecnologie che ne permettono il trattamento compositivo."
+  programnotesita: "Sarà presentato il lavoro di ricerca, svolto presso IRCAM di Parigi, che si incentra sulla composizione e l’elaborazione dei suoni elettronici e strumentali nello spazio d’ascolto. La percezione spaziale del suono, intesa come parametro costruttivo musicale, al pari dei parametri di altezza, durata e intensità, sarà esaminata in funzione delle caratteristiche timbriche e delle tecnologie che ne permettono il trattamento compositivo."

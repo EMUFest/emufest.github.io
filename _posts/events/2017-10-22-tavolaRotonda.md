@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Masterclass Prova"
+title: "Tavola rotonda"
 excerpt: "Conference"
-date: 2017-10-22T09:30:00
+date: 2017-10-21T17:30:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
 comments: true
-modified: 2017-10-22T09:41:47
+modified: 2017-06-23T09:41:47
 share: true
 image:
   feature:
@@ -19,16 +19,14 @@ image:
 
 |  |  |
 |------------:|:------------|
-| Time: | **16:00** |
+| Time: | **17:30** |
 | Location: | ***Aula Bianchini*** |
-| Category: | **Conference** |
+| Category: | **Tavola rotonda** |
 |
 {: .alttable}
 
-#### {{ site.data.2017CONFERENCES.2017-302.nameone }}
+#####Introduzione di {{ site.data.2017CONFERENCES.2017-302.nameone }}
 
 ### {{ site.data.2017CONFERENCES.2017-302.titleeng }}
 
-{{ site.data.2017CONFERENCES.2017-302.titleeng }}
-
-After the conference: Acousmati Concert I, with Francesco Galante's compositions.
+{{ site.data.2017CONFERENCES.2017-302.programnotes }}
