@@ -3,6 +3,7 @@ layout: page
 title: "Concerto II"
 excerpt: "Concert"
 date: 2017-10-21T20:00:00
+eventdate: 2017-10-25T20:00:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
@@ -15,7 +16,7 @@ image:
   creditlink:
 ---
 
-### {{ page.date | date: '%B %d, %Y' }}
+### {{ page.eventdate | date: '%B %d, %Y' }}
 
 |  |  |
 |------------:|:------------|

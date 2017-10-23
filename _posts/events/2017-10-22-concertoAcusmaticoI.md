@@ -3,6 +3,7 @@ layout: page
 title: "Concerto Acusmatico I"
 excerpt: "Acousmatic Concert"
 date: 2017-10-21T16:45:00
+eventdate: 2017-10-23T17:30:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
@@ -15,7 +16,7 @@ image:
   creditlink:
 ---
 
-### {{ page.date | date: '%B %d, %Y' }}
+### {{ page.eventdate | date: '%B %d, %Y' }}
 
 |  |  |
 |------------:|:------------|
