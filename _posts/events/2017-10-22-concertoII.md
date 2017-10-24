@@ -22,9 +22,9 @@ image:
 |------------:|:------------|
 | Time: | **20:00** |
 | Location: | ***Sala Accademica*** |
-| Category: | **Live Elecctronics and Acousmatic** |
-| Duration: | **1h06'** |
-| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }} - {{ site.data.2016MUSICIANS.2016-712.nameone }}** |
+| Category: | **Live Electronics** |
+| Duration: | **55'** |
+| Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }}** |
 |
 | {{ site.data.2017COMMISSIONED.2017-211.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-211.title }}*** [_world premiere_] • {{ site.data.2017COMMISSIONED.2017-211.duration }} |
 |  | {{ site.data.2017COMMISSIONED.2017-211.performers }} |
@@ -39,15 +39,15 @@ image:
 | {{ site.data.2017COMMISSIONED.2017-214.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-214.title }}*** [_world premiere_] • {{ site.data.2017COMMISSIONED.2017-214.duration }} |
 |  | {{ site.data.2017COMMISSIONED.2017-214.performers }} |
 |
-|  *ensemble* | {{ site.data.2016MUSICIANS.2016-724.nameone }} |
+|  *ensemble* | {{ site.data.2017MUSICIANS.2017-704.nameone }} |
 |
-|  *soprano* | {{ site.data.2016MUSICIANS.2016-722.nameone }} |
-|  *mezzosoprano* | {{ site.data.2016MUSICIANS.2016-722.nameone }} |
-|  *flute* | {{ site.data.2016MUSICIANS.2016-722.nameone }} |
-|  *bass clarinet* | {{ site.data.2016MUSICIANS.2016-705.nameone }} |
-|  *piano* | {{ site.data.2016MUSICIANS.2016-733.nameone }} |
+|  *soprano* | {{ site.data.2017MUSICIANS.2017-715.nameone }} |
+|  *mezzosoprano* | {{ site.data.2017MUSICIANS.2017-711.nameone }} |
+|  *flute* | {{ site.data.2017MUSICIANS.2017-705.nameone }} |
+|  *bass clarinet* | {{ site.data.2017MUSICIANS.2017-701.nameone }} |
+|  *piano* | {{ site.data.2017MUSICIANS.2017-707.nameone }} |
 |
-|  *live electronics* |  {{ site.data.2016MUSICIANS.2016-720.nameone }} |
+|  *live electronics* |  {{ site.data.2017MUSICIANS.2017-714.nameone }} |
 {: .alttable}
 
 

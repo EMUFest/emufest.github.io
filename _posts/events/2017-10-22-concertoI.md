@@ -23,7 +23,7 @@ image:
 | Time: | **20:00** |
 | Location: | ***Sala Accademica*** |
 | Category: | **Live Elecctronics and Acousmatic** |
-| Duration: | **1h06'** |
+| Duration: | **1h03'** |
 | Sound Direction: | **{{ site.data.2016MUSICIANS.2016-707.nameone }} - {{ site.data.2016MUSICIANS.2016-712.nameone }}** |
 |
 | {{ site.data.2017COMMISSIONED.2017-206.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-206.title }}*** • {{ site.data.2017COMMISSIONED.2017-206.duration }} |
@@ -40,10 +40,10 @@ image:
 |  | {{ site.data.2017COMMISSIONED.2017-209.performers }} |
 |
 |  *SAXATILE4 [modulable sax ensemble]* | {{ site.data.2016MUSICIANS.2016-724.nameone }}, Danilo Perticaro, Alessandro Scalone, Maurizio Schifitto, Marzia Marianantoni, Giulia De Mico, Cristiano Cerroni, Francesco De Cicco |
-|  *flute* | {{ site.data.2016MUSICIANS.2016-722.nameone }} |
-|  *percussions* | {{ site.data.2016MUSICIANS.2016-705.nameone }} |
-|  *double bass* | {{ site.data.2016MUSICIANS.2016-733.nameone }} |
-|  *live electronics* |  {{ site.data.2016MUSICIANS.2016-720.nameone }}, {{ site.data.2016SELECTED.2016-020.nameone }} |
+|  *flute* | {{ site.data.2017MUSICIANS.2017-720.nameone }} |
+|  *percussions* | {{ site.data.2017MUSICIANS.2017-712.nameone }} |
+|  *double bass* | {{ site.data.2017MUSICIANS.2017-719.nameone }} |
+|  *live electronics* |  {{ site.data.2017SELECTED.2017-002.nameone }}, {{ site.data.2017MUSICIANS.2017-717.nameone }} |
 {: .alttable}
 
 

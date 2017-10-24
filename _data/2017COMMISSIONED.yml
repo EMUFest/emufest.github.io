@@ -103,8 +103,8 @@
  year: 1991
  duration: "12'00"
  performers: for saxophone ensemble
- programnotes: "Note singole in un intervallo di tempo flessibile per quattro sassofoni, o multipli di quattro. Le frequenze non suoneranno come scritto. L’intonazione è propria di ogni singolo musicista. Se il suono è duraturo, la dinamica è leggera. I suoni brevi hanno dinamica libera, anche lo sforzato se voluto, o il pianissimo."
- programnotesita: "Single tones in flexible time brackets for four saxophones or multiples thereof. The pitches do not sound as written. The inonation should be his own for each player. A unison will be a unison of differences. Sounds may be long or short. When they have duration the loudness should be soft. Very short sounds are free as to loudness, even *sfz* if wished or *ppp*."
+ programnotes: "Single tones in flexible time brackets for four saxophones or multiples thereof. The pitches do not sound as written. The inonation should be his own for each player. A unison will be a unison of differences. Sounds may be long or short. When they have duration the loudness should be soft. Very short sounds are free as to loudness, even *sfz* if wished or *ppp*."
+ programnotesita: "Note singole in un intervallo di tempo flessibile per quattro sassofoni, o multipli di quattro. Le frequenze non suoneranno come scritto. L’intonazione è propria di ogni singolo musicista. Se il suono è duraturo, la dinamica è leggera. I suoni brevi hanno dinamica libera, anche lo sforzato se voluto, o il pianissimo."
 
 2017-210:
  nameone: Jean-Claude Risset
@@ -116,7 +116,7 @@
  duration: "14'00"
  performers: pour saxophone ténor et bande magnétique
  programnotes: "is dedicated to saxophonist Daniel Kientzy, who developed special performance technique used in the piece.The soloist dialogues with a tape. The tape first echoes the soloist, multiplying his sound, but it also alters its way of playing, it warps it, as a wheel which does not go round (the word *Voilements* alludes to a veil or a sail, but is also means *buckles* or *warps*). The equal temperament tuning is eroded, the tension increases, up to a point where melodic lines get twisted into loops. Then, as if there were a zoom backwards, the pacific background for the gestures of the soloist, who uses various performance techniques.The tape was realized digitally in Marseille (Faculté des Sciences de Luminy et Laboratoire de Mecanique et d'Acoustique du CNRS). Sounds recorded by Daniel Kientzy have been transformed with the SYTER audioprocessor designed at INA-GRM by Jean-Francois Allouis. The tape also includes sounds synthesized in non real-time with the MUSIC V program, implemented on a IBM-PC compatible micro-computer: these sounds, however, have been specified in real time on MIDI keyboard; the MIDI code has been transcribed into MUSIC V code. These possibilities have been developed by Daniel Arfib, Frédéric Boyer, Pierre Dutilleux, Richard Kronland and Patrick Sanchez."
- programnotesita: " "
+ programnotesita: "Dedicato al sassofonista Daniel Kientzy che ha sviluppato le tecniche strumentali estese usate nella composizione. Il solista dialoga con l’elettronica su supporto. L’elettronica inizialmente fa da eco al solista, moltiplicandone il suono, ma alterando anche il modo di suonare, lo deforma, come  una ruota che non gira (la parola *Voilements* allude ad un velo o ad una vela, ma significa anche *fibbia* o *deformazione*).Il temperamento equabile viene eroso, la tensione cresce fino a un punto in cui le linee melodiche vengono trasformate in loop, quindi , come se ci fosse uno zoom all’indietro, in un tranquillo sfondo per i gesti del solista che usa varie tecniche di esecuzione. L’elettronica è stata realizzata digitalmente a Marsiglia (Faculté des Sciences de Luminy et Laboratoire de Mecanique et d'Acoustique du CNRS). I suoni registrati Daniel Kientzy sono stati trattati con il processore audio SYTER realizzato all’INA-GRM da Jean-Francois Allouis. Il nastro include anche suoni sintetizzati in tempo differito attraverso il software MusiC V, implementato su un micro-computer IBM-PC: le altezze di questi suoni, comunque, sono state impostate in tempo reale con una tastiera MIDI; il codice MIDI è stato trascritto in codice Music V. Queste tecnologie sono state sviluppate da Daniel Arfib, Frédéric Boyer, Pierre Dutilleux, Richard Kronland and Patrick Sanchez."
 
 2017-211:
  nameone: Lorenzo Pagliei
@@ -138,21 +138,33 @@
  title: "Theatrum Insectourm"
  year: 2017
  duration: "7'00"
- performers: for Bass Clarinet, Piano and Electronics
+ performers: for bass clarinet, piano and electronics
  programnotes: "is a work conceived as a dialectic between the organic world identified with the “human performers” and the mechanical one identified in the electronics; after setting them into motion, I let them interact driving the piece to a situation in which electronics and instruments have inverted their roles. The sound world that the piece builds is like a soundscape of a microscopic nature and the electronics, made up of internal feedback chains, is a kind of hidden mechanical entomology that comes up and faces the acoustic world of the instruments."
  programnotesita: "È un lavoro concepito sulla dialettica tra il mondo organico identificato dagli “esecutori umani” e quello prettamente meccanico identificato dall'elettronica; dopo averli messi in funzione ho lasciato che i due interagissero conducendo il pezzo ad un stadio tale in cui elettronica e strumenti invertono i loro ruoli. Il mondo sonoro che il pezzo va costruendo richiama il soundscape di una natura microscopica e l'elettronica, è costituita da catene di feedback interno, una sorta di nascosta entomologia meccanica che viene alla luce e affronta gli strumenti."
 
 2017-213:
  nameone: Roderik De Man
  bioengone: ""
- bioitaone: ""
+ bioitaone: "Compositore olandese, nato in Indonesia, si occupa di opere da camera, elettroacustica e multimedia,  eseguite in tutto il mondo. Ha studiato percussioni con Frans van der Kraan e teoria musicale presso il Conservatorio Koninklijk a Den Haag, successivamente  composizione con Kees van Baaren lavorando come studente nello studio di musica elettronica di Dick Raaijmakers. È stato premiato al Concours International de Musique Électroacoustique de Bourges (Deuxième Prix, 1991, per Chordis Canam, Deuxième Prix, 1999, per Air to Air, Premier Prix, 2005, per Cordes invisible , Euphonie d'Or, 2010 , per gli invisibili Cordes)"
  cat: LE
  title: "Yuxtaposiciones"
  year: 2008
  duration: "11'00"
- performers: no
- programnotes: ""
- programnotesita: " "
+ performers: for bass clarinet and electronics
+ programnotes: "In this solo piece for bass clarinettist Harry Sparnaay, the soloist is accompanied
+ by a pre-recorder ensemble of bass clarinets and contrabass clarinets and an electronic part.
+ Together they form a “band”. This part has two versions, one where the cd part is fixed and
+ one whereby the soloist has more freedom in timing and a
+ Max MSP patch makes it possible to trigger the separate parts with a pedal.
+ The title Yuxtaposiciones refers to the way soloist and electronic part function side by side - at
+ times the “band” supports at others it interlocks with the live performer.
+ The piece demands from the player to be very lyrical as well as a true virtuoso."
+ programnotesita: "In questo brano, dedicato al clarinettista Harry Sparnaay, il solista è accompagnato
+da un ensemble pre-registrato di clarinetti basso,clarinetti contrabbasso e di una parte elettronica.
+Insieme formano una *band*. Questa parte ha due versioni, una dove la parte cd è fissa e
+una per cui il solista ha più libertà nel tempo e tramite una path di max msp è  possibile innescare le parti separate con un pedale.
+Il titolo Yuxtaposiciones si riferisce al modo in cui solista e parte elettronica funzionano fianco a fianco dove il tempo della *band* sul supporto digitale si incastra con l'esecutore dal vivo.
+Il pezzo richiede al musicista di essere fortemente lirico e virtuoso."
 
 2017-214:
  nameone: Gene Coleman
@@ -162,14 +174,14 @@
  title: "Kokhlos IV"
  year: 2017
  duration: "9'00"
- performers: no
+ performers: for two singer, ensemble and electronics
  programnotes: "In recent years I have been creating compositions modeled on what I call *Auditory Neurological Architecture* (also know as *The Auditory Pathway of the Brain*). The series of works called *Kokhlos* (ancient Greek for *Spiral*) all explore models of of the inner ear. The Kokhlos series works are part of the new media opera *Dreamlives of Debris* with texts by the American writer Lance Olsen. The electronics in this work were realized by Adam Vidiksis and Gene Coleman for The Algo.Institute - a working platform for collaboration between science, art and technology."
  programnotesita: "Nei ultimi anni ha composto brani modellati su ciò che chiama *Architettura Neurologica dell’Ascolto* o anche *Percorso uditivo del cervello*. Questa serie di composizioni, intitolate *Kokhlos* (che in greco antico significa *spirale*), esplora i modelli di ascolto dell’orecchio interno umano. La serie Kohklos è parte della new-media opera  *Dreamlives of Debris* basata su testi dello scrittore americano Lance Olsen. L’elettronica di questo pezzo è stata composta da Adam Vidiksis e Gene Coleman per The Algo.Insitute – una piattaforma di lavoro e di interscambio tra scienza, arte e tecnologia."
 
 2017-215:
  nameone: Alessadndro Solbiati
  bioengone: ""
- bioitaone: ""
+ bioitaone: "Si è diplomato presso il Conservatorio di Milano in pianoforte con Eli Perrotta e in composizione con Sandro Gorli, dopo aver frequentato per due anni la Facoltà di Fisica. Contemporaneamente, ha studiato per quattro anni (1977-80) con Franco Donatoni all'Accademia Chigiana di Siena. Ha ricevuto commissioni dal Teatro alla Scala, dalla RAI, dal Ministero della Cultura francese, da Radio France, dall’Università di Parigi, dal Mozarteum, dal South Bank di Londra, dalla Fondazione Gulbenkian di Lisbona, dalla Biennale di Venezia, dal Festival Milano Musica, dal Teatro Comunale di Bologna, dalla Basilica di San Petronio per il VII Centenario della fondazione, dall'Orchestra Sinfonica G. Verdi di Milano."
  cat: ACU
  title: "Studio V"
  year: 2017
@@ -205,15 +217,16 @@ Dopo aver studiato Pianoforte, Composizione sperimentale, Lingue orientali e Mus
 
 2017-218:
  nameone: Olga Neuwirth
- bioengone: ""
- bioitaone: ""
+ bioengone: "Olga Neuwirth was born in Graz, Austria, in 1968. She studied at the Academy of Music in Vienna and the San Francisco Conservatory of Music. During her stay in the States she also attended an art college, where she studied painting and film. Her private teachers in composition included Adriana Hölszky, Tristan Murail and Luigi Nono. She first burst onto the international scene in 1991, at the age of 22, when two of her mini-operas were performed at the Wiener Festwochen. Ever since her works have been presented worldwide"
+ bioitaone: "Olga Neuwirth è nata a Graz, in Austria, nel 1968. Ha studiato all'Academy of Music di Vienna e al Conservatorio di Musica di San Francisco. Durante il suo soggiorno negli Stati Uniti ha anche frequentato un college d'arte, dove ha studiato pittura e film. I suoi insegnanti privati ​​in composizione comprendono Adriana Hölszky, Tristan Murail e Luigi Nono. È apparsa per la prima volta sulla scena internazionale nel 1991, all'età di 22 anni, quando due delle sue mini-opera sono state eseguite al Wiener Festwochen. Le sue opere sono state presentate in tutto il mondo"
  cat: ACU
  title: "Spleen III"
  year: 2001
  duration: "10'00"
  performers: for bariton sax solo
- programnotes: ""
- programnotesita: " "
+ programnotes: "Third part of the spleen cycle for sax Baritone, with first performance of May 2001 in Zurich. Excess and the grotesque have always formed the very foundation of Olga Neuwirth's musical reservoir. Down here, nothing is spared — not the composing individual, not the listener, not even the performer.
+ The composer already questioned about the party cycle with Spleen I for Basso Clarinet (1994) replies: *Nothing is to be said. I simply wish to say nothing about it.*"
+ programnotesita: "Terzo pezzo del ciclo spleen per sax Baritono, con prima esecuzione del Maggio del 2001 a Zurigo. L'eccesso e il grottesco hanno sempre costituito il fondamento stesso del servatoio musicale di Olga Neuwith. Qui, niente è risparmiato. non l'individuo compositore, non l'ascoltatore, e nemmemo l'esecutore. La compositrice già interrogata sul ciclo partito con Spleen I per clarinetto Basso (1994) risponde: *Non c'è Niente da dire, non voglio semplicemente dire nulla*"
 
 2017-219:
  nameone: Matej Bunderla
@@ -224,13 +237,13 @@ Dopo aver studiato Pianoforte, Composizione sperimentale, Lingue orientali e Mus
  year: 2017
  duration: "12'00"
  performers: no
- programnotes: ""
- programnotesita: " "
+ programnotes: "Barrytmic is an conceptual improvisation piece where the player try to combine extendet playing technics in to a polyrithmic structure."
+ programnotesita: "è un brano di improvvisazione concettuale dove il musicista prova a combinare tecniche musicali estese a una struttura poliritmica."
 
 2017-220:
  nameone: Simone Santi Gubini
- bioengone: ""
- bioitaone: ""
+ bioengone: "(1980*, Roma) ha studiato composizione, organo e pianoforte al Conservatorio Francesco Morlacchi di Perugia (2002-2007) e storia e tecniche della musica eletronica con Giorgio Notoli all ́Università degli Studi di Roma “Tor Vergata” (2000-2003). Ha frequentato Masterclass con Luciano Berio, Brice Pauset, Hans Werner Henze, Wolfgang Rihm, Helmut Lachenmann, Beat Furrer e Tristan Murail (2004-2007). Nell ́inverno del 2006 Simone Sant Gubini ha preso parte, come Artst in Residence, in Villa Medici, Roma, scrivendo il suo primo lavoro (Abstrakte Natur Lebendig, 2006) in un nuovo lessico musicale da lui elaborato nel saggio “Composizione a Part Uguali” (Vienna, 2011). NeIla primavera del 2010 gli viene commissionato un vasto lavoro per ensemble, voci e amplifcazione (Als Oben, 2010-2011) da parte dell ́ente Vatcano Unio Apostolatus Catholici, con prima esecuzione assoluta all ́Auditorium Parco della Musica (Marzo 2012). I suoi lavori sono pubblicat dalle edizioni Gallimard, Parigi e La Camera Verde, Roma. Atualmente sta scrivendo il secondo capitolo della sua azione scenica in 3D per ensemble amplifcato (»E«) ed un quarteto di percussionist e 27 percussioni amplifcate (Hyperklang), commissionato da Les Percussions de Strasbourg. Prima esecuzione assoluta Uluru, Australia, estate 2018. Simone Sant Gubini vive e lavora a Berlino."
+ bioitaone: "(1980*, Roma) ha studiato composizione, organo e pianoforte al Conservatorio Francesco Morlacchi di Perugia (2002-2007) e storia e tecniche della musica eletronica con Giorgio Notoli all ́Università degli Studi di Roma “Tor Vergata” (2000-2003). Ha frequentato Masterclass con Luciano Berio, Brice Pauset, Hans Werner Henze, Wolfgang Rihm, Helmut Lachenmann, Beat Furrer e Tristan Murail (2004-2007). Nell ́inverno del 2006 Simone Sant Gubini ha preso parte, come Artst in Residence, in Villa Medici, Roma, scrivendo il suo primo lavoro (Abstrakte Natur Lebendig, 2006) in un nuovo lessico musicale da lui elaborato nel saggio “Composizione a Part Uguali” (Vienna, 2011). NeIla primavera del 2010 gli viene commissionato un vasto lavoro per ensemble, voci e amplifcazione (Als Oben, 2010-2011) da parte dell ́ente Vatcano Unio Apostolatus Catholici, con prima esecuzione assoluta all ́Auditorium Parco della Musica (Marzo 2012). I suoi lavori sono pubblicat dalle edizioni Gallimard, Parigi e La Camera Verde, Roma. Atualmente sta scrivendo il secondo capitolo della sua azione scenica in 3D per ensemble amplifcato (»E«) ed un quarteto di percussionist e 27 percussioni amplifcate (Hyperklang), commissionato da Les Percussions de Strasbourg. Prima esecuzione assoluta Uluru, Australia, estate 2018. Simone Sant Gubini vive e lavora a Berlino."
  cat: ACU
  title: "Klangrelief (Relief II)"
  year: 2017
@@ -246,13 +259,14 @@ Forma che diviene articolazione, materia grezza torchiata, e ́ come affettare i
 L’ascoltare diventa quindi cercare, un’attiva, dinamica inesprimibilità, l’inafferrabilità del suono. Si ha come la sensazione di percorrere un vasto, illimitato territorio dinamico, estremamente astratto eppure naturale, gradualmente proprio. Una monumentalità la cui origine è composta di “polvere sonora” (ancora materia prima), un’immagine residua: ciò che risuona continuamente. L’espressività di una grumosa materia che si sedimenta nel senso di una memoria inconsistente, olfattiva quasi, antica e inattuale: il territorio estremo di una serenissima ambiguità. La “pelle della musica” e il rinnovamento dei materiali, degli attrezzi scelti, questo è ciò che interessa, insieme alla facoltà di vivere una musica nei nervi e nelle viscere che l’hanno creata."
 
 2017-221:
- nameone: Chaya
- bioengone: ""
+ nameone: Chaya Czernowin
+ bioengone: "Di origine Israeliana vive e lavora negli USA. A 25 anni riceve una borsa dal DAAD per studiare in Germania a Berlino e successivamente a Stoccarda e a Vienna, negli Stati Uniti e  a Tokyo in Giappone. Prima donna ad essere nominata Docente di Composizione all’Università di Musica e Arti Performative di Vienna, Austria (2006 – 2009) e all’Università di Harvard (2009 in poi). La sua produzione include musica da camera e orchestrale, con e senza elettronica. I suoi lavori sono eseguiti in tutto il mondo dai migliori interpreti e in importanti festival di musica contemporanea. Ha ricevuto numerosi premi e riconoscimenti, tra i più importanti:  Composer Unesco Rostrum 1980; Darmstadt Ferienkurse; IRCAM (Parigi); Fondazione Siemens (’03); Fondazione Rockefeller (’04); Fondazione Fromm (’09); Fondazione Guggenheim (’11). La sua musica è edita dalla Casa editrice Schott."
  bioitaone: ""
- cat: ACU
- title: "Barrytmic"
- year: 2017
- duration: "12'00"
- performers: no
- programnotes: ""
- programnotesita: " "
+ cat: LE
+ title: "HIDDEN"
+ year: 2014
+ duration: "50'00"
+ performers: quartet and electronics
+ programnotes: "HIDDEN is an attempt to get at what is hidden underneath expression or underneath music. It attempts to reach even further where there is a barely audible presence, which is on the edge of our perception. We do not know this presence, and it might be foreign, undecipherable. HIDDEN is a very slow moving 45 minute experience transforming the ear into an eye. The ear is given space and time to observe and orient itself in the unpredictable aural landscape. It is an underwarter, submerged landscape of rocks, inhabited by low vibrations which are felt rather than heard and with layers and layers of peeling away fog. Monolithic groups of sonic ‘rocks’ are seen/ heard from various angles. The piece is about observation; it tries to trace/ perceive/sense the emergence of expression. Chaya Czernowin"
+ programnotesita: "È un tentativo di arrivare a ciò che è nascosto al di sotto dell’espressività o della musica. La composizione è un tentativo di spingersi fino al punto in si ha solo una presenza appena udibile, al limite della percezione umana. Non conosciamo questa presenza e potrebbe risultarci estranea, indecifrabile. HIDDEN e un’esperienza di 45 minuti in cui con una lenta evoluzione l’orecchio viene trasformato in occhio. All’orecchio è dato il tempo e il modo di di osservare e orientarsi nel imprevedibile ambientazione sonora. È un paesaggio subacqueo, formato da rocce sommerse, abitato da vibrazioni gravi che sono percepite più che ascoltate circondate da strati e strati di nebbia che si dissipano. Blocchi monolitici di ‘rocce  sonore’ sono osservati/ascoltati da diverse prospettive.
+La composizione si basa sull’osservazione; prova a rintracciare e percepire l’emergere dell’espressività."

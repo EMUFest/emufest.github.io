@@ -31,3 +31,7 @@ image:
 ### {{ site.data.2017CONFERENCES.2017-303.titleeng }}
 
 {{ site.data.2017CONFERENCES.2017-303.programnotes }}
+
+
+---
+Event with ArteScienza2017 made with CRM-Centro Ricerche Musicali

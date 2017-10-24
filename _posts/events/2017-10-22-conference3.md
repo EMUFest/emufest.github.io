@@ -32,7 +32,7 @@ image:
 
 {{ site.data.2017CONFERENCES.2017-304.programnotes }}
 
-Conclude il sassofonista *{{ site.data.2016MUSICIANS.2016-722.nameone }}* eseguendo
+
 
 | {{ site.data.2017COMMISSIONED.2017-210.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-210.title }}*** • {{ site.data.2017COMMISSIONED.2017-210.duration }} |
 |  | {{ site.data.2017COMMISSIONED.2017-210.performers }} |
