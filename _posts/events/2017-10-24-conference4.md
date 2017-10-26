@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Masterclass II"
+title: "Masterclass IV"
 excerpt: "Conference"
-date: 2017-10-22T10:00:00
-eventdate: 2017-10-24T10:00:00
+date: 2017-10-24T09:30:00
+eventdate: 2017-10-26T09:30:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
@@ -20,18 +20,18 @@ image:
 
 |  |  |
 |------------:|:------------|
-| Time: | **10:00** |
+| Time: | **09:30** |
 | Location: | ***Aula Bianchini*** |
 | Category: | **Conference** |
 |
 {: .alttable}
 
-#### {{ site.data.2017CONFERENCES.2017-303.nameone }}
-Sientific Director INA-GRM (Paris)
+#### {{ site.data.2017CONFERENCES.2017-305.nameone }}
+Scientific Director of GRAME - CNCM (Lyon)
 
-### {{ site.data.2017CONFERENCES.2017-303.titleeng }}
+### {{ site.data.2017CONFERENCES.2017-305.titleeng }}
 
-{{ site.data.2017CONFERENCES.2017-303.programnotes }}
+{{ site.data.2017CONFERENCES.2017-305.programnotes }}
 
 
 ---

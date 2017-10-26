@@ -2,7 +2,7 @@
 layout: page
 title: "Masterclass III"
 excerpt: "Conference"
-date: 2017-10-22T10:00:00
+date: 2017-10-23T10:00:00
 eventdate: 2017-10-25T10:00:00
 categories: events
 tags: [emufest, emufest, 2017]
@@ -27,6 +27,7 @@ image:
 {: .alttable}
 
 #### {{ site.data.2017CONFERENCES.2017-304.nameone }}
+Professor at Conservatorio Santa Cecilia (Roma)
 
 ### {{ site.data.2017CONFERENCES.2017-304.titleeng }}
 

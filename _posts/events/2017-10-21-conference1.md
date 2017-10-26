@@ -27,6 +27,7 @@ image:
 {: .alttable}
 
 #### {{ site.data.2017CONFERENCES.2017-301.nameone }}
+Professor at Conservatorio Stanislao Giacomantonio (Cosenza)
 
 ### {{ site.data.2017CONFERENCES.2017-301.titleeng }}
 

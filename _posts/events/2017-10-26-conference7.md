@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Masterclass II"
+title: "Masterclass VII"
 excerpt: "Conference"
-date: 2017-10-22T10:00:00
-eventdate: 2017-10-24T10:00:00
+date: 2017-10-26T03:00:00
+eventdate: 2017-10-28T10:00:00
 categories: events
 tags: [emufest, emufest, 2017]
 author:
@@ -26,12 +26,12 @@ image:
 |
 {: .alttable}
 
-#### {{ site.data.2017CONFERENCES.2017-303.nameone }}
-Sientific Director INA-GRM (Paris)
+#### {{ site.data.2017CONFERENCES.2017-308.nameone }}
+Computer Music Specialist at IRCAM (Paris)
 
-### {{ site.data.2017CONFERENCES.2017-303.titleeng }}
+### {{ site.data.2017CONFERENCES.2017-308.titleeng }}
 
-{{ site.data.2017CONFERENCES.2017-303.programnotes }}
+{{ site.data.2017CONFERENCES.2017-308.programnotes }}
 
 
 ---

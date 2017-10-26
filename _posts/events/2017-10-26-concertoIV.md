@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Concerto IV"
+title: "Concerto IV - HIDDEN"
 excerpt: "Concert"
-date: 2017-10-21T20:00:00
+date: 2017-10-26T04:00:00
 eventdate: 2017-10-28T20:30:00
 categories: events
 tags: [emufest, emufest, 2017]

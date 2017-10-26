@@ -2,7 +2,7 @@
 layout: page
 title: "Concerto II"
 excerpt: "Concert"
-date: 2017-10-21T20:00:00
+date: 2017-10-23T20:00:00
 eventdate: 2017-10-25T20:00:00
 categories: events
 tags: [emufest, emufest, 2017]
@@ -28,7 +28,7 @@ image:
 |
 | {{ site.data.2017COMMISSIONED.2017-211.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-211.title }}*** [_world premiere_] • {{ site.data.2017COMMISSIONED.2017-211.duration }} |
 |  | {{ site.data.2017COMMISSIONED.2017-211.performers }} |
-| {{ site.data.2017SELECTED.2017-013.nameone }} | ***{{ site.data.2017SELECTED.2017-013.title }}*** • {{ site.data.2017SELECTED.2017-013.duration }} |
+| {{ site.data.2017SELECTED.2017-013.nameone }} | ***{{ site.data.2017SELECTED.2017-013.title }}*** [_italian premiere_] • {{ site.data.2017SELECTED.2017-013.duration }} |
 |  | {{ site.data.2017SELECTED.2017-013.performers }} |
 | {{ site.data.2017COMMISSIONED.2017-212.nameone }} | ***{{ site.data.2017COMMISSIONED.2017-212.title }}*** • {{ site.data.2017COMMISSIONED.2017-212.duration }} |
 |  | {{ site.data.2017COMMISSIONED.2017-212.performers }} |
@@ -47,7 +47,7 @@ image:
 |  *bass clarinet* | {{ site.data.2017MUSICIANS.2017-701.nameone }} |
 |  *piano* | {{ site.data.2017MUSICIANS.2017-707.nameone }} |
 |
-|  *live electronics* |  {{ site.data.2017MUSICIANS.2017-714.nameone }} |
+|  *live electronics* |  {{ site.data.2017MUSICIANS.2017-706.nameone }} |
 {: .alttable}
 
 

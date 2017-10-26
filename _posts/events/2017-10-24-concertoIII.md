@@ -2,7 +2,7 @@
 layout: page
 title: "Concerto III"
 excerpt: "Concert"
-date: 2017-10-21T20:00:00
+date: 2017-10-24T20:00:00
 eventdate: 2017-10-26T20:00:00
 categories: events
 tags: [emufest, emufest, 2017]
@@ -59,4 +59,15 @@ image:
 
 ***{{ site.data.2017COMMISSIONED.2017-219.title }}*** [{{ site.data.2017COMMISSIONED.2017-219.year }}] {{ site.data.2017COMMISSIONED.2017-219.programnotes }}
 
-***{{ site.data.2017COMMISSIONED.2017-220.title }}*** [{{ site.data.2017COMMISSIONED.2017-220.year }}] {{ site.data.2017COMMISSIONED.2017-220.programnotes }}
+***{{ site.data.2017COMMISSIONED.2017-220.title }}*** [{{ site.data.2017COMMISSIONED.2017-220.year }}]
+
+> làmina frangia intaglio, che riduce, c ́è, non cessa - pàtina polvere, passi, avvolgere, dando (...) Giuliano Mesa
+<div style="text-align: right">*fuga tripla*, da *nun*, 11-10-2002</div>
+
+> IL SUONO È IN FIAMME
+<div style="text-align: right">Simone Santi Gubini (Amburgo, 2015)</div>
+
+> C'è qualcosa di pagano in me da cui non posso liberarmi. In breve, non nego nulla, ma dubito di tutto.
+<div style="text-align: right">Lord Byron (1820)(Amburgo, 2015)</div>
+
+{{ site.data.2017COMMISSIONED.2017-220.programnotes }}

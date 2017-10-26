@@ -2,7 +2,7 @@
 layout: page
 title: "Concerto Acusmatico II"
 excerpt: "Acousmatic Concert"
-date: 2017-10-22T18:00:00
+date: 2017-10-23T18:00:00
 eventdate: 2017-10-24T18:00:00
 categories: events
 tags: [emufest, emufest, 2017]
