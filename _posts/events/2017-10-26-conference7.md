@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Masterclass VII"
+title: "Masterclass VII • HIDDEN. Composing sound and space of sound II"
 excerpt: "Conference"
 date: 2017-10-26T03:00:00
 eventdate: 2017-10-28T10:00:00

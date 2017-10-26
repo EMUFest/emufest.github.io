@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Masterclass IV"
+title: "Masterclass IV • Il linguaggio Faust per la composizione musicale"
 excerpt: "Conference"
 date: 2017-10-24T09:30:00
 eventdate: 2017-10-26T09:30:00

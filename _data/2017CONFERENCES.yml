@@ -54,7 +54,7 @@
   affil: "GRAME Lyon"
   cat: CONF
   titleeng: "Il linguaggio Faust per la composizione musicale"
-  titleita: "Il linguaggio Eaust per la composizione musicale"
+  titleita: "Il linguaggio Faust per la composizione musicale"
   performers: no
   programnotes: "Faust è un linguaggio di programmazione appositamente progettato per descrivere processi di sintesi e di elaborazione del suono. Faust può essere utilizzato per progettare strumenti musicali elettronici su una vasta gamma di piattaforme, dai pedali di effetti alle applicazioni audio per il web o smartphone. L'obiettivo dell'intervento è di presentare Faust e il suo ecosistema in modo semplice e accessibile."
   programnotesita: "Faust è un linguaggio di programmazione appositamente progettato per descrivere processi di sintesi e di elaborazione del suono. Faust può essere utilizzato per progettare strumenti musicali elettronici su una vasta gamma di piattaforme, dai pedali di effetti alle applicazioni audio per il web o smartphone. L'obiettivo dell'intervento è di presentare Faust e il suo ecosistema in modo semplice e accessibile."

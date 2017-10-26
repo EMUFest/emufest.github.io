@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Masterclass III"
+title: "Masterclass III • Jean-Claude Risset. Metafore e archetipi del linguaggio elettroacustico"
 excerpt: "Conference"
 date: 2017-10-23T10:00:00
 eventdate: 2017-10-25T10:00:00

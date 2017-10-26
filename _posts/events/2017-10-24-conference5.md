@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Masterclass V"
+title: "Masterclass V • Shock e Ambiguità musicale - tecniche di un suono liberato"
 excerpt: "Conference"
 date: 2017-10-24T15:00:00
 eventdate: 2017-10-26T15:00:00

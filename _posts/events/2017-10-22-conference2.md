@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Masterclass II"
+title: "Masterclass II • GRM Tools e la spazializzazione"
 excerpt: "Conference"
 date: 2017-10-22T10:00:00
 eventdate: 2017-10-24T10:00:00
